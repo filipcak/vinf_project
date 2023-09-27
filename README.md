@@ -1,2 +1,4 @@
-# vinf_project
+# VINF project
+
+Seminar project for VINF course.
  

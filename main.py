@@ -56,7 +56,8 @@ def download_and_store(url, visited_pages, initial_url, max_urls, found_pages):
                     visited_pages.add(url)
 
                     # Use regular expressions to find links with "race" in href attribute
-                    url_pattern = re.compile(r'href=["\'](race/[^\s"\'<>]*)')
+                    url_pattern = re.compile(r'href=["\'](race/[^\s"\'<>]+/[\d]+/result|race/[^\s"\'<>]+/[\d]+/gc'
+                                             r'|race/[^\s"\'<>]+/[\d]+/stage-[\d])')
                     matched_urls = url_pattern.findall(webpage_content)
 
                     # Add matched URLs to the queue for further processing
@@ -74,7 +75,7 @@ def download_and_store(url, visited_pages, initial_url, max_urls, found_pages):
 def run():
     # Initial URL to visit
     initial_url = 'https://procyclingstats.com/'
-    max_urls = 5000
+    max_urls = 1000
 
     try:
         with open('visited_urls.json', 'r', encoding='utf-8') as json_file:
@@ -90,7 +91,7 @@ def run():
         found_pages = set()
 
     # Start downloading and storing pages from the initial URL, limiting to 5 URLs
-    download_and_store(initial_url, visited_pages, initial_url, max_urls, found_pages)
+    download_and_store('https://www.procyclingstats.com/', visited_pages, initial_url, max_urls, found_pages)
 
     # Store the visited URLs in a JSON file
     with open('visited_urls.json', 'w', encoding='utf-8') as json_file:

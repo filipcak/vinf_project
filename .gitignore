@@ -13,6 +13,7 @@ __pycache__/
 data
 data_1
 data_test
+test_data
 build/
 develop-eggs/
 dist/

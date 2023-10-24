@@ -15,13 +15,16 @@
     "howWon" : "<div>Won how:\\s*</div>\\s*<div>([^<]+)",
     "avgTemperature" : "<div>Avg. temperature:</div>\\s*<div><a[^>]*>(\\d+ °C)",
     "winnerTime" : "<td class=\"time ar\"\\s*>(\\d+:\\d+:\\d+)",
-    "namePlace" : "\"><td>placeholder</td>[\\s\\S]*?<a href=\"rider\\/[^\"]+\">([^<]+)",
-    "teamPlace" : "\"><td>placeholder</td>[\\s\\S]*?<a href=\"team/[^\"]+\">([^<]+)",
+    "nameRider" : "\"><td>placeholder</td>[\\s\\S]*?<a href=\"rider\\/[^\"]+\">([^<]+)",
+    "teamRider" : "\"><td>placeholder</td>[\\s\\S]*?<a href=\"team/[^\"]+\">([^<]+)",
+    "flagRider" : "\"><td>placeholder</td>[\\s\\S]*?<span class=\"flag ([a-zA-Z]+)\">",
+    "bibNumberRider" : "\"><td>placeholder</td>[\\s\\S]*?<td class=\"bibs hide\" >([0-9]+)</td>",
     "comment" : "is stage is returning stage number",
-    "isStage" : "<title>.*?Stage (\\d+).*?</title>",
+    "stageNumber" : "<title>.*?(Stage \\d+).*?</title>",
     "stage" : {
-        "namePlace" : "<td>placeholder</td><td class=\"gc hide\" >[\\s\\S]*?<a href=\"rider\\/[^\"]+\">([^<]+)",
-        "teamPlace" : "<td>placeholder</td><td class=\"gc hide\" >[\\s\\S]*?<a href=\"team/[^\"]+\">([^<]+)"
+        "nameRider" : "<td>placeholder</td><td class=\"gc hide\" >[\\s\\S]*?<a href=\"rider\\/[^\"]+\">([^<]+)",
+        "teamRider" : "<td>placeholder</td><td class=\"gc hide\" >[\\s\\S]*?<a href=\"team/[^\"]+\">([^<]+)",
+        "flagRider" : "<td>placeholder</td><td class=\"gc hide\" >[\\s\\S]*?<span class=\"flag ([a-zA-Z]+)\">",
+        "bibNumberRider" : "<td>placeholder</td><td class=\"gc hide\" >[\\s\\S]*?<td class=\"bibs hide\" >([0-9]+)</td>"
     }
-
 }

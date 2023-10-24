@@ -1,4 +1,27 @@
 {
-  "title": "<title>(.*?)<\\/title>\n",
-  "test": "test"
+    "title": "<title>(.*?)\\s\\d{4}",
+    "year": "<title>.*?(\\d{4})",
+    "date": "<div>Date:</div>\\s*<div>(.*?)</div>",
+    "startTime": "<div>Start time:</div>\\s*<div>(\\d{2}:\\d{2})",
+    "avgSpeed" : "<div>Avg\\. speed winner:</div>\\s*<div>([\\d.]+ km/h)",
+    "distance" : "<div>Distance:\\s*</div>\\s*<div>([\\d.]+ km)",
+    "raceCategory" : "<div>Race category:</div>\\s*<div>([A-Z]{2})",
+    "profileScore" : "<div>ProfileScore:\\s*</div>\\s*<div>(\\d+)",
+    "verticalMeters" : "<div>Vert\\. meters:</div>\\s*<div>(\\d+)",
+    "departure" : "<div>Departure:</div>\\s*<div><a\\s+href=\"[^\"]+\">([^<]+)</a>",
+    "arrival" : "<div>Arrival:</div>\\s*<div><a[^>]*>([^<]+)",
+    "raceRanking" : "<div>Race ranking:</div>\\s*<div><a[^>]*>(\\d+)",
+    "startlistScore" : "<div>Startlist quality score:</div>\\s*<div><a\\s*href=\"[^\"]+\">(\\d+)",
+    "howWon" : "<div>Won how:\\s*</div>\\s*<div>([^<]+)",
+    "avgTemperature" : "<div>Avg. temperature:</div>\\s*<div><a[^>]*>(\\d+ °C)",
+    "winnerTime" : "<td class=\"time ar\"\\s*>(\\d+:\\d+:\\d+)",
+    "namePlace" : "\"><td>placeholder</td>[\\s\\S]*?<a href=\"rider\\/[^\"]+\">([^<]+)",
+    "teamPlace" : "\"><td>placeholder</td>[\\s\\S]*?<a href=\"team/[^\"]+\">([^<]+)",
+    "comment" : "is stage is returning stage number",
+    "isStage" : "<title>.*?Stage (\\d+).*?</title>",
+    "stage" : {
+        "namePlace" : "<td>placeholder</td><td class=\"gc hide\" >[\\s\\S]*?<a href=\"rider\\/[^\"]+\">([^<]+)",
+        "teamPlace" : "<td>placeholder</td><td class=\"gc hide\" >[\\s\\S]*?<a href=\"team/[^\"]+\">([^<]+)"
+    }
+
 }

@@ -1,0 +1,294 @@
+<!DOCTYPE HTML><html><head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35889790-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'GA_MEASUREMENT_ID', {
+	  'linker': {
+	    'domains': ['cx.procyclingstats.com','procyclingstats.com']
+	  }
+	});
+
+  gtag('config', 'UA-35889790-1');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2MNJ20S7SJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2MNJ20S7SJ');
+</script>
+<title>Tirreno-Adriatico 1987 Stage 6 (ITT) results</title>
+<base href="https://www.procyclingstats.com/race.php" />
+<link rel="canonical" href="https://www.procyclingstats.com/race/tirreno-adriatico/1987/stage-6" />
+<script>
+    var r89 = r89 || {
+      callAds: [],
+      pushAd: function(id, name, config) { r89.callAds.push([id, name, config]); }
+    };
+</script>
+<script async src="https://tags.refinery89.com/v2/procyclingstats.js"></script><meta name="description" content="Rolf Sørensen is the winner of Tirreno-Adriatico 1987, before Giuseppe Calcaterra and Tony Rominger. Rolf Sørensen is the winner of the final stage.">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="utf-8"> 
+<meta name="facebook-domain-verification" content="tjwn3jyjupm0t1j8e0sgis3c80x88r" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<base href="race.php" />
+	<link rel="stylesheet" type="text/css" href="https://www.procyclingstats.com/pcs_a189.css" />
+	
+<script src="https://www.procyclingstats.com/pcs_s78.js"></script> 
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css"> 
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.procyclingstats.com/images/pcs-logos/icon3/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-16x16.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon.ico" />
+ 
+</head>
+<body>
+<div class="wrapper">
+  <header class="">
+    <div class="cont">
+    	<a  class="logo" href="index.php"></a>
+  
+    	<form action="search.php" class="msearch"><input type="hidden"  id="term" />
+    		<input type="text" name="term" id="search" data-nav="race/-id-/result" data-nav2="" data-page="race" class="search4"  placeholder="search"  /></form> 
+    	<div class="menuCont">
+      	<a class="mobMenu" href="">Menu&#x25BC;</a>
+				<ul class="nav_v4 default"><li class=" "><a class="reg" href="index.php">Home</a></li>
+<li class="more4 "><a class="reg" href="races.php">Races</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">La Vuelta ciclista a España</a></li>
+<li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/milano-sanremo">Milano-Sanremo</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/paris-nice">Paris - Nice</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/volta-a-catalunya">Volta Ciclista a Catalunya</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/ronde-van-vlaanderen">Tour des Flandres</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem in Flanders Fields</a></li>
+<li><a href="race/san-sebastian">Clásica Ciclista San Sebastián</a></li>
+</ul></li>
+<li class="more4 "><a class="reg" href="teams.php">Teams</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="team/intermarche-circus-wanty-2023">Intermarché - Circus - Wanty </a></li>
+<li><a href="team/ineos-grenadiers-2023">INEOS Grenadiers</a></li>
+<li><a href="team/groupama-fdj-2023">Groupama - FDJ</a></li>
+<li><a href="team/ef-education-easypost-2023">EF Education-EasyPost</a></li>
+<li><a href="team/cofidis-2023">Cofidis </a></li>
+<li><a href="team/bora-hansgrohe-2023">BORA - hansgrohe</a></li>
+<li><a href="team/bahrain-victorious-2023">Bahrain - Victorious</a></li>
+<li><a href="team/astana-qazaqstan-team-2023">Astana Qazaqstan Team</a></li>
+<li><a href="team/team-jumbo-visma-2023">Jumbo-Visma</a></li>
+<li><a href="team/movistar-team-2023">Movistar Team</a></li>
+<li><a href="team/soudal-quick-step-2023">Soudal - Quick Step</a></li>
+<li><a href="team/team-arkea-samsic-2023">Team Arkéa Samsic</a></li>
+<li><a href="team/team-jayco-alula-2023">Team Jayco AlUla</a></li>
+<li><a href="team/team-dsm-2023">Team DSM</a></li>
+<li><a href="team/trek-segafredo-2023">Trek - Segafredo</a></li>
+<li><a href="team/uae-team-emirates-2023">UAE Team Emirates</a></li>
+<li><a href="team/alpecin-deceuninck-2023">Alpecin-Deceuninck</a></li>
+<li><a href="team/ag2r-citroen-team-2023">AG2R Citroën Team</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="rankings.php">Rankings</a></li>
+<li class="more4 "><a class="reg" href="statistics.php">Statistics</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="statistics">Overview</a></li>
+<li><a href="statistics/riders">Riders</a></li>
+<li><a href="statistics/teams">Teams</a></li>
+<li><a href="statistics/grandtours">Grand tours</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="game.php">Game</a></li>
+<li class="more4 "><a class="reg" href="riders.php">More</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="riders">Riders</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/countdown-to-1-billion-pageviews">Countdown to 2 billion pageviews</a></li>
+<li><a href="favorite500.php">Favorite500</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/about-us">About us</a></li>
+<li><a href="info/profile-score-explained">Profile Score</a></li>
+<li><a href="info/tutorials">Tutorials</a></li>
+</ul></li>
+<li class="more4 pro"><a class="reg" href="premium.php">Pro</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="">Dashboard</a></li>
+<li><a href="">Lists</a></li>
+</ul></li>
+ 
+				 </ul> 
+			 </div>
+			 <a class="user4" data-logged="0" href="account.php"><span>&#10070;</span><font class="hideIfMobile">login</font></a><a class="settings4 " href="settings.php"><span>&#10033;</span><font>settings</font></a>    </div>
+  </header>  
+<div class="content   "> <div class="page-topnav "><div class="pageDDnavCont"><div class="pageSelectNav " ><a   href="race/tirreno-adriatico/1986/gc" >1986</a><div ><form style="  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/tirreno-adriatico/2024/gc" >2024</option><option value="race/tirreno-adriatico/2023/gc" >2023</option><option value="race/tirreno-adriatico/2022/gc" >2022</option><option value="race/tirreno-adriatico/2021/gc" >2021</option><option value="race/tirreno-adriatico/2020/gc" >2020</option><option value="race/tirreno-adriatico/2019/gc" >2019</option><option value="race/tirreno-adriatico/2018/gc" >2018</option><option value="race/tirreno-adriatico/2017/gc" >2017</option><option value="race/tirreno-adriatico/2016/gc" >2016</option><option value="race/tirreno-adriatico/2015/gc" >2015</option><option value="race/tirreno-adriatico/2014/gc" >2014</option><option value="race/tirreno-adriatico/2013/gc" >2013</option><option value="race/tirreno-adriatico/2012/gc" >2012</option><option value="race/tirreno-adriatico/2011/gc" >2011</option><option value="race/tirreno-adriatico/2010/gc" >2010</option><option value="race/tirreno-adriatico/2009/gc" >2009</option><option value="race/tirreno-adriatico/2008/gc" >2008</option><option value="race/tirreno-adriatico/2007/gc" >2007</option><option value="race/tirreno-adriatico/2006/gc" >2006</option><option value="race/tirreno-adriatico/2005/gc" >2005</option><option value="race/tirreno-adriatico/2004/gc" >2004</option><option value="race/tirreno-adriatico/2003/gc" >2003</option><option value="race/tirreno-adriatico/2002/gc" >2002</option><option value="race/tirreno-adriatico/2001/gc" >2001</option><option value="race/tirreno-adriatico/2000/gc" >2000</option><option value="race/tirreno-adriatico/1999/gc" >1999</option><option value="race/tirreno-adriatico/1998/gc" >1998</option><option value="race/tirreno-adriatico/1997/gc" >1997</option><option value="race/tirreno-adriatico/1996/gc" >1996</option><option value="race/tirreno-adriatico/1995/gc" >1995</option><option value="race/tirreno-adriatico/1994/gc" >1994</option><option value="race/tirreno-adriatico/1993/gc" >1993</option><option value="race/tirreno-adriatico/1992/gc" >1992</option><option value="race/tirreno-adriatico/1991/gc" >1991</option><option value="race/tirreno-adriatico/1990/gc" >1990</option><option value="race/tirreno-adriatico/1989/gc" >1989</option><option value="race/tirreno-adriatico/1988/gc" >1988</option><option value="race/tirreno-adriatico/1987/gc" selected>1987</option><option value="race/tirreno-adriatico/1986/gc" >1986</option><option value="race/tirreno-adriatico/1985/gc" >1985</option><option value="race/tirreno-adriatico/1984/gc" >1984</option><option value="race/tirreno-adriatico/1983/gc" >1983</option><option value="race/tirreno-adriatico/1982/gc" >1982</option><option value="race/tirreno-adriatico/1981/gc" >1981</option><option value="race/tirreno-adriatico/1980/gc" >1980</option><option value="race/tirreno-adriatico/1979/gc" >1979</option><option value="race/tirreno-adriatico/1978/gc" >1978</option><option value="race/tirreno-adriatico/1977/gc" >1977</option><option value="race/tirreno-adriatico/1976/gc" >1976</option><option value="race/tirreno-adriatico/1975/gc" >1975</option><option value="race/tirreno-adriatico/1974/gc" >1974</option><option value="race/tirreno-adriatico/1973/gc" >1973</option><option value="race/tirreno-adriatico/1972/gc" >1972</option><option value="race/tirreno-adriatico/1971/gc" >1971</option><option value="race/tirreno-adriatico/1970/gc" >1970</option><option value="race/tirreno-adriatico/1969/gc" >1969</option><option value="race/tirreno-adriatico/1968/gc" >1968</option><option value="race/tirreno-adriatico/1967/gc" >1967</option><option value="race/tirreno-adriatico/1966/gc" >1966</option></select></form></div><a  href="race/tirreno-adriatico/1988/gc" >1988</a></div><div class="pageSelectNav " ><a   href="race/tirreno-adriatico/1987/stage-5" >&laquo;</a><div ><form style="  max-width: 250px; width: 100%;  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/tirreno-adriatico/1987/prologue" >Prologue | Latina-Latina</option><option value="race/tirreno-adriatico/1987/stage-1" >Stage 1 | Latina-Arpino</option><option value="race/tirreno-adriatico/1987/stage-2" >Stage 2 | Arpino-Paglieta</option><option value="race/tirreno-adriatico/1987/stage-3" >Stage 3 | Paglieta-Porto Recanati</option><option value="race/tirreno-adriatico/1987/stage-4" >Stage 4 | Porto Recanati-Fermo</option><option value="race/tirreno-adriatico/1987/stage-5" >Stage 5 | Grottammare-Montepradone</option><option value="race/tirreno-adriatico/1987/stage-6" selected>Stage 6 (ITT) | San Benedetto del Tronto -San Benedetto del Tronto </option><option value="race/tirreno-adriatico/1987/gc" >Final GC</option></select></form></div><a  href="race/tirreno-adriatico/1987/gc" >&raquo;</a></div></div><ul class="pagenavLinks"><li class="reg "><a class="cur" href="race/tirreno-adriatico/1987/stage-6">Results</a></li>
+<li class="reg "><a style=" " href="race/tirreno-adriatico/1987/startlist">Startlist</a><ul><li><a href="race/tirreno-adriatico/1987/startlist">Startlist</a></li><li><a href="race/tirreno-adriatico/1987/results">Stage winners</a></li><li><a href="race/tirreno-adriatico/1987/route/stage-profiles">All stage profiles</a></li><li><a href="race/tirreno-adriatico/results">Race palmares</a></li></ul></li><li class="reg "><a class="" href="race/tirreno-adriatico/1987/stage-6/info">Info&#x25BC;</a><ul><li><a href="race/tirreno-adriatico/1987/stage-6/info/complementary-results">Complementary results</a></li>
+<li><a href="race/tirreno-adriatico/1987/stage-6/info/photos">Finish photo</a></li>
+<li><a href="race/tirreno-adriatico/1987/stage-6/info/profiles">Profiles</a></li>
+<li><a href="race/tirreno-adriatico/1987/stage-6/info/time-table">Time table</a></li>
+</ul></li>
+<li class="reg "><a class="" href="race/tirreno-adriatico/1987/stage-6/live">Live</a></li>
+<li class="reg "><a class="" href="race/tirreno-adriatico/1987/stage-6/game">Game</a></li>
+<li class="reg "><a class="" href="race/tirreno-adriatico/1987/stage-6/statistics">Stats</a></li>
+<li class="reg "><a class="" href="race/tirreno-adriatico/1987/stage-6/more">More&#x25BC;</a><ul><li><a href="race/tirreno-adriatico/1987/stage-6/more/report">Report</a></li>
+<li><a href="race/tirreno-adriatico/1987/stage-6/more/embed-results">Embed</a></li>
+<li><a href="race/tirreno-adriatico/1987/stage-6/more/contribute-info">Contribute info</a></li>
+<li><a href="race/tirreno-adriatico/1987/stage-6/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li>
+<li class="more"><a href="race/tirreno-adriatico/1987/stage-6">More</a><ul><li data-n="1"><a href="race/tirreno-adriatico/1987/stage-6/result/result">Results - Results</a></li><li data-n="2"><a href="race/tirreno-adriatico/1987/stage-6/info/info">Info - Info</a></li><li data-n="1"><a href="race/tirreno-adriatico/1987/stage-6/info/complementary-results">Complementary results</a></li>
+<li data-n="1"><a href="race/tirreno-adriatico/1987/stage-6/info/photos">Finish photo</a></li>
+<li data-n="1"><a href="race/tirreno-adriatico/1987/stage-6/info/profiles">Profiles</a></li>
+<li data-n="1"><a href="race/tirreno-adriatico/1987/stage-6/info/time-table">Time table</a></li>
+<li data-n="3"><a href="race/tirreno-adriatico/1987/stage-6/live/live">Live - Live</a></li><li data-n="4"><a href="race/tirreno-adriatico/1987/stage-6/game/game">Game - Game</a></li><li data-n="5"><a href="race/tirreno-adriatico/1987/stage-6/statistics/statistics">Stats - Stats</a></li><li data-n="6"><a href="race/tirreno-adriatico/1987/stage-6/more/more">More - More</a></li><li data-n="5"><a href="race/tirreno-adriatico/1987/stage-6/more/report">Report</a></li>
+<li data-n="5"><a href="race/tirreno-adriatico/1987/stage-6/more/embed-results">Embed</a></li>
+<li data-n="5"><a href="race/tirreno-adriatico/1987/stage-6/more/contribute-info">Contribute info</a></li>
+<li data-n="5"><a href="race/tirreno-adriatico/1987/stage-6/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li></ul><div class="clear"></div></div><ul class="thumbnails" ><li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/tirreno-adriatico/1987">1987</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/tirreno-adriatico/1987/stage-6">Stage 6 (ITT)</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/tirreno-adriatico/1987/stage-6/result">Results</a></li></ul><div class="page-title " ><div class="main"><span class="flag it w32"></span><span class="flag it w24"></span><span class="hideIfMobile">1987</span><span class="hideIfMobile">&raquo;</span><font class="hideIfMobile">22nd</font><h1 class="">Tirreno-Adriatico</h1><font class="hideIfMobile">(SPP)</font></div><div class="sub"><span class="showIfMobile">1987</span><span class="showIfMobile">&raquo;</span><span class="blue">Stage 6 (ITT) <font style="font-weight: normal; ">(Final)</font></span><span class="hideIfMobile">&raquo;</span><span class="red">San Benedetto del Tronto </span><span class="red">&rsaquo;</span><span class="red">San Benedetto del Tronto </span><span class="red fw400">(14.65km)</span></div></div><div class="clear"></div><div class="desktop-ad leaderbord race"></div><div class="mob-ad leaderbord race"></div><div class="top-cont"></div><div class="top-cont-mobile top-cont-mobile-race"></div><div class="page-content page-object default " data-no_menu="1" ><h2></h2><div class="w100 "   >
+<div class="w68 left mb_w100"><ul class="restabs "><li class="cur"><a data-id="184388" data-st="3"  href="race/tirreno-adriatico/1987/stage-6"><span class="st3"></span></a></li><li class=""><a data-id="184389" data-st="4"  href="race/tirreno-adriatico/1987/gc"><span class="st4"></span>GC</a></li></ul><div class="result-filter-cont"><label for="age"><input type="checkbox" class="toggleAge" value="1" id="age">Age</label><label for="bibs"><input type="checkbox" class="toggleBibs" value="1" id="bibs">BIBs</label><label class=" toggles toggleGC-label" for="gc"><input type="checkbox" class="toggleGC" value="1" id="gc">GC</label><label class="hide toggles toggleDeltaPoints-label" for="delta_pnts"><input type="checkbox" class="toggleDeltaPoints" value="1" id="delta_pnts">+Points</label><label class="hide toggles toggleWonLost-label" for="time_wonlost"><input type="checkbox" class="toggleWonLost" value="1" id="time_wonlost">Time won/lost</label><label for="h2h"><input type="checkbox" class="toggleH2H cbFalseOnLoad" value="1" id="h2h" >H2H</label><span class="hideIfMobile"><label for="specialty"><input type="checkbox" class="toggleSpecialty " value="1" id="specialty">Specialty</label></span><a class="clearFilter blue hide" style="padding: 0px 7px; " href="">clear filter</a><select class="TNFilter" data-type="team"><option value="0"  >-</option></select><select class="TNFilter" data-type="nation"><option value="0"  >all nations</option><option value="be"  >Belgium</option><option value="dk"  >Denmark</option><option value="fr"  >France</option><option value="de"  >Germany</option><option value="it"  >Italy</option><option value="nl"  >Netherlands</option><option value="no"  >Norway</option><option value="pl"  >Poland</option><option value="ch"  >Switzerland</option></select></div><div class="hide timeWonLostComment" style="text-align: right; color: #555; font-size: 10px; ">The time won/lost column displays the gains in time in the GC. Click on the time of any rider to view the relative gains on this rider.</div><div class="h2h hide " style="font-size: 11px; color: #555;   ">Select two riders to compare. </div><div class="result-cont " data-id="184388">
+<div class="subTabs" data-subtab="1"><table class="results basic moblist10"><thead><tr><th>Rnk</th><th class="gc hide" >GC</th><th class="gc hide" >Timelag</th><th class="bibs hide" >BIB</th><th class="h2h hide" >H2H</th><th class="specialty hide" >Specialty</th><th>Rider</th><th class="age hide" >Age</th><th class="cu600" >Team</th><th>UCI</th><th>Pnt</th><th class="bonis ar fs11 cu600" ></th><th class="time ar" >Time</th><th class="ar" >Avg</th></tr></thead><tbody>
+<tr data-team="3304" data-nation="dk"><td>1</td><td class="gc hide" >1</td><td class="gc hide" >+0:00</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="rolf-sorensen" data-id="114058" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag dk"></span> <a href="rider/rolf-sorensen">SØRENSEN Rolf</a>  <span class="showIfMobile riderteam">Remac</span> </div></td><td class="age hide" >21</td><td class="cu600" ><a href="team/remac-1987">Remac</a></td><td></td><td>50</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" >-</td><td class="ar" ></td></tr>
+<tr data-team="2081" data-nation="pl"><td>2</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="czeslaw-lang" data-id="175636" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag pl"></span> <a href="rider/czeslaw-lang">LANG Czesław</a>  <span class="showIfMobile riderteam">Del Tongo - Colnago</span> </div></td><td class="age hide" >31</td><td class="cu600" ><a href="team/del-tongo-1987">Del Tongo - Colnago</a></td><td></td><td>30</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" >-</td><td class="ar" ></td></tr>
+<tr data-team="1115" data-nation="it"><td>3</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="roberto-visentini" data-id="173347" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag it"></span> <a href="rider/roberto-visentini">VISENTINI Roberto</a>  <span class="showIfMobile riderteam">Carrera Jeans - Vagabond</span> </div></td><td class="age hide" >29</td><td class="cu600" ><a href="team/carrera-jeans-vagabond-1987">Carrera Jeans - Vagabond</a></td><td></td><td>18</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" >-</td><td class="ar" ></td></tr>
+<tr data-team="2009" data-nation="it"><td>4</td><td class="gc hide" >2</td><td class="gc hide" >+0:05</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="giuseppe-calcaterra" data-id="113547" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/giuseppe-calcaterra">CALCATERRA Giuseppe</a>  <span class="showIfMobile riderteam">Atala - Ofmega</span> </div></td><td class="age hide" >22</td><td class="cu600" ><a href="team/atala-ofmega-1987">Atala - Ofmega</a></td><td></td><td>13</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" >-</td><td class="ar" ></td></tr>
+<tr data-team="4599" data-nation="it"><td>5</td><td class="gc hide" >5</td><td class="gc hide" >+0:22</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="francesco-moser" data-id="113206" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/francesco-moser">MOSER Francesco</a>  <span class="showIfMobile riderteam">Supermercati Brianzoli - Chateau d'Ax</span> </div></td><td class="age hide" >35</td><td class="cu600" ><a href="team/supermercati-brianzoli-1987">Supermercati Brianzoli - Chateau d'Ax</a></td><td></td><td>10</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" >-</td><td class="ar" ></td></tr>
+</tbody></table>
+<div style="color: #bbb; font-size: 10px; text-align: right; ">DNF=Did not finish / DNS=Did not start / OTL = Outside time limit / DF=Did finish, no result / NR=No result<svg viewBox="0 0 24 24" style="width: 14px; margin: 0 0 -4px 3px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#dec650" d="M21 3a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-2.001L19 20a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1l-.001-8.001L3 12a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h6a3 3 0 0 0 6 0h6z"/></g></svg> Rider wearing the jersey<span   style=" margin-left: 10px;"> <svg viewBox="0 0 24 24" style="width: 10px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#f55733" d="M3.783 2.826L12 1l8.217 1.826a1 1 0 0 1 .783.976v9.987a6 6 0 0 1-2.672 4.992L12 23l-6.328-4.219A6 6 0 0 1 3 13.79V3.802a1 1 0 0 1 .783-.976z"/></g></svg>>50% of race distance in group before peloton</span><div class="clear"></div>  </div><div class="more-results-cont"></div><div class="mob-ad after-result "></div></div><div class="subTabs hide" data-subtab="2"></div></div><div class="result-cont hide" data-id="184389">
+<div class="subTabs" data-subtab="1"><table class="results basic moblist10"><thead><tr><th>Rnk</th><th class="bibs hide" >BIB</th><th class="h2h hide" >H2H</th><th class="specialty hide" >Specialty</th><th>Rider</th><th class="age hide" >Age</th><th class="cu600" >Team</th><th>Pnt</th><th class="bonis ar fs11 cu600" ></th><th class="time ar" >Time</th><th class="time_wonlost hide ar" >Time won/lost</th></tr></thead><tbody>
+<tr data-team="3304" data-nation="dk"><td>1</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="rolf-sorensen" data-id="114058" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag dk"></span> <a href="rider/rolf-sorensen">SØRENSEN Rolf</a>  <span class="showIfMobile riderteam">Remac</span> </div></td><td class="age hide" >21</td><td class="cu600" ><a href="team/remac-1987">Remac</a></td><td>250</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" > 25:22:21</td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91341" data-s2="" href="">..</a></td></tr>
+<tr data-team="2009" data-nation="it"><td>2</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="giuseppe-calcaterra" data-id="113547" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/giuseppe-calcaterra">CALCATERRA Giuseppe</a>  <span class="showIfMobile riderteam">Atala - Ofmega</span> </div></td><td class="age hide" >22</td><td class="cu600" ><a href="team/atala-ofmega-1987">Atala - Ofmega</a></td><td>190</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:05</span><div class="hide">0:05</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91346" data-s2="" href="">..</a></td></tr>
+<tr data-team="4599" data-nation="ch"><td>3</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="tony-rominger" data-id="113325" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag ch"></span> <a href="rider/tony-rominger">ROMINGER Tony</a>  <span class="showIfMobile riderteam">Supermercati Brianzoli - Chateau d'Ax</span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/supermercati-brianzoli-1987">Supermercati Brianzoli - Chateau d'Ax</a></td><td>160</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:06</span><div class="hide">0:06</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91347" data-s2="" href="">..</a></td></tr>
+<tr data-team="1505" data-nation="nl"><td>4</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="teun-van-vliet" data-id="140995" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag nl"></span> <a href="rider/teun-van-vliet">VAN VLIET Teun</a>  <span class="showIfMobile riderteam">Panasonic - Isostar</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/panasonic-1987">Panasonic - Isostar</a></td><td>140</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:13</span><div class="hide">0:13</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91354" data-s2="" href="">..</a></td></tr>
+<tr data-team="4599" data-nation="it"><td>5</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="francesco-moser" data-id="113206" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/francesco-moser">MOSER Francesco</a>  <span class="showIfMobile riderteam">Supermercati Brianzoli - Chateau d'Ax</span> </div></td><td class="age hide" >35</td><td class="cu600" ><a href="team/supermercati-brianzoli-1987">Supermercati Brianzoli - Chateau d'Ax</a></td><td>120</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:22</span><div class="hide">0:22</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91363" data-s2="" href="">..</a></td></tr>
+<tr data-team="3345" data-nation="dk"><td>6</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="jesper-worre" data-id="168904" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag dk"></span> <a href="rider/jesper-worre">WORRE Jesper</a>  <span class="showIfMobile riderteam">Selca</span> </div></td><td class="age hide" >27</td><td class="cu600" ><a href="team/selca-1987">Selca</a></td><td>110</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:28</span><div class="hide">0:28</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91369" data-s2="" href="">..</a></td></tr>
+<tr data-team="1536" data-nation="ch"><td>7</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="guido-winterberg" data-id="174453" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag ch"></span> <a href="rider/guido-winterberg">WINTERBERG Guido</a>  <span class="showIfMobile riderteam">Toshiba - La Vie Claire</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/toshiba-1987">Toshiba - La Vie Claire</a></td><td>100</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">0:28</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91369" data-s2="" href="">..</a></td></tr>
+<tr data-team="2042" data-nation="it"><td>8</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="franco-chioccioli" data-id="113237" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/franco-chioccioli">CHIOCCIOLI Franco</a>  <span class="showIfMobile riderteam">Gis Gelati-Jolly</span> </div></td><td class="age hide" >27</td><td class="cu600" ><a href="team/gisgelati-jolly-1987">Gis Gelati-Jolly</a></td><td>90</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:31</span><div class="hide">0:31</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91372" data-s2="" href="">..</a></td></tr>
+<tr data-team="2042" data-nation="it"><td>9</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="giuseppe-petito" data-id="168030" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/giuseppe-petito">PETITO Giuseppe</a>  <span class="showIfMobile riderteam">Gis Gelati-Jolly</span> </div></td><td class="age hide" >27</td><td class="cu600" ><a href="team/gisgelati-jolly-1987">Gis Gelati-Jolly</a></td><td>80</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:36</span><div class="hide">0:36</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91377" data-s2="" href="">..</a></td></tr>
+<tr data-team="3299" data-nation="it"><td>10</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="daniele-caroli" data-id="168903" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/daniele-caroli">CAROLI Daniele</a>  <span class="showIfMobile riderteam">Ecoflam</span> </div></td><td class="age hide" >28</td><td class="cu600" ><a href="team/ecoflam-1987">Ecoflam</a></td><td>70</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:49</span><div class="hide">0:49</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91390" data-s2="" href="">..</a></td></tr>
+<tr data-team="2026" data-nation="dk"><td>11</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="brian-holm-sorensen" data-id="113450" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag dk"></span> <a href="rider/brian-holm-sorensen">HOLM SØRENSEN Brian</a>  <span class="showIfMobile riderteam">Roland - Skala - Chiori</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/roland-skala-1987">Roland - Skala - Chiori</a></td><td>60</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:57</span><div class="hide">0:57</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91398" data-s2="" href="">..</a></td></tr>
+<tr data-team="2009" data-nation="it"><td>12</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="gianni-bugno" data-id="113451" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/gianni-bugno">BUGNO Gianni</a>  <span class="showIfMobile riderteam">Atala - Ofmega</span> </div></td><td class="age hide" >23</td><td class="cu600" ><a href="team/atala-ofmega-1987">Atala - Ofmega</a></td><td>55</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>1:00</span><div class="hide">1:00</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91401" data-s2="" href="">..</a></td></tr>
+<tr data-team="3304" data-nation="it"><td>13</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alberto-elli" data-id="113931" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/alberto-elli">ELLI Alberto</a>  <span class="showIfMobile riderteam">Remac</span> </div></td><td class="age hide" >23</td><td class="cu600" ><a href="team/remac-1987">Remac</a></td><td>50</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>1:41</span><div class="hide">1:41</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91442" data-s2="" href="">..</a></td></tr>
+<tr data-team="3297" data-nation="no"><td>14</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="dag-otto-lauritzen" data-id="113235" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag no"></span> <a href="rider/dag-otto-lauritzen">LAURITZEN Dag-Otto</a>  <span class="showIfMobile riderteam">7 Eleven - Hoonved</span> </div></td><td class="age hide" >30</td><td class="cu600" ><a href="team/7-eleven-1987">7 Eleven - Hoonved</a></td><td>45</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:13</span><div class="hide">2:13</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91474" data-s2="" href="">..</a></td></tr>
+<tr data-team="1504" data-nation="it"><td>15</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alfio-vandi" data-id="173178" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/alfio-vandi">VANDI Alfio</a>  <span class="showIfMobile riderteam">Ariostea</span> </div></td><td class="age hide" >31</td><td class="cu600" ><a href="team/ariostea-1987">Ariostea</a></td><td>40</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:25</span><div class="hide">2:25</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91486" data-s2="" href="">..</a></td></tr>
+<tr data-team="1504" data-nation="it"><td>16</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="marcello-siboni" data-id="113658" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag it"></span> <a href="rider/marcello-siboni">SIBONI Marcello</a>  <span class="showIfMobile riderteam">Ariostea</span> </div></td><td class="age hide" >22</td><td class="cu600" ><a href="team/ariostea-1987">Ariostea</a></td><td>36</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:37</span><div class="hide">2:37</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91498" data-s2="" href="">..</a></td></tr>
+<tr data-team="2081" data-nation="it"><td>17</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="francesco-cesarini" data-id="167916" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/francesco-cesarini">CESARINI Francesco</a>  <span class="showIfMobile riderteam">Del Tongo - Colnago</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/del-tongo-1987">Del Tongo - Colnago</a></td><td>32</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">2:37</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91498" data-s2="" href="">..</a></td></tr>
+<tr data-team="2049" data-nation="it"><td>18</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="luigi-furlan" data-id="168014" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/luigi-furlan">FURLAN Luigi</a>  <span class="showIfMobile riderteam">Paini - Bottecchia</span> </div></td><td class="age hide" >23</td><td class="cu600" ><a href="team/paini-bottecchia-1987">Paini - Bottecchia</a></td><td>28</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:54</span><div class="hide">2:54</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91515" data-s2="" href="">..</a></td></tr>
+<tr data-team="1504" data-nation="it"><td>19</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alessandro-paganessi" data-id="173190" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/alessandro-paganessi">PAGANESSI Alessandro</a>  <span class="showIfMobile riderteam">Ariostea</span> </div></td><td class="age hide" >28</td><td class="cu600" ><a href="team/ariostea-1987">Ariostea</a></td><td>24</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>3:08</span><div class="hide">3:08</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91529" data-s2="" href="">..</a></td></tr>
+<tr data-team="1201" data-nation="it"><td>20</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="moreno-argentin" data-id="140973" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/moreno-argentin">ARGENTIN Moreno</a>  <span class="showIfMobile riderteam">Gewiss - Bianchi</span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/gewiss-bianchi-1987">Gewiss - Bianchi</a></td><td>20</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>3:10</span><div class="hide">3:10</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91531" data-s2="" href="">..</a></td></tr>
+<tr data-team="1311" data-nation="nl"><td>24</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="steven-rooks" data-id="144461" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag nl"></span> <a href="rider/steven-rooks">ROOKS Steven</a>  <span class="showIfMobile riderteam">PDM - GIN MG - Ultima - Concorde</span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/pdm-gin-mg-ultima-concorde-1987">PDM - GIN MG - Ultima - Concorde</a></td><td>12</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>4:01</span><div class="hide">4:01</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91582" data-s2="" href="">..</a></td></tr>
+<tr data-team="1311" data-nation="nl"><td>25</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="marc-van-orsouw" data-id="167876" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag nl"></span> <a href="rider/marc-van-orsouw">VAN ORSOUW Marc</a>  <span class="showIfMobile riderteam">PDM - GIN MG - Ultima - Concorde</span> </div></td><td class="age hide" >22</td><td class="cu600" ><a href="team/pdm-gin-mg-ultima-concorde-1987">PDM - GIN MG - Ultima - Concorde</a></td><td>10</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>4:04</span><div class="hide">4:04</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91585" data-s2="" href="">..</a></td></tr>
+<tr data-team="1536" data-nation="fr"><td>32</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="jean-claude-garde" data-id="168954" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag fr"></span> <a href="rider/jean-claude-garde">GARDE Jean-Claude</a>  <span class="showIfMobile riderteam">Toshiba - La Vie Claire</span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/toshiba-1987">Toshiba - La Vie Claire</a></td><td>5</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>7:03</span><div class="hide">7:03</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91764" data-s2="" href="">..</a></td></tr>
+<tr data-team="2034" data-nation="fr"><td>37</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="claude-seguy" data-id="173160" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag fr"></span> <a href="rider/claude-seguy">SEGUY Claude</a>  <span class="showIfMobile riderteam">Fagor</span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/fagor-1987">Fagor</a></td><td>5</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>7:42</span><div class="hide">7:42</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="91803" data-s2="" href="">..</a></td></tr>
+<tr data-team="2034" data-nation="fr"><td>50</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="henri-abadie" data-id="167915" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/henri-abadie">ABADIE Henri</a>  <span class="showIfMobile riderteam">Fagor</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/fagor-1987">Fagor</a></td><td>5</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>11:43</span><div class="hide">11:43</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="92044" data-s2="" href="">..</a></td></tr>
+<tr data-team="1536" data-nation="fr"><td>51</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="frederic-garnier" data-id="168026" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/frederic-garnier">GARNIER Frédéric</a>  <span class="showIfMobile riderteam">Toshiba - La Vie Claire</span> </div></td><td class="age hide" >23</td><td class="cu600" ><a href="team/toshiba-1987">Toshiba - La Vie Claire</a></td><td>5</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>12:06</span><div class="hide">12:06</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="92067" data-s2="" href="">..</a></td></tr>
+<tr data-team="1536" data-nation="fr"><td>70</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="philippe-leleu" data-id="167619" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/philippe-leleu">LELEU Philippe</a>  <span class="showIfMobile riderteam">Toshiba - La Vie Claire</span> </div></td><td class="age hide" >28</td><td class="cu600" ><a href="team/toshiba-1987">Toshiba - La Vie Claire</a></td><td>5</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>19:54</span><div class="hide">19:54</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="92535" data-s2="" href="">..</a></td></tr>
+<tr data-team="2034" data-nation="fr"><td>92</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="christian-chaubet" data-id="168411" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/christian-chaubet">CHAUBET Christian</a>  <span class="showIfMobile riderteam">Fagor</span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/fagor-1987">Fagor</a></td><td>5</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>31:37</span><div class="hide">31:37</div></td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="93238" data-s2="" href="">..</a></td></tr>
+</tbody></table>
+<div style="color: #bbb; font-size: 10px; text-align: right; ">DNF=Did not finish / DNS=Did not start / OTL = Outside time limit / DF=Did finish, no result / NR=No result<svg viewBox="0 0 24 24" style="width: 14px; margin: 0 0 -4px 3px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#dec650" d="M21 3a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-2.001L19 20a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1l-.001-8.001L3 12a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h6a3 3 0 0 0 6 0h6z"/></g></svg> Rider wearing the jersey<span   style=" margin-left: 10px;"> <svg viewBox="0 0 24 24" style="width: 10px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#f55733" d="M3.783 2.826L12 1l8.217 1.826a1 1 0 0 1 .783.976v9.987a6 6 0 0 1-2.672 4.992L12 23l-6.328-4.219A6 6 0 0 1 3 13.79V3.802a1 1 0 0 1 .783-.976z"/></g></svg>>50% of race distance in group before peloton</span><div class="clear"></div>  </div><div class="more-results-cont"><a class="viewMoreResults" data-n="25"   href="#">View top-25</a><div style="width: 10px; "></div><a class="viewMoreResults" data-n="250"   href="#">View full result</a></div><div class="mob-ad after-result "></div></div><div class="subTabs hide" data-subtab="2"></div></div></div><div class="w30 right mb_w100"><div class=""></div>
+<div class=""><h3>Race information</h3><div class=""></div></div>
+<img class="left maxw100 mg_rp10" src="images/logo/bn/bw/tirreno-adriatico.jpg" /><div class=""><ul class="infolist" style=""><li><div>Date:</div> <div>18 March 1987</div></li>
+<li><div>Start time:</div> <div>-</div></li>
+<li><div>Avg. speed winner:</div> <div>-</div></li>
+<li><div>Race category:</div> <div>ME - Men Elite</div></li>
+<li><div>Distance: </div> <div>14.65 km</div></li>
+<li><div>Points scale:</div> <div><a    href="info.php?s=point-scales&season=1987&category=1&scale=12">2.WT.Stage</a></div></li>
+<li><div>UCI scale:</div> <div><a    href="info.php?s=point-scales&season=1987&category=1&pcs_uci&uci&scale=0"></a></div></li>
+<li><div>Parcours type: </div> <div><span class="icon profile p0"></span></div></li>
+<li><div>ProfileScore: </div> <div></div></li>
+<li><div>Vert. meters:</div> <div></div></li>
+<li><div>Departure:</div> <div><a    href="location/san-benedetto-del-tronto">San Benedetto del Tronto </a></div></li>
+<li><div>Arrival:</div> <div><a    href="location/san-benedetto-del-tronto">San Benedetto del Tronto </a></div></li>
+<li><div>Race ranking:</div> <div><a    href="race/tirreno-adriatico/1987/stage-6/overview/race-ranking">0</a></div></li>
+<li><div>Startlist quality score:</div> <div><a    href="race/tirreno-adriatico/1987/startlist/startlist-quality">438</a></div></li>
+<li><div>Won how: </div> <div>Time Trial</div></li>
+<li><div>Avg. temperature:</div> <div><a    href="race/tirreno-adriatico/1987/stage-6/stages/hottest-stages"></a></div></li>
+</ul></div>
+<div class=""><ul class="list horizontal"></ul></div>
+<div class="mt10"><h3>Race profile</h3>
+<span class="table-cont"><ul class="list"  style=" "></ul></span></div>
+<div class="mt10"><h3>Sites</h3><ul class="list horizontal sites "><li><span class="icon instagram left"></span><a  target="_blank"   class="" href="https://www.instagram.com/tirreno_adriatico/?hl=nl">instagram</a></li>
+<li><span class="icon facebook left"></span><a  target="_blank"   class="" href="https://www.facebook.com/tirrenoadriatico/">facebook</a></li>
+<li><span class="icon website left"></span><a  target="_blank"   class="" href="https://www.tirrenoadriatico.it">site</a></li>
+<li><span class="icon twitter left"></span><a  target="_blank"   class="" href="https://twitter.com/TirrenAdriatico">twitter</a></li>
+</ul></div>
+<div class="fs11"><div class=""></div></div>
+<div class="desktop-ad race-column-right"></div><div class="mob-ad race-column-right"></div></div><div class="clear"></div>
+</div>
+<div class="desktop-ad below-content race"></div><div class="mob-ad below-content race"></div></div><div style="clear: both; "></div>  
+  </div>
+  </center>
+  <div class="push"></div>
+</div>
+<div class="footer">
+  <div class="sfa"><ul class="ftr-list"><li class="group"><h3>Grand Tours</h3><ul><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">Vuelta a España</a></li>
+</ul><h3>Major Tours</h3><ul><li><a href="race/paris-nice">Paris-Nice</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/volta-a-catalunya">Volta a Catalunya</a></li>
+<li><a href="race/tour-de-romandie">Tour de Romandie</a></li>
+<li><a href="race/tour-de-suisse">Tour de Suisse</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/itzulia-basque-country">Itzulia Basque Country</a></li>
+</ul></li>
+<li class="group"><h3>Monuments</h3><ul><li><a href="race/milano-sanremo">Milano-SanRemo</a></li>
+<li><a href="race/ronde-van-vlaanderen">Ronde van Vlaanderen</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+</ul><h3>Championships</h3><ul><li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/uec-road-european-championships">European championships</a></li>
+</ul></li>
+<li class="group"><h3>Top classics</h3><ul><li><a href="race/omloop-het-nieuwsblad">Omloop Het Nieuwsblad</a></li>
+<li><a href="race/strade-bianche">Strade Bianche</a></li>
+<li><a href="race/e3-harelbeke">E3 Classic</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem</a></li>
+<li><a href="race/dwars-door-vlaanderen">Dwars door vlaanderen</a></li>
+<li><a href="race/eschborn-frankfurt">Eschborn-Frankfurt</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/san-sebastian">San Sebastian</a></li>
+<li><a href="race/bretagne-classic">Bretagne Classic</a></li>
+<li><a href="race/gp-quebec">GP Québec</a></li>
+<li><a href="race/gp-montreal">GP Montréal</a></li>
+</ul></li>
+<li class="group"><h3>Popular riders</h3><ul><li><a href="rider/tadej-pogacar">Tadej Pogačar</a></li>
+<li><a href="rider/wout-van-aert">Wout van Aert</a></li>
+<li><a href="rider/remco-evenepoel">Remco Evenepoel</a></li>
+<li><a href="rider/jonas-vingegaard-rasmussen">Jonas Vingegaard</a></li>
+<li><a href="rider/mathieu-van-der-poel">Mathieu van der Poel</a></li>
+<li><a href="rider/biniam-girmay">Biniam Girmay</a></li>
+<li><a href="rider/peter-sagan">Peter Sagan</a></li>
+<li><a href="rider/annemiek-van-vleuten">Annemiek van Vleuten</a></li>
+<li><a href="rider/elisa-longo-borghini">Elisa Longo Borghini</a></li>
+<li><a href="rider/katarzyna-niewiadoma">Katarzyna Niewiadoma</a></li>
+</ul></li>
+<li class="group"><h3>Statistics</h3><ul><li><a href="statistics/start/points-per-age">Points per age</a></li>
+<li><a href="statistics/start/latest-injuries">Latest injuries</a></li>
+<li><a href="statistics/riders/youngest-riders">Youngest riders</a></li>
+<li><a href="statistics/grandtours">Grand tour statistics</a></li>
+<li><a href="statistics/monuments">Monument classics</a></li>
+<li><a href="teams/transfers">Latest transfers</a></li>
+<li><a href="favorite500">Favorite 500</a></li>
+</ul><h3>Rankings</h3><ul><li><a href="rankings.php">PCS ranking</a></li>
+<li><a href="rankings/me/uci-individual">UCI World Ranking</a></li>
+<li><a href="rankings/me/all-time">Alltime</a></li>
+</ul></li>
+<li class="group"><h3>Info</h3><ul><li><a href="info/point-scales">Points scales</a></li>
+<li><a href="info/profile-score-explained">Profile scores</a></li>
+<li><a href="reset_password.php">Reset password</a></li>
+<li><a href="info/pcs-game">PCS game</a></li>
+<li><a href="info/procyclinggame">ProCyclingGame</a></li>
+</ul><h3>About ProCyclingStats</h3><ul><li><a href="info/about-us">About us</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/cookie-policy">Cookie policy</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/contributions">Contributions</a></li>
+<li><span>Pageload 0.0267s</span></li>
+</ul></li>
+</ul><input type="hidden" id="pageid" value="1190" /><input type="hidden" id="userid" value="0" />
+	</div>
+</div> 
+ 
+ </body></html>
+<script src="search_list7.js"></script>  

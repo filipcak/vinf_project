@@ -1,0 +1,300 @@
+<!DOCTYPE HTML><html><head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35889790-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'GA_MEASUREMENT_ID', {
+	  'linker': {
+	    'domains': ['cx.procyclingstats.com','procyclingstats.com']
+	  }
+	});
+
+  gtag('config', 'UA-35889790-1');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2MNJ20S7SJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2MNJ20S7SJ');
+</script>
+<title>National Championships France MU - ITT 2011 Time trial results</title>
+<base href="https://www.procyclingstats.com/race.php" />
+<link rel="canonical" href="https://www.procyclingstats.com/race/nc-france-itt-u23/2011/result" />
+<script>
+    var r89 = r89 || {
+      callAds: [],
+      pushAd: function(id, name, config) { r89.callAds.push([id, name, config]); }
+    };
+</script>
+<script async src="https://tags.refinery89.com/v2/procyclingstats.js"></script><meta name="description" content="Johan Le Bon is the winner of National Championships France MU - ITT 2011, before Yoann Paillot and Rudy Molard. ">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="utf-8"> 
+<meta name="facebook-domain-verification" content="tjwn3jyjupm0t1j8e0sgis3c80x88r" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<base href="race.php" />
+	<link rel="stylesheet" type="text/css" href="https://www.procyclingstats.com/pcs_a190.css" />
+	
+<script src="https://www.procyclingstats.com/pcs_s79.js"></script> 
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css"> 
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.procyclingstats.com/images/pcs-logos/icon3/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-16x16.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon.ico" />
+ 
+</head>
+<body>
+<div class="wrapper">
+  <header class="">
+    <div class="cont">
+    	<a  class="logo" href="index.php"></a>
+  
+    	<form action="search.php" class="msearch"><input type="hidden"  id="term" />
+    		<input type="text" name="term" id="search" data-nav="race/-id-/result" data-nav2="" data-page="race" class="search4"  placeholder="search"  /></form> 
+    	<div class="menuCont">
+      	<a class="mobMenu" href="">Menu&#x25BC;</a>
+				<ul class="nav_v4 default"><li class=" "><a class="reg" href="index.php">Home</a></li>
+<li class="more4 "><a class="reg" href="races.php">Races</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">La Vuelta ciclista a España</a></li>
+<li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/milano-sanremo">Milano-Sanremo</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/paris-nice">Paris - Nice</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/volta-a-catalunya">Volta Ciclista a Catalunya</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/ronde-van-vlaanderen">Tour des Flandres</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem in Flanders Fields</a></li>
+<li><a href="race/san-sebastian">Clásica Ciclista San Sebastián</a></li>
+</ul></li>
+<li class="more4 "><a class="reg" href="teams.php">Teams</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="team/intermarche-circus-wanty-2023">Intermarché - Circus - Wanty </a></li>
+<li><a href="team/ineos-grenadiers-2023">INEOS Grenadiers</a></li>
+<li><a href="team/groupama-fdj-2023">Groupama - FDJ</a></li>
+<li><a href="team/ef-education-easypost-2023">EF Education-EasyPost</a></li>
+<li><a href="team/cofidis-2023">Cofidis </a></li>
+<li><a href="team/bora-hansgrohe-2023">BORA - hansgrohe</a></li>
+<li><a href="team/bahrain-victorious-2023">Bahrain - Victorious</a></li>
+<li><a href="team/astana-qazaqstan-team-2023">Astana Qazaqstan Team</a></li>
+<li><a href="team/team-jumbo-visma-2023">Jumbo-Visma</a></li>
+<li><a href="team/movistar-team-2023">Movistar Team</a></li>
+<li><a href="team/soudal-quick-step-2023">Soudal - Quick Step</a></li>
+<li><a href="team/team-arkea-samsic-2023">Team Arkéa Samsic</a></li>
+<li><a href="team/team-jayco-alula-2023">Team Jayco AlUla</a></li>
+<li><a href="team/team-dsm-2023">Team DSM</a></li>
+<li><a href="team/trek-segafredo-2023">Trek - Segafredo</a></li>
+<li><a href="team/uae-team-emirates-2023">UAE Team Emirates</a></li>
+<li><a href="team/alpecin-deceuninck-2023">Alpecin-Deceuninck</a></li>
+<li><a href="team/ag2r-citroen-team-2023">AG2R Citroën Team</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="rankings.php">Rankings</a></li>
+<li class="more4 "><a class="reg" href="statistics.php">Statistics</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="statistics">Overview</a></li>
+<li><a href="statistics/riders">Riders</a></li>
+<li><a href="statistics/teams">Teams</a></li>
+<li><a href="statistics/grandtours">Grand tours</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="game.php">Game</a></li>
+<li class="more4 "><a class="reg" href="riders.php">More</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="riders">Riders</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/countdown-to-1-billion-pageviews">Countdown to 2 billion pageviews</a></li>
+<li><a href="favorite500.php">Favorite500</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/about-us">About us</a></li>
+<li><a href="info/profile-score-explained">Profile Score</a></li>
+<li><a href="info/tutorials">Tutorials</a></li>
+</ul></li>
+<li class="more4 pro"><a class="reg" href="premium.php">Pro</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="">Dashboard</a></li>
+<li><a href="">Lists</a></li>
+</ul></li>
+ 
+				 </ul> 
+			 </div>
+			 <a class="user4" data-logged="0" href="account.php"><span>&#10070;</span><font class="hideIfMobile">login</font></a><a class="settings4 " href="settings.php"><span>&#10033;</span><font>settings</font></a>    </div>
+  </header>  
+<div class="content   "> <div class="page-topnav "><div class="pageDDnavCont"><div class="pageSelectNav " ><a   href="race/nc-france-itt-u23/2010/result" >2010</a><div ><form style="  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/nc-france-itt-u23/2023/result" >2023</option><option value="race/nc-france-itt-u23/2022/result" >2022</option><option value="race/nc-france-itt-u23/2021/result" >2021</option><option value="race/nc-france-itt-u23/2020/result" >2020</option><option value="race/nc-france-itt-u23/2019/result" >2019</option><option value="race/nc-france-itt-u23/2018/result" >2018</option><option value="race/nc-france-itt-u23/2017/result" >2017</option><option value="race/nc-france-itt-u23/2016/result" >2016</option><option value="race/nc-france-itt-u23/2015/result" >2015</option><option value="race/nc-france-itt-u23/2014/result" >2014</option><option value="race/nc-france-itt-u23/2013/result" >2013</option><option value="race/nc-france-itt-u23/2012/result" >2012</option><option value="race/nc-france-itt-u23/2011/result" selected>2011</option><option value="race/nc-france-itt-u23/2010/result" >2010</option><option value="race/nc-france-itt-u23/2009/result" >2009</option><option value="race/nc-france-itt-u23/2007/result" >2007</option><option value="race/nc-france-itt-u23/2006/result" >2006</option><option value="race/nc-france-itt-u23/2005/result" >2005</option><option value="race/nc-france-itt-u23/2004/result" >2004</option><option value="race/nc-france-itt-u23/2003/result" >2003</option></select></form></div><a  href="race/nc-france-itt-u23/2012/result" >2012</a></div><div class="pageSelectNav " ><div ><form style="  max-width: 150px; width: 100%;  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/nc-france/2011/result/result/result" >ME - Men Elite - Road race</option><option value="race/nc-france-itt/2011/result/result/result" >ME - Men Elite - TT</option><option value="race/nc-france-we/2011/result/result/result" >WE - Women Elite - Road race</option><option value="race/nc-france-we-itt/2011/result/result/result" >WE - Women Elite - TT</option><option value="race/nc-france-itt-u23/2011/result/result/result" selected>MU - Men U23 - TT</option><option value="race/nc-france-mj2/2011/result/result/result" >MJ - Men Juniors - Road race</option><option value="race/nc-france-mj-itt/2011/result/result/result" >MJ - Men Juniors - TT</option></select></form></div></div><div class="pageSelectNav " ><div ><form style="  max-width: 150px; width: 100%;  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/nc-australia-u23/2011/result/result/result" >Australia</option><option value="race/nc-belgium-u23-itt/2011/result/result/result" >Belgium</option><option value="race/nc-colombia-u23-itt/2011/result/result/result" >Colombia</option><option value="race/nc-denmark-u23-itt/2011/result/result/result" >Denmark</option><option value="race/nc-estonia-itt-u23/2011/result/result/result" >Estonia</option><option value="race/nc-france-itt-u23/2011/result/result/result" selected>France</option><option value="race/nc-germany-u23/2011/result/result/result" >Germany</option><option value="race/nc-great-britain-u23-itt/2011/result/result/result" >Great Britain</option><option value="race/nc-italy-u23/2011/result/result/result" >Italy</option><option value="race/nc-japan-u23-itt/2011/result/result/result" >Japan</option><option value="race/nc-luxembourg-u23-itt/2011/result/result/result" >Luxembourg</option><option value="race/nc-mexico-u23/2011/result/result/result" >Mexico</option><option value="race/nc-morocco-u23-itt/2011/result/result/result" >Morocco</option><option value="race/nc-netherlands-u23/2011/result/result/result" >Netherlands</option><option value="race/nc-new-zealand-itt-u23b/2011/result/result/result" >New Zealand</option><option value="race/nc-norway-u23/2011/result/result/result" >Norway</option><option value="race/nc-poland-u23-itt/2011/result/result/result" >Poland</option><option value="race/nc-russia-u23-itt/2011/result/result/result" >Russia</option><option value="race/nc-spain-itt-u23/2011/result/result/result" >Spain</option><option value="race/nc-switzerland-u23-itt/2011/result/result/result" >Switzerland</option><option value="race/nc-united-states-u23-itt/2011/result/result/result" >United States</option></select></form></div></div></div><ul class="pagenavLinks"><li class="reg "><a class="cur" href="race/nc-france-itt-u23/2011/result">Results</a></li>
+<li class="reg "><a style=" " href="race/nc-france-itt-u23/2011/startlist">Startlist</a><ul><li><a href="race/nc-france-itt-u23/2011/startlist">Startlist</a></li><li><a href="race/nc-france-itt-u23/results">Race palmares</a></li></ul></li><li class="reg "><a class="" href="race/nc-france-itt-u23/2011/result/info">Info&#x25BC;</a><ul><li><a href="race/nc-france-itt-u23/2011/result/info/complementary-results">Complementary results</a></li>
+<li><a href="race/nc-france-itt-u23/2011/result/info/photos">Finish photo</a></li>
+<li><a href="race/nc-france-itt-u23/2011/result/info/profiles">Profiles</a></li>
+<li><a href="race/nc-france-itt-u23/2011/result/info/time-table">Time table</a></li>
+</ul></li>
+<li class="reg "><a class="" href="race/nc-france-itt-u23/2011/result/live">Live</a></li>
+<li class="reg "><a class="" href="race/nc-france-itt-u23/2011/result/game">Game</a></li>
+<li class="reg "><a class="" href="race/nc-france-itt-u23/2011/result/statistics">Stats</a></li>
+<li class="reg "><a class="" href="race/nc-france-itt-u23/2011/result/more">More&#x25BC;</a><ul><li><a href="race/nc-france-itt-u23/2011/result/more/report">Report</a></li>
+<li><a href="race/nc-france-itt-u23/2011/result/more/embed-results">Embed</a></li>
+<li><a href="race/nc-france-itt-u23/2011/result/more/contribute-info">Contribute info</a></li>
+<li><a href="race/nc-france-itt-u23/2011/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li>
+<li class="more"><a href="race/nc-france-itt-u23/2011/result">More</a><ul><li data-n="1"><a href="race/nc-france-itt-u23/2011/result/result/result">Results - Results</a></li><li data-n="2"><a href="race/nc-france-itt-u23/2011/result/info/info">Info - Info</a></li><li data-n="1"><a href="race/nc-france-itt-u23/2011/result/info/complementary-results">Complementary results</a></li>
+<li data-n="1"><a href="race/nc-france-itt-u23/2011/result/info/photos">Finish photo</a></li>
+<li data-n="1"><a href="race/nc-france-itt-u23/2011/result/info/profiles">Profiles</a></li>
+<li data-n="1"><a href="race/nc-france-itt-u23/2011/result/info/time-table">Time table</a></li>
+<li data-n="3"><a href="race/nc-france-itt-u23/2011/result/live/live">Live - Live</a></li><li data-n="4"><a href="race/nc-france-itt-u23/2011/result/game/game">Game - Game</a></li><li data-n="5"><a href="race/nc-france-itt-u23/2011/result/statistics/statistics">Stats - Stats</a></li><li data-n="6"><a href="race/nc-france-itt-u23/2011/result/more/more">More - More</a></li><li data-n="5"><a href="race/nc-france-itt-u23/2011/result/more/report">Report</a></li>
+<li data-n="5"><a href="race/nc-france-itt-u23/2011/result/more/embed-results">Embed</a></li>
+<li data-n="5"><a href="race/nc-france-itt-u23/2011/result/more/contribute-info">Contribute info</a></li>
+<li data-n="5"><a href="race/nc-france-itt-u23/2011/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li></ul><div class="clear"></div></div><ul class="thumbnails" ><li><a href="race/nc-france-itt-u23">National Championships France MU - ITT</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/nc-france-itt-u23/2011">2011</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/nc-france-itt-u23/2011/result">Time trial</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/nc-france-itt-u23/2011/result/result">Results</a></li></ul><div class="page-title " ><div class="main"><span class="flag fr w32"></span><span class="flag fr w24"></span><span class="hideIfMobile">2011</span><span class="hideIfMobile">&raquo;</span><h1 class="">National Championships France MU - ITT</h1><font class="hideIfMobile">(NC)</font></div><div class="sub"><span class="showIfMobile">2011</span><span class="showIfMobile">&raquo;</span><span class="blue">Time trial</span><span class="hideIfMobile">&raquo;</span><span class="red">Ussel</span><span class="red">&rsaquo;</span><span class="red">Ussel</span><span class="red fw400">(28.5km)</span></div></div><div class="clear"></div><div class="desktop-ad leaderbord race"></div><div class="mob-ad leaderbord race"></div><div class="top-cont"></div><div class="top-cont-mobile top-cont-mobile-race"></div><div class="page-content page-object default " data-no_menu="1" ><h2></h2><div class="w100 "   >
+<div class="w68 left mb_w100"><div class="result-filter-cont"><label for="age"><input type="checkbox" class="toggleAge" value="1" id="age">Age</label><label for="bibs"><input type="checkbox" class="toggleBibs" value="1" id="bibs">BIBs</label><label for="h2h"><input type="checkbox" class="toggleH2H cbFalseOnLoad" value="1" id="h2h" >H2H</label><span class="hideIfMobile"><label for="specialty"><input type="checkbox" class="toggleSpecialty " value="1" id="specialty">Specialty</label></span><a class="clearFilter blue hide" style="padding: 0px 7px; " href="">clear filter</a><select class="TNFilter" data-type="team"><option value="0"  >-</option></select><select class="TNFilter" data-type="nation"><option value="0"  >all nations</option><option value="fr"  >France</option></select></div><div class="hide timeWonLostComment" style="text-align: right; color: #555; font-size: 10px; ">The time won/lost column displays the gains in time in the GC. Click on the time of any rider to view the relative gains on this rider.</div><div class="h2h hide " style="font-size: 11px; color: #555;   ">Select two riders to compare. </div><div class="result-cont " data-id="111024">
+<div class="subTabs" data-subtab="1"><table class="results basic moblist10"><thead><tr><th>Rnk</th><th class="bibs hide" >BIB</th><th class="h2h hide" >H2H</th><th class="specialty hide" >Specialty</th><th>Rider</th><th class="age hide" >Age</th><th class="cu600" >Team</th><th>Pnt</th><th class="bonis ar fs11 cu600" ></th><th class="time ar" >Time</th><th class="ar" >Avg</th></tr></thead><tbody>
+<tr data-team="1107" data-nation="fr"><td>1</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="johan-le-bon" data-id="140047" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag fr"></span> <a href="rider/johan-le-bon">LE BON Johan</a>  <span class="showIfMobile riderteam">Bretagne Schuller</span> </div></td><td class="age hide" >20</td><td class="cu600" ><a href="team/bretagne-schuller-2011">Bretagne Schuller</a></td><td>20</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" >0:35:36</td><td class="ar" >48.034</td></tr>
+<tr data-team="0" data-nation="fr"><td>2</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="yoann-paillot" data-id="135702" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag fr"></span> <a href="rider/yoann-paillot">PAILLOT Yoann</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td>16</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:03</span><div class="hide">0:03</div></td><td class="ar" >47.966</td></tr>
+<tr data-team="1136" data-nation="fr"><td>3</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="rudy-molard" data-id="137745" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_purple"></div><span class="fs10 clr999">Climber</span></td><td><div><span class="flag fr"></span> <a href="rider/rudy-molard">MOLARD Rudy</a>  <span class="showIfMobile riderteam">Cofidis, le Crédit en Ligne</span> </div></td><td class="age hide" >21</td><td class="cu600" ><a href="team/cofidis-le-credit-en-ligne-2011">Cofidis, le Crédit en Ligne</a></td><td>12</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:27</span><div class="hide">0:27</div></td><td class="ar" >47.434</td></tr>
+<tr data-team="1096" data-nation="fr"><td>4</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="romain-bacon" data-id="138670" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/romain-bacon">BACON Romain</a>  <span class="showIfMobile riderteam">BigMat - Auber 93</span> </div></td><td class="age hide" >21</td><td class="cu600" ><a href="team/bigmat-auber-93-2011">BigMat - Auber 93</a></td><td>8</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:39</span><div class="hide">0:39</div></td><td class="ar" >47.172</td></tr>
+<tr data-team="1346" data-nation="fr"><td>5</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="matthieu-boulo" data-id="137784" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag fr"></span> <a href="rider/matthieu-boulo">BOULO Matthieu</a>  <span class="showIfMobile riderteam">Roubaix-Dalkia</span> </div></td><td class="age hide" >22</td><td class="cu600" ><a href="team/roubaix-dalkia-2011">Roubaix-Dalkia</a></td><td>4</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:57</span><div class="hide">0:57</div></td><td class="ar" >46.785</td></tr>
+<tr data-team="1096" data-nation="fr"><td>6</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="dimitri-le-boulch" data-id="138807" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/dimitri-le-boulch">LE BOULCH Dimitri</a>  <span class="showIfMobile riderteam">BigMat - Auber 93</span> </div></td><td class="age hide" >22</td><td class="cu600" ><a href="team/bigmat-auber-93-2011">BigMat - Auber 93</a></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>1:13</span><div class="hide">1:13</div></td><td class="ar" >46.446</td></tr>
+<tr data-team="1175" data-nation="fr"><td>7</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="jerome-cousin" data-id="139474" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag fr"></span> <a href="rider/jerome-cousin">COUSIN Jérôme</a>  <span class="showIfMobile riderteam">Team Europcar</span> </div></td><td class="age hide" >22</td><td class="cu600" ><a href="team/team-europcar-2011">Team Europcar</a></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>1:17</span><div class="hide">1:17</div></td><td class="ar" >46.362</td></tr>
+<tr data-team="1187" data-nation="fr"><td>8</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="arnaud-demare" data-id="140818" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/arnaud-demare">DÉMARE Arnaud</a>  <span class="showIfMobile riderteam">FDJ</span> </div></td><td class="age hide" >19</td><td class="cu600" ><a href="team/fdj-2011">FDJ</a></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>1:22</span><div class="hide">1:22</div></td><td class="ar" >46.258</td></tr>
+<tr data-team="0" data-nation="fr"><td>9</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="christophe-laporte" data-id="137740" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag fr"></span> <a href="rider/christophe-laporte">LAPORTE Christophe</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >18</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>1:26</span><div class="hide">1:26</div></td><td class="ar" >46.175</td></tr>
+<tr data-team="0" data-nation="fr"><td>10</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="irwin-gras" data-id="136828" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag fr"></span> <a href="rider/irwin-gras">GRAS Irwin</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >19</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>1:27</span><div class="hide">1:27</div></td><td class="ar" >46.154</td></tr>
+<tr data-team="0" data-nation="fr"><td>11</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="jimmy-turgis" data-id="137808" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag fr"></span> <a href="rider/jimmy-turgis">TURGIS Jimmy</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>1:30</span><div class="hide">1:30</div></td><td class="ar" >46.092</td></tr>
+<tr data-team="1096" data-nation="fr"><td>12</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alliaume-leblond" data-id="135588" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag fr"></span> <a href="rider/alliaume-leblond">LEBLOND Alliaume</a>  <span class="showIfMobile riderteam">BigMat - Auber 93</span> </div></td><td class="age hide" >19</td><td class="cu600" ><a href="team/bigmat-auber-93-2011">BigMat - Auber 93</a></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>1:37</span><div class="hide">1:37</div></td><td class="ar" >45.947</td></tr>
+<tr data-team="0" data-nation="fr"><td>13</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="emilien-viennet" data-id="136627" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag fr"></span> <a href="rider/emilien-viennet">VIENNET Emilien</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >19</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:37</div></td><td class="ar" >45.947</td></tr>
+<tr data-team="1136" data-nation="fr"><td>14</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="romain-delalot" data-id="137828" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/romain-delalot">DELALOT Romain</a>  <span class="showIfMobile riderteam">Cofidis, le Crédit en Ligne</span> </div></td><td class="age hide" >20</td><td class="cu600" ><a href="team/cofidis-le-credit-en-ligne-2011">Cofidis, le Crédit en Ligne</a></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>1:42</span><div class="hide">1:42</div></td><td class="ar" >45.845</td></tr>
+<tr data-team="0" data-nation="fr"><td>15</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="jauffrey-betouigt-suire" data-id="135738" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag fr"></span> <a href="rider/jauffrey-betouigt-suire">BETOUIGT-SUIRE Jauffrey</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >19</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>1:50</span><div class="hide">1:50</div></td><td class="ar" >45.681</td></tr>
+<tr data-team="1440" data-nation="fr"><td>16</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="arnaud-jouffroy" data-id="140177" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag fr"></span> <a href="rider/arnaud-jouffroy">JOUFFROY Arnaud</a>  <span class="showIfMobile riderteam">Telenet - Fidea </span> </div></td><td class="age hide" >21</td><td class="cu600" ><a href="team/telenet-fidea-2011">Telenet - Fidea </a></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>1:51</span><div class="hide">1:51</div></td><td class="ar" >45.661</td></tr>
+<tr data-team="0" data-nation="fr"><td>17</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="julien-morice" data-id="137709" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag fr"></span> <a href="rider/julien-morice">MORICE Julien</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:17</span><div class="hide">2:17</div></td><td class="ar" >45.139</td></tr>
+<tr data-team="0" data-nation="fr"><td>18</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alexis-guerin" data-id="133003" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag fr"></span> <a href="rider/alexis-guerin">GUERIN Alexis</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >19</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:19</span><div class="hide">2:19</div></td><td class="ar" >45.099</td></tr>
+<tr data-team="0" data-nation="fr"><td>19</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="romain-guillemois" data-id="137705" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag fr"></span> <a href="rider/romain-guillemois">GUILLEMOIS Romain</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:23</span><div class="hide">2:23</div></td><td class="ar" >45.02</td></tr>
+<tr data-team="0" data-nation="fr"><td>20</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="jules-pijourlet" data-id="134250" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/jules-pijourlet">PIJOURLET Jules</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">2:23</div></td><td class="ar" >45.02</td></tr>
+<tr data-team="0" data-nation="fr"><td>21</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="erwan-teguel" data-id="137711" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag fr"></span> <a href="rider/erwan-teguel">TEGUEL Erwan</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:24</span><div class="hide">2:24</div></td><td class="ar" >45</td></tr>
+<tr data-team="0" data-nation="fr"><td>22</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="anthony-saux" data-id="137713" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag fr"></span> <a href="rider/anthony-saux">SAUX Anthony</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >19</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">2:24</div></td><td class="ar" >45</td></tr>
+<tr data-team="0" data-nation="fr"><td>23</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="fabien-le-coguic" data-id="132590" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag fr"></span> <a href="rider/fabien-le-coguic">LE COGUIC Fabien</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">2:24</div></td><td class="ar" >45</td></tr>
+<tr data-team="0" data-nation="fr"><td>24</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="aurelien-moulin" data-id="135758" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag fr"></span> <a href="rider/aurelien-moulin">MOULIN Aurélien</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >21</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:25</span><div class="hide">2:25</div></td><td class="ar" >44.98</td></tr>
+<tr data-team="1187" data-nation="fr"><td>25</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="fabien-schmidt" data-id="137666" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/fabien-schmidt">SCHMIDT Fabien</a>  <span class="showIfMobile riderteam">FDJ</span> </div></td><td class="age hide" >22</td><td class="cu600" ><a href="team/fdj-2011">FDJ</a></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:30</span><div class="hide">2:30</div></td><td class="ar" >44.882</td></tr>
+<tr data-team="0" data-nation="fr"><td>26</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="gregor-weiss" data-id="134284" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag fr"></span> <a href="rider/gregor-weiss">WEISS Grégor</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >22</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:42</span><div class="hide">2:42</div></td><td class="ar" >44.648</td></tr>
+<tr data-team="0" data-nation="fr"><td>27</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="pierre-almeida" data-id="135741" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag fr"></span> <a href="rider/pierre-almeida">ALMEIDA Pierre</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >19</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:53</span><div class="hide">2:53</div></td><td class="ar" >44.435</td></tr>
+<tr data-team="1351" data-nation="fr"><td>28</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="maxime-daniel" data-id="135556" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/maxime-daniel">DANIEL Maxime</a>  <span class="showIfMobile riderteam">Saur - Sojasun</span> </div></td><td class="age hide" >20</td><td class="cu600" ><a href="team/saur-sojasun-2011">Saur - Sojasun</a></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:55</span><div class="hide">2:55</div></td><td class="ar" >44.396</td></tr>
+<tr data-team="0" data-nation="fr"><td>29</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alexandre-gaspari" data-id="137723" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/alexandre-gaspari">GASPARI Alexandre</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >19</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:59</span><div class="hide">2:59</div></td><td class="ar" >44.32</td></tr>
+<tr data-team="0" data-nation="fr"><td>30</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="rudy-kowalski" data-id="136602" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/rudy-kowalski">KOWALSKI Rudy</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >21</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>3:01</span><div class="hide">3:01</div></td><td class="ar" >44.281</td></tr>
+<tr data-team="0" data-nation="fr"><td>31</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="sebastien-bergeret" data-id="137856" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag fr"></span> <a href="rider/sebastien-bergeret">BERGERET Sébastien</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >19</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>3:02</span><div class="hide">3:02</div></td><td class="ar" >44.262</td></tr>
+<tr data-team="0" data-nation="fr"><td>32</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="kevin-labeque" data-id="132591" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag fr"></span> <a href="rider/kevin-labeque">LABÈQUE Kévin</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >19</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>3:08</span><div class="hide">3:08</div></td><td class="ar" >44.148</td></tr>
+<tr data-team="0" data-nation="fr"><td>33</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="florent-gougeard" data-id="132592" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/florent-gougeard">GOUGEARD Florent</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >21</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>3:10</span><div class="hide">3:10</div></td><td class="ar" >44.11</td></tr>
+<tr data-team="0" data-nation="fr"><td>34</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="raphael-tapella" data-id="137810" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag fr"></span> <a href="rider/raphael-tapella">TAPELLA Raphaël</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>3:25</span><div class="hide">3:25</div></td><td class="ar" >43.827</td></tr>
+<tr data-team="0" data-nation="fr"><td>35</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="maxime-gastaldi" data-id="135601" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag fr"></span> <a href="rider/maxime-gastaldi">GASTALDI Maxime</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >21</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>3:38</span><div class="hide">3:38</div></td><td class="ar" >43.585</td></tr>
+<tr data-team="0" data-nation="fr"><td>36</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="kevin-perron" data-id="132596" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag fr"></span> <a href="rider/kevin-perron">PERRON Kévin</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >22</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>3:39</span><div class="hide">3:39</div></td><td class="ar" >43.567</td></tr>
+<tr data-team="1096" data-nation="fr"><td>37</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="flavien-dassonville" data-id="139297" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag fr"></span> <a href="rider/flavien-dassonville">DASSONVILLE Flavien</a>  <span class="showIfMobile riderteam">BigMat - Auber 93</span> </div></td><td class="age hide" >20</td><td class="cu600" ><a href="team/bigmat-auber-93-2011">BigMat - Auber 93</a></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>3:44</span><div class="hide">3:44</div></td><td class="ar" >43.475</td></tr>
+<tr data-team="0" data-nation="fr"><td>38</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="thibault-huche" data-id="135514" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/thibault-huche">HUCHE Thibault</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>3:49</span><div class="hide">3:49</div></td><td class="ar" >43.383</td></tr>
+<tr data-team="0" data-nation="fr"><td>39</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="armand-geneix" data-id="132864" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag fr"></span> <a href="rider/armand-geneix">GENEIX Armand</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >18</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>3:50</span><div class="hide">3:50</div></td><td class="ar" >43.364</td></tr>
+<tr data-team="0" data-nation="fr"><td>40</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="christopher-piry" data-id="135565" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/christopher-piry">PIRY Christopher</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >18</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>3:54</span><div class="hide">3:54</div></td><td class="ar" >43.291</td></tr>
+<tr data-team="0" data-nation="fr"><td>41</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="victor-gousset" data-id="134294" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/victor-gousset">GOUSSET Victor</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>4:03</span><div class="hide">4:03</div></td><td class="ar" >43.127</td></tr>
+<tr data-team="0" data-nation="fr"><td>42</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="florian-deriaux" data-id="138502" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/florian-deriaux">DERIAUX Florian</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >21</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>4:10</span><div class="hide">4:10</div></td><td class="ar" >43.001</td></tr>
+<tr data-team="0" data-nation="fr"><td>43</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="romain-pillon" data-id="139055" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/romain-pillon">PILLON Romain</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >21</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>4:37</span><div class="hide">4:37</div></td><td class="ar" >42.52</td></tr>
+<tr data-team="0" data-nation="fr"><td>44</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="remy-arthur" data-id="135740" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag fr"></span> <a href="rider/remy-arthur">ARTHUR Rémy</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >18</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>4:38</span><div class="hide">4:38</div></td><td class="ar" >42.502</td></tr>
+<tr data-team="0" data-nation="fr"><td>DNF</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="mickael-queiroz" data-id="133006" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag fr"></span> <a href="rider/mickael-queiroz">QUEIROZ Mickael</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >21</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" >-</td><td class="ar" ></td></tr>
+<tr data-team="0" data-nation="fr"><td>DNF</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="pierre-bonnet" data-id="134228" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/pierre-bonnet">BONNET Pierre</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >21</td><td class="cu600" ></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" >-</td><td class="ar" ></td></tr>
+</tbody></table>
+<div style="color: #bbb; font-size: 10px; text-align: right; ">DNF=Did not finish / DNS=Did not start / OTL = Outside time limit / DF=Did finish, no result / NR=No result<svg viewBox="0 0 24 24" style="width: 14px; margin: 0 0 -4px 3px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#dec650" d="M21 3a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-2.001L19 20a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1l-.001-8.001L3 12a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h6a3 3 0 0 0 6 0h6z"/></g></svg> Rider wearing the jersey<span   style=" margin-left: 10px;"> <svg viewBox="0 0 24 24" style="width: 10px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#f55733" d="M3.783 2.826L12 1l8.217 1.826a1 1 0 0 1 .783.976v9.987a6 6 0 0 1-2.672 4.992L12 23l-6.328-4.219A6 6 0 0 1 3 13.79V3.802a1 1 0 0 1 .783-.976z"/></g></svg>>50% of race distance in group before peloton</span><div class="clear"></div>  </div><div class="more-results-cont"><a class="viewMoreResults" data-n="25"   href="#">View top-25</a><div style="width: 10px; "></div><a class="viewMoreResults" data-n="250"   href="#">View full result</a></div><div class="mob-ad after-result "></div></div><div class="subTabs hide" data-subtab="2"></div></div></div><div class="w30 right mb_w100"><div class=""></div>
+<div class=""><h3>Race information</h3><div class=""></div></div>
+<img class="left maxw100 mg_rp10" src="images/logo/bn/ct/nc-france-itt-u23-2013.png" /><div class=""><ul class="infolist" style=""><li><div>Date:</div> <div>18 August 2011</div></li>
+<li><div>Start time:</div> <div>-</div></li>
+<li><div>Avg. speed winner:</div> <div>48.034 km/h</div></li>
+<li><div>Race category:</div> <div>MU - Men U23</div></li>
+<li><div>Distance: </div> <div>28.5 km</div></li>
+<li><div>Points scale:</div> <div><a    href="info.php?s=point-scales&season=2011&category=3&scale=0"></a></div></li>
+<li><div>UCI scale:</div> <div><a    href="info.php?s=point-scales&season=2011&category=3&pcs_uci&uci&scale=0"></a></div></li>
+<li><div>Parcours type: </div> <div><span class="icon profile p0"></span></div></li>
+<li><div>ProfileScore: </div> <div></div></li>
+<li><div>Vert. meters:</div> <div></div></li>
+<li><div>Departure:</div> <div><a    href="location/ussel">Ussel</a></div></li>
+<li><div>Arrival:</div> <div><a    href="location/ussel">Ussel</a></div></li>
+<li><div>Race ranking:</div> <div><a    href="race/nc-france-itt-u23/2011/result/overview/race-ranking">0</a></div></li>
+<li><div>Startlist quality score:</div> <div><a    href="race/nc-france-itt-u23/2011/startlist/startlist-quality">6</a></div></li>
+<li><div>Won how: </div> <div>Time Trial</div></li>
+<li><div>Avg. temperature:</div> <div><a    href="race/nc-france-itt-u23/2011/result/stages/hottest-stages"></a></div></li>
+</ul></div>
+<div class=""><ul class="list horizontal"></ul></div>
+<div class="mt10"><h3>Race profile</h3>
+<span class="table-cont"><ul class="list"  style=" "></ul></span></div>
+<div class="mt10"><h3>Sites</h3><ul class="list horizontal sites "></ul></div>
+<div class="fs11"><div class=""></div></div>
+<div class="desktop-ad race-column-right"></div><div class="mob-ad race-column-right"></div></div><div class="clear"></div>
+</div>
+<div class="desktop-ad below-content race"></div><div class="mob-ad below-content race"></div></div><div style="clear: both; "></div>  
+  </div>
+  </center>
+  <div class="push"></div>
+</div>
+<div class="footer">
+  <div class="sfa"><ul class="ftr-list"><li class="group"><h3>Grand Tours</h3><ul><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">Vuelta a España</a></li>
+</ul><h3>Major Tours</h3><ul><li><a href="race/paris-nice">Paris-Nice</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/volta-a-catalunya">Volta a Catalunya</a></li>
+<li><a href="race/tour-de-romandie">Tour de Romandie</a></li>
+<li><a href="race/tour-de-suisse">Tour de Suisse</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/itzulia-basque-country">Itzulia Basque Country</a></li>
+</ul></li>
+<li class="group"><h3>Monuments</h3><ul><li><a href="race/milano-sanremo">Milano-SanRemo</a></li>
+<li><a href="race/ronde-van-vlaanderen">Ronde van Vlaanderen</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+</ul><h3>Championships</h3><ul><li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/uec-road-european-championships">European championships</a></li>
+</ul></li>
+<li class="group"><h3>Top classics</h3><ul><li><a href="race/omloop-het-nieuwsblad">Omloop Het Nieuwsblad</a></li>
+<li><a href="race/strade-bianche">Strade Bianche</a></li>
+<li><a href="race/e3-harelbeke">E3 Classic</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem</a></li>
+<li><a href="race/dwars-door-vlaanderen">Dwars door vlaanderen</a></li>
+<li><a href="race/eschborn-frankfurt">Eschborn-Frankfurt</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/san-sebastian">San Sebastian</a></li>
+<li><a href="race/bretagne-classic">Bretagne Classic</a></li>
+<li><a href="race/gp-quebec">GP Québec</a></li>
+<li><a href="race/gp-montreal">GP Montréal</a></li>
+</ul></li>
+<li class="group"><h3>Popular riders</h3><ul><li><a href="rider/tadej-pogacar">Tadej Pogačar</a></li>
+<li><a href="rider/wout-van-aert">Wout van Aert</a></li>
+<li><a href="rider/remco-evenepoel">Remco Evenepoel</a></li>
+<li><a href="rider/jonas-vingegaard-rasmussen">Jonas Vingegaard</a></li>
+<li><a href="rider/mathieu-van-der-poel">Mathieu van der Poel</a></li>
+<li><a href="rider/biniam-girmay">Biniam Girmay</a></li>
+<li><a href="rider/peter-sagan">Peter Sagan</a></li>
+<li><a href="rider/annemiek-van-vleuten">Annemiek van Vleuten</a></li>
+<li><a href="rider/elisa-longo-borghini">Elisa Longo Borghini</a></li>
+<li><a href="rider/katarzyna-niewiadoma">Katarzyna Niewiadoma</a></li>
+</ul></li>
+<li class="group"><h3>Statistics</h3><ul><li><a href="statistics/start/points-per-age">Points per age</a></li>
+<li><a href="statistics/start/latest-injuries">Latest injuries</a></li>
+<li><a href="statistics/riders/youngest-riders">Youngest riders</a></li>
+<li><a href="statistics/grandtours">Grand tour statistics</a></li>
+<li><a href="statistics/monuments">Monument classics</a></li>
+<li><a href="teams/transfers">Latest transfers</a></li>
+<li><a href="favorite500">Favorite 500</a></li>
+</ul><h3>Rankings</h3><ul><li><a href="rankings.php">PCS ranking</a></li>
+<li><a href="rankings/me/uci-individual">UCI World Ranking</a></li>
+<li><a href="rankings/me/all-time">Alltime</a></li>
+</ul></li>
+<li class="group"><h3>Info</h3><ul><li><a href="info/point-scales">Points scales</a></li>
+<li><a href="info/profile-score-explained">Profile scores</a></li>
+<li><a href="reset_password.php">Reset password</a></li>
+<li><a href="info/pcs-game">PCS game</a></li>
+<li><a href="info/procyclinggame">ProCyclingGame</a></li>
+</ul><h3>About ProCyclingStats</h3><ul><li><a href="info/about-us">About us</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/cookie-policy">Cookie policy</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/contributions">Contributions</a></li>
+<li><span>Pageload 0.0301s</span></li>
+</ul></li>
+</ul><input type="hidden" id="pageid" value="1190" /><input type="hidden" id="userid" value="0" />
+	</div>
+</div> 
+ 
+ </body></html>
+<script src="search_list7.js"></script>  

@@ -1,0 +1,272 @@
+<!DOCTYPE HTML><html><head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35889790-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'GA_MEASUREMENT_ID', {
+	  'linker': {
+	    'domains': ['cx.procyclingstats.com','procyclingstats.com']
+	  }
+	});
+
+  gtag('config', 'UA-35889790-1');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2MNJ20S7SJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2MNJ20S7SJ');
+</script>
+<title>National Championships Honduras ME - Road Race 2022 One day race results</title>
+<base href="https://www.procyclingstats.com/race.php" />
+<link rel="canonical" href="https://www.procyclingstats.com/race/national-championships-honduras-road-race/2022/result" />
+<script>
+    var r89 = r89 || {
+      callAds: [],
+      pushAd: function(id, name, config) { r89.callAds.push([id, name, config]); }
+    };
+</script>
+<script async src="https://tags.refinery89.com/v2/procyclingstats.js"></script><meta name="description" content="Cristian Triminio is the winner of National Championships Honduras ME - Road Race 2022, before Christopher Jahir Diaz and Ever Rodezno. ">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="utf-8"> 
+<meta name="facebook-domain-verification" content="tjwn3jyjupm0t1j8e0sgis3c80x88r" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<base href="race.php" />
+	<link rel="stylesheet" type="text/css" href="https://www.procyclingstats.com/pcs_a190.css" />
+	
+<script src="https://www.procyclingstats.com/pcs_s79.js"></script> 
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css"> 
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.procyclingstats.com/images/pcs-logos/icon3/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-16x16.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon.ico" />
+ 
+</head>
+<body>
+<div class="wrapper">
+  <header class="">
+    <div class="cont">
+    	<a  class="logo" href="index.php"></a>
+  
+    	<form action="search.php" class="msearch"><input type="hidden"  id="term" />
+    		<input type="text" name="term" id="search" data-nav="race/-id-/result" data-nav2="" data-page="race" class="search4"  placeholder="search"  /></form> 
+    	<div class="menuCont">
+      	<a class="mobMenu" href="">Menu&#x25BC;</a>
+				<ul class="nav_v4 default"><li class=" "><a class="reg" href="index.php">Home</a></li>
+<li class="more4 "><a class="reg" href="races.php">Races</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">La Vuelta ciclista a España</a></li>
+<li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/milano-sanremo">Milano-Sanremo</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/paris-nice">Paris - Nice</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/volta-a-catalunya">Volta Ciclista a Catalunya</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/ronde-van-vlaanderen">Tour des Flandres</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem in Flanders Fields</a></li>
+<li><a href="race/san-sebastian">Clásica Ciclista San Sebastián</a></li>
+</ul></li>
+<li class="more4 "><a class="reg" href="teams.php">Teams</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="team/intermarche-circus-wanty-2023">Intermarché - Circus - Wanty </a></li>
+<li><a href="team/ineos-grenadiers-2023">INEOS Grenadiers</a></li>
+<li><a href="team/groupama-fdj-2023">Groupama - FDJ</a></li>
+<li><a href="team/ef-education-easypost-2023">EF Education-EasyPost</a></li>
+<li><a href="team/cofidis-2023">Cofidis </a></li>
+<li><a href="team/bora-hansgrohe-2023">BORA - hansgrohe</a></li>
+<li><a href="team/bahrain-victorious-2023">Bahrain - Victorious</a></li>
+<li><a href="team/astana-qazaqstan-team-2023">Astana Qazaqstan Team</a></li>
+<li><a href="team/team-jumbo-visma-2023">Jumbo-Visma</a></li>
+<li><a href="team/movistar-team-2023">Movistar Team</a></li>
+<li><a href="team/soudal-quick-step-2023">Soudal - Quick Step</a></li>
+<li><a href="team/team-arkea-samsic-2023">Team Arkéa Samsic</a></li>
+<li><a href="team/team-jayco-alula-2023">Team Jayco AlUla</a></li>
+<li><a href="team/team-dsm-2023">Team DSM</a></li>
+<li><a href="team/trek-segafredo-2023">Trek - Segafredo</a></li>
+<li><a href="team/uae-team-emirates-2023">UAE Team Emirates</a></li>
+<li><a href="team/alpecin-deceuninck-2023">Alpecin-Deceuninck</a></li>
+<li><a href="team/ag2r-citroen-team-2023">AG2R Citroën Team</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="rankings.php">Rankings</a></li>
+<li class="more4 "><a class="reg" href="statistics.php">Statistics</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="statistics">Overview</a></li>
+<li><a href="statistics/riders">Riders</a></li>
+<li><a href="statistics/teams">Teams</a></li>
+<li><a href="statistics/grandtours">Grand tours</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="game.php">Game</a></li>
+<li class="more4 "><a class="reg" href="riders.php">More</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="riders">Riders</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/countdown-to-1-billion-pageviews">Countdown to 2 billion pageviews</a></li>
+<li><a href="favorite500.php">Favorite500</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/about-us">About us</a></li>
+<li><a href="info/profile-score-explained">Profile Score</a></li>
+<li><a href="info/tutorials">Tutorials</a></li>
+</ul></li>
+<li class="more4 pro"><a class="reg" href="premium.php">Pro</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="">Dashboard</a></li>
+<li><a href="">Lists</a></li>
+</ul></li>
+ 
+				 </ul> 
+			 </div>
+			 <a class="user4" data-logged="0" href="account.php"><span>&#10070;</span><font class="hideIfMobile">login</font></a><a class="settings4 " href="settings.php"><span>&#10033;</span><font>settings</font></a>    </div>
+  </header>  
+<div class="content   "> <div class="page-topnav "><div class="pageDDnavCont"><div class="pageSelectNav " ><a  ></a><div ><form style="  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/national-championships-honduras-road-race/2023/result" >2023</option><option value="race/national-championships-honduras-road-race/2022/result" selected>2022</option></select></form></div><a  href="race/national-championships-honduras-road-race/2023/result" >2023</a></div><div class="pageSelectNav " ><div ><form style="  max-width: 150px; width: 100%;  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/national-championships-honduras-road-race/2022/result/result/result" selected>ME - Men Elite - Road race</option><option value="race/national-championships-honduras-itt/2022/result/result/result" >ME - Men Elite - TT</option><option value="race/national-championships-honduras-we-road-race/2022/result/result/result" >WE - Women Elite - Road race</option><option value="race/national-championships-honduras-we-itt/2022/result/result/result" >WE - Women Elite - TT</option><option value="race/national-championships-honduras-mj-road-race/2022/result/result/result" >MJ - Men Juniors - Road race</option><option value="race/national-championships-honduras-mj-itt/2022/result/result/result" >MJ - Men Juniors - TT</option></select></form></div></div><div class="pageSelectNav " ><div ><form style="  max-width: 150px; width: 100%;  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/nc-albania-itt/2022/result/result/result" >Albania</option><option value="race/nc-algeria-itt/2022/result/result/result" >Algeria</option><option value="race/nc-angola/2022/result/result/result" >Angola</option><option value="race/nc-antigua-and-barbuda-itt/2022/result/result/result" >Antigua and Barbuda</option><option value="race/nc-argentina-itt/2022/result/result/result" >Argentina</option><option value="race/nc-aruba-itt/2022/result/result/result" >Aruba</option><option value="race/australian-open-road-championships-itt/2022/result/result/result" >Australia</option><option value="race/nc-austria-itt/2022/result/result/result" >Austria</option><option value="race/nc-azerbaijan-itt/2022/result/result/result" >Azerbaijan</option><option value="race/national-championships-bahrain-road-race/2022/result/result/result" >Bahrain</option><option value="race/nc-barbados-itt/2022/result/result/result" >Barbados</option><option value="race/nc-belgium-itt/2022/result/result/result" >Belgium</option><option value="race/nc-belize-itt/2022/result/result/result" >Belize</option><option value="race/nc-bolivia-itt/2022/result/result/result" >Bolivia</option><option value="race/nc-brazil-itt/2022/result/result/result" >Brazil</option><option value="race/nc-bulgaria-itt/2022/result/result/result" >Bulgaria</option><option value="race/nc-burkina-faso/2022/result/result/result" >Burkina Faso</option><option value="race/nc-canada-itt/2022/result/result/result" >Canada</option><option value="race/nc-chile-itt/2022/result/result/result" >Chile</option><option value="race/national-championships-china-itt/2022/result/result/result" >China</option><option value="race/nc-colombia-itt/2022/result/result/result" >Colombia</option><option value="race/nc-costa-rica-itt/2022/result/result/result" >Costa Rica</option><option value="race/nc-croatia-itt/2022/result/result/result" >Croatia</option><option value="race/nc-cuba-itt/2022/result/result/result" >Cuba</option><option value="race/nc-cyprus-itt/2022/result/result/result" >Cyprus</option><option value="race/nc-czech-republic-itt/2022/result/result/result" >Czech Republic</option><option value="race/nc-denmark-itt/2022/result/result/result" >Denmark</option><option value="race/nc-ecuador-itt/2022/result/result/result" >Ecuador</option><option value="race/nc-el-salvador-itt/2022/result/result/result" >El Salvador</option><option value="race/nc-eritrea-itt/2022/result/result/result" >Eritrea</option><option value="race/nc-estonia-itt/2022/result/result/result" >Estonia</option><option value="race/national-championships-eswatini-road-race/2022/result/result/result" >Eswatini</option><option value="race/nc-ethiopia-itt/2022/result/result/result" >Ethiopia</option><option value="race/nc-finland-itt/2022/result/result/result" >Finland</option><option value="race/nc-france-itt/2022/result/result/result" >France</option><option value="race/nc-georgia-itt/2022/result/result/result" >Georgia</option><option value="race/nc-germany-itt/2022/result/result/result" >Germany</option><option value="race/nc-great-britain-itt/2022/result/result/result" >Great Britain</option><option value="race/nc-greece-itt/2022/result/result/result" >Greece</option><option value="race/national-championships-grenada-itt/2022/result/result/result" >Grenada</option><option value="race/nc-guatemala-itt/2022/result/result/result" >Guatemala</option><option value="race/national-championships-honduras-itt/2022/result/result/result" selected>Honduras</option><option value="race/nc-hong-kong-itt/2022/result/result/result" >Hongkong</option><option value="race/nc-hungary-itt/2022/result/result/result" >Hungary</option><option value="race/national-championships-iceland-itt/2022/result/result/result" >Iceland</option><option value="race/nc-india-itt/2022/result/result/result" >India</option><option value="race/national-championships-indonesia-itt/2022/result/result/result" >Indonesia</option><option value="race/nc-iran/2022/result/result/result" >Iran</option><option value="race/nc-ireland-itt/2022/result/result/result" >Ireland</option><option value="race/nc-israel-itt/2022/result/result/result" >Israel</option><option value="race/nc-italy-itt/2022/result/result/result" >Italy</option><option value="race/nc-ivory-coast/2022/result/result/result" >Ivory Coast</option><option value="race/nc-jamaica-itt/2022/result/result/result" >Jamaica</option><option value="race/nc-japan-itt/2022/result/result/result" >Japan</option><option value="race/nc-kazakhstan-itt/2022/result/result/result" >Kazakhstan</option><option value="race/nc-kosovo-itt/2022/result/result/result" >Kosovo</option><option value="race/nc-latvia-itt/2022/result/result/result" >Latvia</option><option value="race/nc-libanon-itt/2022/result/result/result" >Lebanon</option><option value="race/nc-lesotho/2022/result/result/result" >Lesotho</option><option value="race/nc-lithuania-itt/2022/result/result/result" >Lithuania</option><option value="race/nc-luxembourg-itt/2022/result/result/result" >Luxembourg</option><option value="race/nc-malaysia-itt/2022/result/result/result" >Malaysia</option><option value="race/national-championships-mali-road-race/2022/result/result/result" >Mali</option><option value="race/nc-mauritius-itt/2022/result/result/result" >Mauritius</option><option value="race/nc-moldova-itt/2022/result/result/result" >Moldova</option><option value="race/nc-mongolia-itt/2022/result/result/result" >Mongolia</option><option value="race/national-championships-montenegro-itt/2022/result/result/result" >Montenegro</option><option value="race/nc-morocco-itt/2022/result/result/result" >Morocco</option><option value="race/nc-namibia-itt/2022/result/result/result" >Namibia</option><option value="race/nc-netherlands-itt/2022/result/result/result" >Netherlands</option><option value="race/nc-new-zealand-itt/2022/result/result/result" >New Zealand</option><option value="race/nc-macedonia-itt/2022/result/result/result" >North Macedonia</option><option value="race/nc-norway-itt/2022/result/result/result" >Norway</option><option value="race/national-championships-oman-itt/2022/result/result/result" >Oman</option><option value="race/nc-panama-itt/2022/result/result/result" >Panama</option><option value="race/nc-paraguay-itt/2022/result/result/result" >Paraguay</option><option value="race/nc-philippines-itt/2022/result/result/result" >Philippines</option><option value="race/nc-poland-itt/2022/result/result/result" >Poland</option><option value="race/nc-portugal/2022/result/result/result" >Portugal</option><option value="race/nc-puerto-rico-itt/2022/result/result/result" >Puerto Rico</option><option value="race/national-championships-qatar-road-race/2022/result/result/result" >Qatar</option><option value="race/nc-romania-itt/2022/result/result/result" >Romania</option><option value="race/nc-rwanda-itt/2022/result/result/result" >Rwanda</option><option value="race/national-championships-saint-vincent4/2022/result/result/result" >Saint Vincent and the Grenadines</option><option value="race/nc-serbia-itt/2022/result/result/result" >Serbia</option><option value="race/nc-singapore-itt2/2022/result/result/result" >Singapore</option><option value="race/national-championships-sint-maarten-itt/2022/result/result/result" >Sint Maarten</option><option value="race/nc-slovakia2/2022/result/result/result" >Slovakia</option><option value="race/nc-slovenia-itt/2022/result/result/result" >Slovenia</option><option value="race/nc-south-africa-itt/2022/result/result/result" >South Africa</option><option value="race/nc-south-korea-itt/2022/result/result/result" >South Korea</option><option value="race/nc-spain-itt/2022/result/result/result" >Spain</option><option value="race/nc-sweden-itt/2022/result/result/result" >Sweden</option><option value="race/nc-switzerland-itt/2022/result/result/result" >Switzerland</option><option value="race/nc-thailand-itt/2022/result/result/result" >Thailand</option><option value="race/nc-togo/2022/result/result/result" >Togo</option><option value="race/national-championships-trinidad-tobago-itt/2022/result/result/result" >Trinidad & Tobago</option><option value="race/nc-tunisia-itt/2022/result/result/result" >Tunisia</option><option value="race/nc-turkey-itt/2022/result/result/result" >Turkey</option><option value="race/nc-united-arab-emirates-itt/2022/result/result/result" >United Arab Emirates</option></select></form></div></div></div><ul class="pagenavLinks"><li class="reg "><a class="cur" href="race/national-championships-honduras-road-race/2022/result">Results</a></li>
+<li class="reg "><a style=" " href="race/national-championships-honduras-road-race/2022/startlist">Startlist</a><ul><li><a href="race/national-championships-honduras-road-race/2022/startlist">Startlist</a></li><li><a href="race/national-championships-honduras-road-race/results">Race palmares</a></li></ul></li><li class="reg "><a class="" href="race/national-championships-honduras-road-race/2022/result/info">Info&#x25BC;</a><ul><li><a href="race/national-championships-honduras-road-race/2022/result/info/complementary-results">Complementary results</a></li>
+<li><a href="race/national-championships-honduras-road-race/2022/result/info/photos">Finish photo</a></li>
+<li><a href="race/national-championships-honduras-road-race/2022/result/info/profiles">Profiles</a></li>
+<li><a href="race/national-championships-honduras-road-race/2022/result/info/time-table">Time table</a></li>
+</ul></li>
+<li class="reg "><a class="" href="race/national-championships-honduras-road-race/2022/result/live">Live</a></li>
+<li class="reg "><a class="" href="race/national-championships-honduras-road-race/2022/result/game">Game</a></li>
+<li class="reg "><a class="" href="race/national-championships-honduras-road-race/2022/result/statistics">Stats</a></li>
+<li class="reg "><a class="" href="race/national-championships-honduras-road-race/2022/result/more">More&#x25BC;</a><ul><li><a href="race/national-championships-honduras-road-race/2022/result/more/report">Report</a></li>
+<li><a href="race/national-championships-honduras-road-race/2022/result/more/embed-results">Embed</a></li>
+<li><a href="race/national-championships-honduras-road-race/2022/result/more/contribute-info">Contribute info</a></li>
+<li><a href="race/national-championships-honduras-road-race/2022/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li>
+<li class="more"><a href="race/national-championships-honduras-road-race/2022/result">More</a><ul><li data-n="1"><a href="race/national-championships-honduras-road-race/2022/result/result/result">Results - Results</a></li><li data-n="2"><a href="race/national-championships-honduras-road-race/2022/result/info/info">Info - Info</a></li><li data-n="1"><a href="race/national-championships-honduras-road-race/2022/result/info/complementary-results">Complementary results</a></li>
+<li data-n="1"><a href="race/national-championships-honduras-road-race/2022/result/info/photos">Finish photo</a></li>
+<li data-n="1"><a href="race/national-championships-honduras-road-race/2022/result/info/profiles">Profiles</a></li>
+<li data-n="1"><a href="race/national-championships-honduras-road-race/2022/result/info/time-table">Time table</a></li>
+<li data-n="3"><a href="race/national-championships-honduras-road-race/2022/result/live/live">Live - Live</a></li><li data-n="4"><a href="race/national-championships-honduras-road-race/2022/result/game/game">Game - Game</a></li><li data-n="5"><a href="race/national-championships-honduras-road-race/2022/result/statistics/statistics">Stats - Stats</a></li><li data-n="6"><a href="race/national-championships-honduras-road-race/2022/result/more/more">More - More</a></li><li data-n="5"><a href="race/national-championships-honduras-road-race/2022/result/more/report">Report</a></li>
+<li data-n="5"><a href="race/national-championships-honduras-road-race/2022/result/more/embed-results">Embed</a></li>
+<li data-n="5"><a href="race/national-championships-honduras-road-race/2022/result/more/contribute-info">Contribute info</a></li>
+<li data-n="5"><a href="race/national-championships-honduras-road-race/2022/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li></ul><div class="clear"></div></div><ul class="thumbnails" ><li><a href="race/national-championships-honduras-road-race">National Championships Honduras ME - Road Race</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/national-championships-honduras-road-race/2022">2022</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/national-championships-honduras-road-race/2022/result">One day race</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/national-championships-honduras-road-race/2022/result/result">Results</a></li></ul><div class="page-title " ><div class="main"><span class="flag hn w32"></span><span class="flag hn w24"></span><span class="hideIfMobile">2022</span><span class="hideIfMobile">&raquo;</span><h1 class="">National Championships Honduras ME - Road Race</h1><font class="hideIfMobile">(NC)</font></div><div class="sub"><span class="showIfMobile">2022</span><span class="showIfMobile">&raquo;</span><span class="blue">One day race</span></div></div><div class="clear"></div><div class="desktop-ad leaderbord race"></div><div class="mob-ad leaderbord race"></div><div class="top-cont"></div><div class="top-cont-mobile top-cont-mobile-race"></div><div class="page-content page-object default " data-no_menu="1" ><h2></h2><div class="w100 "   >
+<div class="w68 left mb_w100"><div class="result-filter-cont"><label for="age"><input type="checkbox" class="toggleAge" value="1" id="age">Age</label><label for="h2h"><input type="checkbox" class="toggleH2H cbFalseOnLoad" value="1" id="h2h" >H2H</label><span class="hideIfMobile"><label for="specialty"><input type="checkbox" class="toggleSpecialty " value="1" id="specialty">Specialty</label></span><a class="clearFilter blue hide" style="padding: 0px 7px; " href="">clear filter</a><select class="TNFilter" data-type="team"><option value="0"  >-</option></select><select class="TNFilter" data-type="nation"><option value="0"  >all nations</option><option value="hn"  >Honduras</option></select></div><div class="hide timeWonLostComment" style="text-align: right; color: #555; font-size: 10px; ">The time won/lost column displays the gains in time in the GC. Click on the time of any rider to view the relative gains on this rider.</div><div class="h2h hide " style="font-size: 11px; color: #555;   ">Select two riders to compare. </div><div class="result-cont " data-id="276589">
+<div class="subTabs" data-subtab="1"><table class="results basic moblist10"><thead><tr><th>Rnk</th><th class="bibs hide" >BIB</th><th class="h2h hide" >H2H</th><th class="specialty hide" >Specialty</th><th>Rider</th><th class="age hide" >Age</th><th class="cu600" >Team</th><th>UCI</th><th>Pnt</th><th class="time ar" >Time</th></tr></thead><tbody>
+<tr data-team="0" data-nation="hn"><td>1</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="cristian-triminio" data-id="240964" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/cristian-triminio">TRIMINIO Cristian</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >26</td><td class="cu600" ></td><td>50</td><td>15</td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="hn"><td>2</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="christopher-diaz" data-id="273559" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/christopher-diaz">DIAZ Christopher Jahir</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >19</td><td class="cu600" ></td><td>30</td><td>10</td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="hn"><td>3</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="ever-rodezno" data-id="273968" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/ever-rodezno">RODEZNO Ever</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >26</td><td class="cu600" ></td><td>20</td><td>7</td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="hn"><td>4</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="cesar-castillo1" data-id="273971" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/cesar-castillo1">CASTILLO Cesar</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >25</td><td class="cu600" ></td><td>15</td><td>4</td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="hn"><td>5</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="cristian-chevez" data-id="273969" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/cristian-chevez">CHEVEZ Cristian</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >27</td><td class="cu600" ></td><td>10</td><td>2</td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="hn"><td>6</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="marco-baca" data-id="282103" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/marco-baca">BACA Marco</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >26</td><td class="cu600" ></td><td>5</td><td>1</td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="hn"><td>7</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="kevin-ayala" data-id="282104" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/kevin-ayala">AYALA Kevin</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >28</td><td class="cu600" ></td><td>3</td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="hn"><td>8</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="rigoberto-quintanilla" data-id="282105" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/rigoberto-quintanilla">QUINTANILLA Rigoberto</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td>3</td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="hn"><td>9</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="juan-betancourt" data-id="282106" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/juan-betancourt">BETANCOURT Juan</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >46</td><td class="cu600" ></td><td>1</td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="hn"><td>10</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="cesar-nolasco" data-id="282108" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/cesar-nolasco">NOLASCO Cesar</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td>1</td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="hn"><td>11</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="amzi-ham" data-id="282107" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/amzi-ham">HAM Amzi</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >22</td><td class="cu600" ></td><td></td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="hn"><td>12</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="melvin-betancourth" data-id="282109" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/melvin-betancourth">BETANCOURTH Melvin</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >48</td><td class="cu600" ></td><td></td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="hn"><td>DNF</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="carlos-martinez" data-id="282112" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/carlos-martinez">MARTINEZ Carlos</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >24</td><td class="cu600" ></td><td></td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="hn"><td>DNF</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="cristian-velasquez" data-id="119335" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/cristian-velasquez">VELASQUEZ Cristian</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >41</td><td class="cu600" ></td><td></td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="hn"><td>DNF</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="lee-marin" data-id="282110" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/lee-marin">MARIN Lee</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >29</td><td class="cu600" ></td><td></td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="hn"><td>DNF</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="ludwin-canales" data-id="282113" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/ludwin-canales">CANALES Ludwin</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >25</td><td class="cu600" ></td><td></td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="hn"><td>DNF</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="daniel-lopez2" data-id="282111" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/daniel-lopez2">LOPEZ Daniel</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >36</td><td class="cu600" ></td><td></td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="hn"><td>DNF</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alex-velasquez" data-id="282114" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag hn"></span> <a href="rider/alex-velasquez">VELASQUEZ Alex</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >30</td><td class="cu600" ></td><td></td><td></td><td class="time ar" >-</td></tr>
+</tbody></table>
+<div style="color: #bbb; font-size: 10px; text-align: right; ">DNF=Did not finish / DNS=Did not start / OTL = Outside time limit / DF=Did finish, no result / NR=No result<svg viewBox="0 0 24 24" style="width: 14px; margin: 0 0 -4px 3px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#dec650" d="M21 3a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-2.001L19 20a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1l-.001-8.001L3 12a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h6a3 3 0 0 0 6 0h6z"/></g></svg> Rider wearing the jersey<span   style=" margin-left: 10px;"> <svg viewBox="0 0 24 24" style="width: 10px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#f55733" d="M3.783 2.826L12 1l8.217 1.826a1 1 0 0 1 .783.976v9.987a6 6 0 0 1-2.672 4.992L12 23l-6.328-4.219A6 6 0 0 1 3 13.79V3.802a1 1 0 0 1 .783-.976z"/></g></svg>>50% of race distance in group before peloton</span><div class="clear"></div>  </div><div class="more-results-cont"><a class="viewMoreResults" data-n="25"   href="#">View top-18</a></div><div class="mob-ad after-result "></div></div><div class="subTabs hide" data-subtab="2"></div></div></div><div class="w30 right mb_w100"><div class=""></div>
+<div class=""><h3>Race information</h3><div class=""></div></div>
+<img class="left maxw100 mg_rp10" src="" /><div class=""><ul class="infolist" style=""><li><div>Date:</div> <div>19 June 2022</div></li>
+<li><div>Start time:</div> <div>-</div></li>
+<li><div>Avg. speed winner:</div> <div>-</div></li>
+<li><div>Race category:</div> <div>ME - Men Elite</div></li>
+<li><div>Distance: </div> <div>0 km</div></li>
+<li><div>Points scale:</div> <div><a    href="info.php?s=point-scales&season=2022&category=1&scale=92">Nationals.C3</a></div></li>
+<li><div>UCI scale:</div> <div><a    href="info.php?s=point-scales&season=2022&category=1&pcs_uci&uci&scale=6534">UCI.WR.NC.B.RR</a></div></li>
+<li><div>Parcours type: </div> <div><span class="icon profile p0"></span></div></li>
+<li><div>ProfileScore: </div> <div></div></li>
+<li><div>Vert. meters:</div> <div></div></li>
+<li><div>Departure:</div> <div><a    href="location/"></a></div></li>
+<li><div>Arrival:</div> <div><a    href="location/"></a></div></li>
+<li><div>Race ranking:</div> <div><a    href="race/national-championships-honduras-road-race/2022/result/overview/race-ranking">720</a></div></li>
+<li><div>Startlist quality score:</div> <div><a    href="race/national-championships-honduras-road-race/2022/startlist/startlist-quality">1</a></div></li>
+<li><div>Won how: </div> <div><a    href="race/national-championships-honduras-road-race/2022/result/more/contribute-info">? - let us know!</a></div></li>
+<li><div>Avg. temperature:</div> <div><a    href="race/national-championships-honduras-road-race/2022/result/stages/hottest-stages"></a></div></li>
+</ul></div>
+<div class=""><ul class="list horizontal"></ul></div>
+<div class="mt10"><h3>Race profile</h3>
+<span class="table-cont"><ul class="list"  style=" "></ul></span></div>
+<div class="mt10"><h3>Sites</h3><ul class="list horizontal sites "></ul></div>
+<div class="fs11"><div class=""></div></div>
+<div class="desktop-ad race-column-right"></div><div class="mob-ad race-column-right"></div></div><div class="clear"></div>
+</div>
+<div class="desktop-ad below-content race"></div><div class="mob-ad below-content race"></div></div><div style="clear: both; "></div>  
+  </div>
+  </center>
+  <div class="push"></div>
+</div>
+<div class="footer">
+  <div class="sfa"><ul class="ftr-list"><li class="group"><h3>Grand Tours</h3><ul><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">Vuelta a España</a></li>
+</ul><h3>Major Tours</h3><ul><li><a href="race/paris-nice">Paris-Nice</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/volta-a-catalunya">Volta a Catalunya</a></li>
+<li><a href="race/tour-de-romandie">Tour de Romandie</a></li>
+<li><a href="race/tour-de-suisse">Tour de Suisse</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/itzulia-basque-country">Itzulia Basque Country</a></li>
+</ul></li>
+<li class="group"><h3>Monuments</h3><ul><li><a href="race/milano-sanremo">Milano-SanRemo</a></li>
+<li><a href="race/ronde-van-vlaanderen">Ronde van Vlaanderen</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+</ul><h3>Championships</h3><ul><li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/uec-road-european-championships">European championships</a></li>
+</ul></li>
+<li class="group"><h3>Top classics</h3><ul><li><a href="race/omloop-het-nieuwsblad">Omloop Het Nieuwsblad</a></li>
+<li><a href="race/strade-bianche">Strade Bianche</a></li>
+<li><a href="race/e3-harelbeke">E3 Classic</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem</a></li>
+<li><a href="race/dwars-door-vlaanderen">Dwars door vlaanderen</a></li>
+<li><a href="race/eschborn-frankfurt">Eschborn-Frankfurt</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/san-sebastian">San Sebastian</a></li>
+<li><a href="race/bretagne-classic">Bretagne Classic</a></li>
+<li><a href="race/gp-quebec">GP Québec</a></li>
+<li><a href="race/gp-montreal">GP Montréal</a></li>
+</ul></li>
+<li class="group"><h3>Popular riders</h3><ul><li><a href="rider/tadej-pogacar">Tadej Pogačar</a></li>
+<li><a href="rider/wout-van-aert">Wout van Aert</a></li>
+<li><a href="rider/remco-evenepoel">Remco Evenepoel</a></li>
+<li><a href="rider/jonas-vingegaard-rasmussen">Jonas Vingegaard</a></li>
+<li><a href="rider/mathieu-van-der-poel">Mathieu van der Poel</a></li>
+<li><a href="rider/biniam-girmay">Biniam Girmay</a></li>
+<li><a href="rider/peter-sagan">Peter Sagan</a></li>
+<li><a href="rider/annemiek-van-vleuten">Annemiek van Vleuten</a></li>
+<li><a href="rider/elisa-longo-borghini">Elisa Longo Borghini</a></li>
+<li><a href="rider/katarzyna-niewiadoma">Katarzyna Niewiadoma</a></li>
+</ul></li>
+<li class="group"><h3>Statistics</h3><ul><li><a href="statistics/start/points-per-age">Points per age</a></li>
+<li><a href="statistics/start/latest-injuries">Latest injuries</a></li>
+<li><a href="statistics/riders/youngest-riders">Youngest riders</a></li>
+<li><a href="statistics/grandtours">Grand tour statistics</a></li>
+<li><a href="statistics/monuments">Monument classics</a></li>
+<li><a href="teams/transfers">Latest transfers</a></li>
+<li><a href="favorite500">Favorite 500</a></li>
+</ul><h3>Rankings</h3><ul><li><a href="rankings.php">PCS ranking</a></li>
+<li><a href="rankings/me/uci-individual">UCI World Ranking</a></li>
+<li><a href="rankings/me/all-time">Alltime</a></li>
+</ul></li>
+<li class="group"><h3>Info</h3><ul><li><a href="info/point-scales">Points scales</a></li>
+<li><a href="info/profile-score-explained">Profile scores</a></li>
+<li><a href="reset_password.php">Reset password</a></li>
+<li><a href="info/pcs-game">PCS game</a></li>
+<li><a href="info/procyclinggame">ProCyclingGame</a></li>
+</ul><h3>About ProCyclingStats</h3><ul><li><a href="info/about-us">About us</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/cookie-policy">Cookie policy</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/contributions">Contributions</a></li>
+<li><span>Pageload 0.0316s</span></li>
+</ul></li>
+</ul><input type="hidden" id="pageid" value="1190" /><input type="hidden" id="userid" value="0" />
+	</div>
+</div> 
+ 
+ </body></html>
+<script src="search_list7.js"></script>  

@@ -1,0 +1,298 @@
+<!DOCTYPE HTML><html><head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35889790-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'GA_MEASUREMENT_ID', {
+	  'linker': {
+	    'domains': ['cx.procyclingstats.com','procyclingstats.com']
+	  }
+	});
+
+  gtag('config', 'UA-35889790-1');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2MNJ20S7SJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2MNJ20S7SJ');
+</script>
+<title>Liège - Bastogne - Liège 1982 One day race results</title>
+<base href="https://www.procyclingstats.com/race.php" />
+<link rel="canonical" href="https://www.procyclingstats.com/race/liege-bastogne-liege/1982/result" />
+<script>
+    var r89 = r89 || {
+      callAds: [],
+      pushAd: function(id, name, config) { r89.callAds.push([id, name, config]); }
+    };
+</script>
+<script async src="https://tags.refinery89.com/v2/procyclingstats.js"></script><meta name="description" content="Silvano Contini is the winner of Liège - Bastogne - Liège 1982, before Fons de Wolf and Stefan Mutter. ">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="utf-8"> 
+<meta name="facebook-domain-verification" content="tjwn3jyjupm0t1j8e0sgis3c80x88r" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<base href="race.php" />
+	<link rel="stylesheet" type="text/css" href="https://www.procyclingstats.com/pcs_a189.css" />
+	
+<script src="https://www.procyclingstats.com/pcs_s78.js"></script> 
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css"> 
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.procyclingstats.com/images/pcs-logos/icon3/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-16x16.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon.ico" />
+ 
+</head>
+<body>
+<div class="wrapper">
+  <header class="">
+    <div class="cont">
+    	<a  class="logo" href="index.php"></a>
+  
+    	<form action="search.php" class="msearch"><input type="hidden"  id="term" />
+    		<input type="text" name="term" id="search" data-nav="race/-id-/result" data-nav2="" data-page="race" class="search4"  placeholder="search"  /></form> 
+    	<div class="menuCont">
+      	<a class="mobMenu" href="">Menu&#x25BC;</a>
+				<ul class="nav_v4 default"><li class=" "><a class="reg" href="index.php">Home</a></li>
+<li class="more4 "><a class="reg" href="races.php">Races</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">La Vuelta ciclista a España</a></li>
+<li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/milano-sanremo">Milano-Sanremo</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/paris-nice">Paris - Nice</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/volta-a-catalunya">Volta Ciclista a Catalunya</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/ronde-van-vlaanderen">Tour des Flandres</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem in Flanders Fields</a></li>
+<li><a href="race/san-sebastian">Clásica Ciclista San Sebastián</a></li>
+</ul></li>
+<li class="more4 "><a class="reg" href="teams.php">Teams</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="team/intermarche-circus-wanty-2023">Intermarché - Circus - Wanty </a></li>
+<li><a href="team/ineos-grenadiers-2023">INEOS Grenadiers</a></li>
+<li><a href="team/groupama-fdj-2023">Groupama - FDJ</a></li>
+<li><a href="team/ef-education-easypost-2023">EF Education-EasyPost</a></li>
+<li><a href="team/cofidis-2023">Cofidis </a></li>
+<li><a href="team/bora-hansgrohe-2023">BORA - hansgrohe</a></li>
+<li><a href="team/bahrain-victorious-2023">Bahrain - Victorious</a></li>
+<li><a href="team/astana-qazaqstan-team-2023">Astana Qazaqstan Team</a></li>
+<li><a href="team/team-jumbo-visma-2023">Jumbo-Visma</a></li>
+<li><a href="team/movistar-team-2023">Movistar Team</a></li>
+<li><a href="team/soudal-quick-step-2023">Soudal - Quick Step</a></li>
+<li><a href="team/team-arkea-samsic-2023">Team Arkéa Samsic</a></li>
+<li><a href="team/team-jayco-alula-2023">Team Jayco AlUla</a></li>
+<li><a href="team/team-dsm-2023">Team DSM</a></li>
+<li><a href="team/trek-segafredo-2023">Trek - Segafredo</a></li>
+<li><a href="team/uae-team-emirates-2023">UAE Team Emirates</a></li>
+<li><a href="team/alpecin-deceuninck-2023">Alpecin-Deceuninck</a></li>
+<li><a href="team/ag2r-citroen-team-2023">AG2R Citroën Team</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="rankings.php">Rankings</a></li>
+<li class="more4 "><a class="reg" href="statistics.php">Statistics</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="statistics">Overview</a></li>
+<li><a href="statistics/riders">Riders</a></li>
+<li><a href="statistics/teams">Teams</a></li>
+<li><a href="statistics/grandtours">Grand tours</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="game.php">Game</a></li>
+<li class="more4 "><a class="reg" href="riders.php">More</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="riders">Riders</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/countdown-to-1-billion-pageviews">Countdown to 2 billion pageviews</a></li>
+<li><a href="favorite500.php">Favorite500</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/about-us">About us</a></li>
+<li><a href="info/profile-score-explained">Profile Score</a></li>
+<li><a href="info/tutorials">Tutorials</a></li>
+</ul></li>
+<li class="more4 pro"><a class="reg" href="premium.php">Pro</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="">Dashboard</a></li>
+<li><a href="">Lists</a></li>
+</ul></li>
+ 
+				 </ul> 
+			 </div>
+			 <a class="user4" data-logged="0" href="account.php"><span>&#10070;</span><font class="hideIfMobile">login</font></a><a class="settings4 " href="settings.php"><span>&#10033;</span><font>settings</font></a>    </div>
+  </header>  
+<div class="content   "> <div class="page-topnav "><div class="pageDDnavCont"><div class="pageSelectNav " ><a   href="race/liege-bastogne-liege/1981/result" >1981</a><div ><form style="  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/liege-bastogne-liege/2024/result" >2024</option><option value="race/liege-bastogne-liege/2023/result" >2023</option><option value="race/liege-bastogne-liege/2022/result" >2022</option><option value="race/liege-bastogne-liege/2021/result" >2021</option><option value="race/liege-bastogne-liege/2020/result" >2020</option><option value="race/liege-bastogne-liege/2019/result" >2019</option><option value="race/liege-bastogne-liege/2018/result" >2018</option><option value="race/liege-bastogne-liege/2017/result" >2017</option><option value="race/liege-bastogne-liege/2016/result" >2016</option><option value="race/liege-bastogne-liege/2015/result" >2015</option><option value="race/liege-bastogne-liege/2014/result" >2014</option><option value="race/liege-bastogne-liege/2013/result" >2013</option><option value="race/liege-bastogne-liege/2012/result" >2012</option><option value="race/liege-bastogne-liege/2011/result" >2011</option><option value="race/liege-bastogne-liege/2010/result" >2010</option><option value="race/liege-bastogne-liege/2009/result" >2009</option><option value="race/liege-bastogne-liege/2008/result" >2008</option><option value="race/liege-bastogne-liege/2007/result" >2007</option><option value="race/liege-bastogne-liege/2006/result" >2006</option><option value="race/liege-bastogne-liege/2005/result" >2005</option><option value="race/liege-bastogne-liege/2004/result" >2004</option><option value="race/liege-bastogne-liege/2003/result" >2003</option><option value="race/liege-bastogne-liege/2002/result" >2002</option><option value="race/liege-bastogne-liege/2001/result" >2001</option><option value="race/liege-bastogne-liege/2000/result" >2000</option><option value="race/liege-bastogne-liege/1999/result" >1999</option><option value="race/liege-bastogne-liege/1998/result" >1998</option><option value="race/liege-bastogne-liege/1997/result" >1997</option><option value="race/liege-bastogne-liege/1996/result" >1996</option><option value="race/liege-bastogne-liege/1995/result" >1995</option><option value="race/liege-bastogne-liege/1994/result" >1994</option><option value="race/liege-bastogne-liege/1993/result" >1993</option><option value="race/liege-bastogne-liege/1992/result" >1992</option><option value="race/liege-bastogne-liege/1991/result" >1991</option><option value="race/liege-bastogne-liege/1990/result" >1990</option><option value="race/liege-bastogne-liege/1989/result" >1989</option><option value="race/liege-bastogne-liege/1988/result" >1988</option><option value="race/liege-bastogne-liege/1987/result" >1987</option><option value="race/liege-bastogne-liege/1986/result" >1986</option><option value="race/liege-bastogne-liege/1985/result" >1985</option><option value="race/liege-bastogne-liege/1984/result" >1984</option><option value="race/liege-bastogne-liege/1983/result" >1983</option><option value="race/liege-bastogne-liege/1982/result" selected>1982</option><option value="race/liege-bastogne-liege/1981/result" >1981</option><option value="race/liege-bastogne-liege/1980/result" >1980</option><option value="race/liege-bastogne-liege/1979/result" >1979</option><option value="race/liege-bastogne-liege/1978/result" >1978</option><option value="race/liege-bastogne-liege/1977/result" >1977</option><option value="race/liege-bastogne-liege/1976/result" >1976</option><option value="race/liege-bastogne-liege/1975/result" >1975</option><option value="race/liege-bastogne-liege/1974/result" >1974</option><option value="race/liege-bastogne-liege/1973/result" >1973</option><option value="race/liege-bastogne-liege/1972/result" >1972</option><option value="race/liege-bastogne-liege/1971/result" >1971</option><option value="race/liege-bastogne-liege/1970/result" >1970</option><option value="race/liege-bastogne-liege/1969/result" >1969</option><option value="race/liege-bastogne-liege/1968/result" >1968</option><option value="race/liege-bastogne-liege/1967/result" >1967</option><option value="race/liege-bastogne-liege/1966/result" >1966</option><option value="race/liege-bastogne-liege/1965/result" >1965</option><option value="race/liege-bastogne-liege/1964/result" >1964</option><option value="race/liege-bastogne-liege/1963/result" >1963</option><option value="race/liege-bastogne-liege/1962/result" >1962</option><option value="race/liege-bastogne-liege/1961/result" >1961</option><option value="race/liege-bastogne-liege/1960/result" >1960</option><option value="race/liege-bastogne-liege/1959/result" >1959</option><option value="race/liege-bastogne-liege/1958/result" >1958</option><option value="race/liege-bastogne-liege/1957/result" >1957</option><option value="race/liege-bastogne-liege/1956/result" >1956</option><option value="race/liege-bastogne-liege/1955/result" >1955</option><option value="race/liege-bastogne-liege/1954/result" >1954</option><option value="race/liege-bastogne-liege/1953/result" >1953</option><option value="race/liege-bastogne-liege/1952/result" >1952</option><option value="race/liege-bastogne-liege/1951/result" >1951</option><option value="race/liege-bastogne-liege/1950/result" >1950</option><option value="race/liege-bastogne-liege/1949/result" >1949</option><option value="race/liege-bastogne-liege/1948/result" >1948</option><option value="race/liege-bastogne-liege/1947/result" >1947</option><option value="race/liege-bastogne-liege/1946/result" >1946</option><option value="race/liege-bastogne-liege/1945/result" >1945</option><option value="race/liege-bastogne-liege/1943/result" >1943</option><option value="race/liege-bastogne-liege/1939/result" >1939</option><option value="race/liege-bastogne-liege/1938/result" >1938</option><option value="race/liege-bastogne-liege/1937/result" >1937</option><option value="race/liege-bastogne-liege/1936/result" >1936</option><option value="race/liege-bastogne-liege/1935/result" >1935</option><option value="race/liege-bastogne-liege/1934/result" >1934</option><option value="race/liege-bastogne-liege/1933/result" >1933</option><option value="race/liege-bastogne-liege/1932/result" >1932</option><option value="race/liege-bastogne-liege/1931/result" >1931</option><option value="race/liege-bastogne-liege/1930/result" >1930</option><option value="race/liege-bastogne-liege/1929/result" >1929</option><option value="race/liege-bastogne-liege/1928/result" >1928</option><option value="race/liege-bastogne-liege/1927/result" >1927</option><option value="race/liege-bastogne-liege/1926/result" >1926</option><option value="race/liege-bastogne-liege/1925/result" >1925</option><option value="race/liege-bastogne-liege/1924/result" >1924</option><option value="race/liege-bastogne-liege/1923/result" >1923</option><option value="race/liege-bastogne-liege/1922/result" >1922</option><option value="race/liege-bastogne-liege/1921/result" >1921</option><option value="race/liege-bastogne-liege/1920/result" >1920</option><option value="race/liege-bastogne-liege/1919/result" >1919</option><option value="race/liege-bastogne-liege/1913/result" >1913</option><option value="race/liege-bastogne-liege/1912/result" >1912</option><option value="race/liege-bastogne-liege/1911/result" >1911</option><option value="race/liege-bastogne-liege/1909/result" >1909</option><option value="race/liege-bastogne-liege/1908/result" >1908</option><option value="race/liege-bastogne-liege/1894/result" >1894</option><option value="race/liege-bastogne-liege/1893/result" >1893</option><option value="race/liege-bastogne-liege/1892/result" >1892</option></select></form></div><a  href="race/liege-bastogne-liege/1983/result" >1983</a></div></div><ul class="pagenavLinks"><li class="reg "><a class="cur" href="race/liege-bastogne-liege/1982/result">Results</a></li>
+<li class="reg "><a style=" " href="race/liege-bastogne-liege/1982/startlist">Startlist</a><ul><li><a href="race/liege-bastogne-liege/1982/startlist">Startlist</a></li><li><a href="race/liege-bastogne-liege/results">Race palmares</a></li></ul></li><li class="reg "><a class="" href="race/liege-bastogne-liege/1982/result/info">Info&#x25BC;</a><ul><li><a href="race/liege-bastogne-liege/1982/result/info/complementary-results">Complementary results</a></li>
+<li><a href="race/liege-bastogne-liege/1982/result/info/photos">Finish photo</a></li>
+<li><a href="race/liege-bastogne-liege/1982/result/info/profiles">Profiles</a></li>
+<li><a href="race/liege-bastogne-liege/1982/result/info/time-table">Time table</a></li>
+</ul></li>
+<li class="reg "><a class="" href="race/liege-bastogne-liege/1982/result/live">Live</a></li>
+<li class="reg "><a class="" href="race/liege-bastogne-liege/1982/result/game">Game</a></li>
+<li class="reg "><a class="" href="race/liege-bastogne-liege/1982/result/statistics">Stats</a></li>
+<li class="reg "><a class="" href="race/liege-bastogne-liege/1982/result/more">More&#x25BC;</a><ul><li><a href="race/liege-bastogne-liege/1982/result/more/report">Report</a></li>
+<li><a href="race/liege-bastogne-liege/1982/result/more/embed-results">Embed</a></li>
+<li><a href="race/liege-bastogne-liege/1982/result/more/contribute-info">Contribute info</a></li>
+<li><a href="race/liege-bastogne-liege/1982/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li>
+<li class="more"><a href="race/liege-bastogne-liege/1982/result">More</a><ul><li data-n="1"><a href="race/liege-bastogne-liege/1982/result/result/result">Results - Results</a></li><li data-n="2"><a href="race/liege-bastogne-liege/1982/result/info/info">Info - Info</a></li><li data-n="1"><a href="race/liege-bastogne-liege/1982/result/info/complementary-results">Complementary results</a></li>
+<li data-n="1"><a href="race/liege-bastogne-liege/1982/result/info/photos">Finish photo</a></li>
+<li data-n="1"><a href="race/liege-bastogne-liege/1982/result/info/profiles">Profiles</a></li>
+<li data-n="1"><a href="race/liege-bastogne-liege/1982/result/info/time-table">Time table</a></li>
+<li data-n="3"><a href="race/liege-bastogne-liege/1982/result/live/live">Live - Live</a></li><li data-n="4"><a href="race/liege-bastogne-liege/1982/result/game/game">Game - Game</a></li><li data-n="5"><a href="race/liege-bastogne-liege/1982/result/statistics/statistics">Stats - Stats</a></li><li data-n="6"><a href="race/liege-bastogne-liege/1982/result/more/more">More - More</a></li><li data-n="5"><a href="race/liege-bastogne-liege/1982/result/more/report">Report</a></li>
+<li data-n="5"><a href="race/liege-bastogne-liege/1982/result/more/embed-results">Embed</a></li>
+<li data-n="5"><a href="race/liege-bastogne-liege/1982/result/more/contribute-info">Contribute info</a></li>
+<li data-n="5"><a href="race/liege-bastogne-liege/1982/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li></ul><div class="clear"></div></div><ul class="thumbnails" ><li><a href="race/liege-bastogne-liege">Liège - Bastogne - Liège</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/liege-bastogne-liege/1982">1982</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/liege-bastogne-liege/1982/result">One day race</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/liege-bastogne-liege/1982/result/result">Results</a></li></ul><div class="page-title " ><div class="main"><span class="flag be w32"></span><span class="flag be w24"></span><span class="hideIfMobile">1982</span><span class="hideIfMobile">&raquo;</span><font class="hideIfMobile">68th</font><h1 class="">Liège - Bastogne - Liège</h1><font class="hideIfMobile">(SPP)</font></div><div class="sub"><span class="showIfMobile">1982</span><span class="showIfMobile">&raquo;</span><span class="blue">One day race</span><span class="hideIfMobile">&raquo;</span><span class="red">Liège</span><span class="red">&rsaquo;</span><span class="red">Liège</span><span class="red fw400">(244.7km)</span></div></div><div class="clear"></div><div class="desktop-ad leaderbord race"></div><div class="mob-ad leaderbord race"></div><div class="top-cont"></div><div class="top-cont-mobile top-cont-mobile-race"></div><div class="page-content page-object default " data-no_menu="1" ><h2></h2><div class="w100 "   >
+<div class="w68 left mb_w100"><div class="result-filter-cont"><label for="age"><input type="checkbox" class="toggleAge" value="1" id="age">Age</label><label for="bibs"><input type="checkbox" class="toggleBibs" value="1" id="bibs">BIBs</label><label for="h2h"><input type="checkbox" class="toggleH2H cbFalseOnLoad" value="1" id="h2h" >H2H</label><span class="hideIfMobile"><label for="specialty"><input type="checkbox" class="toggleSpecialty " value="1" id="specialty">Specialty</label></span><a class="clearFilter blue hide" style="padding: 0px 7px; " href="">clear filter</a><select class="TNFilter" data-type="team"><option value="0"  >-</option></select><select class="TNFilter" data-type="nation"><option value="0"  >all nations</option><option value="au"  >Australia</option><option value="be"  >Belgium</option><option value="fr"  >France</option><option value="ie"  >Ireland</option><option value="it"  >Italy</option><option value="nl"  >Netherlands</option><option value="se"  >Sweden</option><option value="ch"  >Switzerland</option></select></div><div class="hide timeWonLostComment" style="text-align: right; color: #555; font-size: 10px; ">The time won/lost column displays the gains in time in the GC. Click on the time of any rider to view the relative gains on this rider.</div><div class="h2h hide " style="font-size: 11px; color: #555;   ">Select two riders to compare. </div><div class="result-cont " data-id="121352">
+<div class="subTabs" data-subtab="1"><table class="results basic moblist10"><thead><tr><th>Rnk</th><th class="bibs hide" >BIB</th><th class="h2h hide" >H2H</th><th class="specialty hide" >Specialty</th><th>Rider</th><th class="age hide" >Age</th><th class="cu600" >Team</th><th>Pnt</th><th class="time ar" >Time</th></tr></thead><tbody>
+<tr data-team="1819" data-nation="it"><td>1</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="silvano-contini" data-id="172895" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/silvano-contini">CONTINI Silvano</a>  <span class="showIfMobile riderteam">Bianchi</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/bianchi-1982">Bianchi</a></td><td>275</td><td class="time ar" >6:56:00</td></tr>
+<tr data-team="4792" data-nation="be"><td>2</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="fons-de-wolf" data-id="213907" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag be"></span> <a href="rider/fons-de-wolf">DE WOLF Fons</a>  <span class="showIfMobile riderteam">Vermeer - Thijs - Gios</span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/vermeer-1982">Vermeer - Thijs - Gios</a></td><td>200</td><td class="time ar" ><span>,,</span><div class="hide">0:00</div></td></tr>
+<tr data-team="2846" data-nation="ch"><td>3</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="stefan-mutter" data-id="154326" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag ch"></span> <a href="rider/stefan-mutter">MUTTER Stefan</a>  <span class="showIfMobile riderteam">Puch - Eorotex - Campagnolo</span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/puch-eorotex-1982">Puch - Eorotex - Campagnolo</a></td><td>150</td><td class="time ar" ><span>,,</span><div class="hide">0:00</div></td></tr>
+<tr data-team="3623" data-nation="be"><td>4</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="claude-criquielion" data-id="140979" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag be"></span> <a href="rider/claude-criquielion">CRIQUIELION Claude</a>  <span class="showIfMobile riderteam">Wickes - Bouwmarkt - Splendor</span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/wickes-1982">Wickes - Bouwmarkt - Splendor</a></td><td>120</td><td class="time ar" ><span>,,</span><div class="hide">0:00</div></td></tr>
+<tr data-team="1819" data-nation="se"><td>5</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="tommy-prim" data-id="169401" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag se"></span> <a href="rider/tommy-prim">PRIM Tommy</a>  <span class="showIfMobile riderteam">Bianchi</span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/bianchi-1982">Bianchi</a></td><td>100</td><td class="time ar" ><span>0:24</span><div class="hide">0:24</div></td></tr>
+<tr data-team="1540" data-nation="nl"><td>6</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="johan-van-der-velde" data-id="153638" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag nl"></span> <a href="rider/johan-van-der-velde">VAN DER VELDE Johan</a>  <span class="showIfMobile riderteam">TI Raleigh - Campagnolo </span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/ti-raleigh-campagnolo-1982">TI Raleigh - Campagnolo </a></td><td>90</td><td class="time ar" ><span>,,</span><div class="hide">0:24</div></td></tr>
+<tr data-team="3629" data-nation="be"><td>7</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="roger-de-vlaeminck" data-id="168461" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/roger-de-vlaeminck">DE VLAEMINCK Roger</a>  <span class="showIfMobile riderteam">DAF Trucks - Tévé Blad - Rossin</span> </div></td><td class="age hide" >34</td><td class="cu600" ><a href="team/daf-trucks-1982">DAF Trucks - Tévé Blad - Rossin</a></td><td>80</td><td class="time ar" ><span>,,</span><div class="hide">0:24</div></td></tr>
+<tr data-team="2825" data-nation="ch"><td>8</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="jean-marie-grezet" data-id="167605" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag ch"></span> <a href="rider/jean-marie-grezet">GREZET Jean-Marie</a>  <span class="showIfMobile riderteam">Cilo - Aufina</span> </div></td><td class="age hide" >23</td><td class="cu600" ><a href="team/cilo-aufina-1982">Cilo - Aufina</a></td><td>70</td><td class="time ar" ><span>,,</span><div class="hide">0:24</div></td></tr>
+<tr data-team="6578" data-nation="ie"><td>9</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="stephen-roche" data-id="140970" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag ie"></span> <a href="rider/stephen-roche">ROCHE Stephen</a>  <span class="showIfMobile riderteam">Peugeot - Shell - Michelin</span> </div></td><td class="age hide" >22</td><td class="cu600" ><a href="team/peugeot-shell-michelin-1982">Peugeot - Shell - Michelin</a></td><td>60</td><td class="time ar" ><span>,,</span><div class="hide">0:24</div></td></tr>
+<tr data-team="2031" data-nation="ie"><td>10</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="sean-kelly" data-id="154310" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag ie"></span> <a href="rider/sean-kelly">KELLY Sean</a>  <span class="showIfMobile riderteam">Sem - France Loire - Campagnolo</span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/sem-france-loire-1982">Sem - France Loire - Campagnolo</a></td><td>50</td><td class="time ar" ><span>,,</span><div class="hide">0:24</div></td></tr>
+<tr data-team="2825" data-nation="ch"><td>11</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="hubert-seiz" data-id="168413" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag ch"></span> <a href="rider/hubert-seiz">SEIZ Hubert</a>  <span class="showIfMobile riderteam">Cilo - Aufina</span> </div></td><td class="age hide" >21</td><td class="cu600" ><a href="team/cilo-aufina-1982">Cilo - Aufina</a></td><td>46</td><td class="time ar" ><span>,,</span><div class="hide">0:24</div></td></tr>
+<tr data-team="6578" data-nation="au"><td>12</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="phil-anderson" data-id="153624" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag au"></span> <a href="rider/phil-anderson">ANDERSON Phil</a>  <span class="showIfMobile riderteam">Peugeot - Shell - Michelin</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/peugeot-shell-michelin-1982">Peugeot - Shell - Michelin</a></td><td>42</td><td class="time ar" ><span>4:45</span><div class="hide">4:45</div></td></tr>
+<tr data-team="3625" data-nation="be"><td>13</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="patrick-versluys" data-id="113205" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag be"></span> <a href="rider/patrick-versluys">VERSLUYS Patrick</a>  <span class="showIfMobile riderteam">Boule d'Or - Sunair</span> </div></td><td class="age hide" >23</td><td class="cu600" ><a href="team/boule-d-or-1982">Boule d'Or - Sunair</a></td><td>38</td><td class="time ar" ><span>,,</span><div class="hide">4:45</div></td></tr>
+<tr data-team="3622" data-nation="fr"><td>14</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="bernard-vallet" data-id="167631" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag fr"></span> <a href="rider/bernard-vallet">VALLET Bernard</a>  <span class="showIfMobile riderteam">La Redoute - Motobecane</span> </div></td><td class="age hide" >28</td><td class="cu600" ><a href="team/la-redoute-motobecane-1982">La Redoute - Motobecane</a></td><td>34</td><td class="time ar" ><span>,,</span><div class="hide">4:45</div></td></tr>
+<tr data-team="1540" data-nation="be"><td>15</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="ludo-de-keulenaer" data-id="168017" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag be"></span> <a href="rider/ludo-de-keulenaer">DE KEULENAER Ludo</a>  <span class="showIfMobile riderteam">TI Raleigh - Campagnolo </span> </div></td><td class="age hide" >22</td><td class="cu600" ><a href="team/ti-raleigh-campagnolo-1982">TI Raleigh - Campagnolo </a></td><td>30</td><td class="time ar" ><span>,,</span><div class="hide">4:45</div></td></tr>
+<tr data-team="3627" data-nation="se"><td>16</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="sven-ake-nilsson" data-id="167632" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag se"></span> <a href="rider/sven-ake-nilsson">NILSSON Sven-Åke</a>  <span class="showIfMobile riderteam">Wolber - Spidel</span> </div></td><td class="age hide" >30</td><td class="cu600" ><a href="team/wolber-1982">Wolber - Spidel</a></td><td>28</td><td class="time ar" ><span>5:00</span><div class="hide">5:00</div></td></tr>
+<tr data-team="1540" data-nation="nl"><td>17</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="henk-lubberding" data-id="140996" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag nl"></span> <a href="rider/henk-lubberding">LUBBERDING Henk</a>  <span class="showIfMobile riderteam">TI Raleigh - Campagnolo </span> </div></td><td class="age hide" >28</td><td class="cu600" ><a href="team/ti-raleigh-campagnolo-1982">TI Raleigh - Campagnolo </a></td><td>26</td><td class="time ar" ><span>5:15</span><div class="hide">5:15</div></td></tr>
+<tr data-team="3622" data-nation="fr"><td>18</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="pierre-bazzo" data-id="167691" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag fr"></span> <a href="rider/pierre-bazzo">BAZZO Pierre</a>  <span class="showIfMobile riderteam">La Redoute - Motobecane</span> </div></td><td class="age hide" >28</td><td class="cu600" ><a href="team/la-redoute-motobecane-1982">La Redoute - Motobecane</a></td><td>24</td><td class="time ar" ><span>,,</span><div class="hide">5:15</div></td></tr>
+<tr data-team="2844" data-nation="nl"><td>19</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="theo-de-rooy" data-id="168024" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag nl"></span> <a href="rider/theo-de-rooy">DE ROOIJ Theo</a>  <span class="showIfMobile riderteam">Capri Sonne - Campagnolo - Merckx</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/capri-sonne-eddy-merckx-campagnolo-1982">Capri Sonne - Campagnolo - Merckx</a></td><td>22</td><td class="time ar" ><span>,,</span><div class="hide">5:15</div></td></tr>
+<tr data-team="6578" data-nation="fr"><td>20</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="pascal-simon" data-id="167622" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag fr"></span> <a href="rider/pascal-simon">SIMON Pascal</a>  <span class="showIfMobile riderteam">Peugeot - Shell - Michelin</span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/peugeot-shell-michelin-1982">Peugeot - Shell - Michelin</a></td><td>20</td><td class="time ar" ><span>,,</span><div class="hide">5:15</div></td></tr>
+<tr data-team="2052" data-nation="be"><td>21</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="michel-pollentier" data-id="168471" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag be"></span> <a href="rider/michel-pollentier">POLLENTIER Michel</a>  <span class="showIfMobile riderteam">Safir - Marc - Concorde</span> </div></td><td class="age hide" >31</td><td class="cu600" ><a href="team/safir-marc-concorde-1982">Safir - Marc - Concorde</a></td><td>19</td><td class="time ar" ><span>,,</span><div class="hide">5:15</div></td></tr>
+<tr data-team="4768" data-nation="nl"><td>22</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="hans-langerijs" data-id="168428" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag nl"></span> <a href="rider/hans-langerijs">LANGERIJS Hans</a>  <span class="showIfMobile riderteam">B&S - Elro Snacks - Concorde </span> </div></td><td class="age hide" >29</td><td class="cu600" ><a href="team/b-s-elro-snacks-concorde-1982">B&S - Elro Snacks - Concorde </a></td><td>18</td><td class="time ar" ><span>,,</span><div class="hide">5:15</div></td></tr>
+<tr data-team="3629" data-nation="nl"><td>23</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="hennie-kuiper" data-id="113199" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag nl"></span> <a href="rider/hennie-kuiper">KUIPER Hennie</a>  <span class="showIfMobile riderteam">DAF Trucks - Tévé Blad - Rossin</span> </div></td><td class="age hide" >33</td><td class="cu600" ><a href="team/daf-trucks-1982">DAF Trucks - Tévé Blad - Rossin</a></td><td>17</td><td class="time ar" ><span>,,</span><div class="hide">5:15</div></td></tr>
+<tr data-team="1836" data-nation="fr"><td>24</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="marc-madiot" data-id="154368" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag fr"></span> <a href="rider/marc-madiot">MADIOT Marc</a>  <span class="showIfMobile riderteam">Renault - Elf - Gitane</span> </div></td><td class="age hide" >22</td><td class="cu600" ><a href="team/renault-elf-1982">Renault - Elf - Gitane</a></td><td>16</td><td class="time ar" ><span>,,</span><div class="hide">5:15</div></td></tr>
+<tr data-team="3629" data-nation="nl"><td>25</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="adrie-van-der-poel" data-id="113210" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag nl"></span> <a href="rider/adrie-van-der-poel">VAN DER POEL Adrie</a>  <span class="showIfMobile riderteam">DAF Trucks - Tévé Blad - Rossin</span> </div></td><td class="age hide" >22</td><td class="cu600" ><a href="team/daf-trucks-1982">DAF Trucks - Tévé Blad - Rossin</a></td><td>15</td><td class="time ar" ><span>,,</span><div class="hide">5:15</div></td></tr>
+<tr data-team="1540" data-nation="nl"><td>26</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="frits-pirard" data-id="167612" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag nl"></span> <a href="rider/frits-pirard">PIRARD Frits</a>  <span class="showIfMobile riderteam">TI Raleigh - Campagnolo </span> </div></td><td class="age hide" >27</td><td class="cu600" ><a href="team/ti-raleigh-campagnolo-1982">TI Raleigh - Campagnolo </a></td><td>14</td><td class="time ar" ><span>10:25</span><div class="hide">10:25</div></td></tr>
+<tr data-team="0" data-nation="nl"><td>27</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="jan-jonkers" data-id="168408" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag nl"></span> <a href="rider/jan-jonkers">JONKERS Jan</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >26</td><td class="cu600" ></td><td>13</td><td class="time ar" ><span>12:30</span><div class="hide">12:30</div></td></tr>
+<tr data-team="1836" data-nation="fr"><td>28</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alain-vigneron" data-id="168487" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag fr"></span> <a href="rider/alain-vigneron">VIGNERON Alain</a>  <span class="showIfMobile riderteam">Renault - Elf - Gitane</span> </div></td><td class="age hide" >27</td><td class="cu600" ><a href="team/renault-elf-1982">Renault - Elf - Gitane</a></td><td>12</td><td class="time ar" ><span>,,</span><div class="hide">12:30</div></td></tr>
+<tr data-team="3629" data-nation="nl"><td>29</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="peter-zijerveld" data-id="168470" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag nl"></span> <a href="rider/peter-zijerveld">ZIJERVELD Peter</a>  <span class="showIfMobile riderteam">DAF Trucks - Tévé Blad - Rossin</span> </div></td><td class="age hide" >27</td><td class="cu600" ><a href="team/daf-trucks-1982">DAF Trucks - Tévé Blad - Rossin</a></td><td>11</td><td class="time ar" ><span>,,</span><div class="hide">12:30</div></td></tr>
+<tr data-team="2031" data-nation="fr"><td>30</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="dominique-garde" data-id="168434" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag fr"></span> <a href="rider/dominique-garde">GARDE Dominique</a>  <span class="showIfMobile riderteam">Sem - France Loire - Campagnolo</span> </div></td><td class="age hide" >23</td><td class="cu600" ><a href="team/sem-france-loire-1982">Sem - France Loire - Campagnolo</a></td><td>10</td><td class="time ar" ><span>16:00</span><div class="hide">16:00</div></td></tr>
+<tr data-team="4792" data-nation="be"><td>31</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="roger-de-cnijf" data-id="168456" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/roger-de-cnijf">DE CNIJF Roger</a>  <span class="showIfMobile riderteam">Vermeer - Thijs - Gios</span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/vermeer-1982">Vermeer - Thijs - Gios</a></td><td>9</td><td class="time ar" ><span>22:00</span><div class="hide">22:00</div></td></tr>
+<tr data-team="2041" data-nation="it"><td>32</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="claudio-corti" data-id="168416" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/claudio-corti">CORTI Claudio</a>  <span class="showIfMobile riderteam">Sammontana</span> </div></td><td class="age hide" >27</td><td class="cu600" ><a href="team/sammontana-1982">Sammontana</a></td><td>8</td><td class="time ar" ><span>,,</span><div class="hide">22:00</div></td></tr>
+<tr data-team="3627" data-nation="fr"><td>33</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="philippe-leleu" data-id="167619" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/philippe-leleu">LELEU Philippe</a>  <span class="showIfMobile riderteam">Wolber - Spidel</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/wolber-1982">Wolber - Spidel</a></td><td>7</td><td class="time ar" ><span>,,</span><div class="hide">22:00</div></td></tr>
+<tr data-team="2848" data-nation="ch"><td>34</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="fridolin-keller" data-id="173217" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag ch"></span> <a href="rider/fridolin-keller">KELLER Fridolin</a>  <span class="showIfMobile riderteam">Royal - Oliver Tex</span> </div></td><td class="age hide" >28</td><td class="cu600" ><a href="team/royal-oliver-tex-1982">Royal - Oliver Tex</a></td><td>6</td><td class="time ar" ><span>,,</span><div class="hide">22:00</div></td></tr>
+<tr data-team="3623" data-nation="be"><td>35</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="benny-van-brabant" data-id="168417" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/benny-van-brabant">VAN BRABANT Benny</a>  <span class="showIfMobile riderteam">Wickes - Bouwmarkt - Splendor</span> </div></td><td class="age hide" >22</td><td class="cu600" ><a href="team/wickes-1982">Wickes - Bouwmarkt - Splendor</a></td><td>5</td><td class="time ar" ><span>,,</span><div class="hide">22:00</div></td></tr>
+<tr data-team="1819" data-nation="se"><td>36</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alf-segersall" data-id="173194" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag se"></span> <a href="rider/alf-segersall">SEGERSALL Alf</a>  <span class="showIfMobile riderteam">Bianchi</span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/bianchi-1982">Bianchi</a></td><td>5</td><td class="time ar" ><span>,,</span><div class="hide">22:00</div></td></tr>
+<tr data-team="3627" data-nation="fr"><td>37</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="fabien-de-vooght" data-id="173218" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/fabien-de-vooght">DE VOOGHT Fabien</a>  <span class="showIfMobile riderteam">Wolber - Spidel</span> </div></td><td class="age hide" >22</td><td class="cu600" ><a href="team/wolber-1982">Wolber - Spidel</a></td><td>5</td><td class="time ar" ><span>,,</span><div class="hide">22:00</div></td></tr>
+<tr data-team="2848" data-nation="ch"><td>38</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="bruno-wolfer" data-id="173219" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag ch"></span> <a href="rider/bruno-wolfer">WOLFER Bruno</a>  <span class="showIfMobile riderteam">Royal - Oliver Tex</span> </div></td><td class="age hide" >27</td><td class="cu600" ><a href="team/royal-oliver-tex-1982">Royal - Oliver Tex</a></td><td>5</td><td class="time ar" ><span>,,</span><div class="hide">22:00</div></td></tr>
+<tr data-team="2041" data-nation="it"><td>39</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="moreno-argentin" data-id="140973" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/moreno-argentin">ARGENTIN Moreno</a>  <span class="showIfMobile riderteam">Sammontana</span> </div></td><td class="age hide" >21</td><td class="cu600" ><a href="team/sammontana-1982">Sammontana</a></td><td>5</td><td class="time ar" ><span>,,</span><div class="hide">22:00</div></td></tr>
+<tr data-team="1819" data-nation="it"><td>40</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alessandro-pozzi" data-id="113536" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag it"></span> <a href="rider/alessandro-pozzi">POZZI Alessandro</a>  <span class="showIfMobile riderteam">Bianchi</span> </div></td><td class="age hide" >27</td><td class="cu600" ><a href="team/bianchi-1982">Bianchi</a></td><td>5</td><td class="time ar" ><span>,,</span><div class="hide">22:00</div></td></tr>
+<tr data-team="6578" data-nation="fr"><td>41</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="michel-laurent" data-id="167610" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag fr"></span> <a href="rider/michel-laurent">LAURENT Michel</a>  <span class="showIfMobile riderteam">Peugeot - Shell - Michelin</span> </div></td><td class="age hide" >28</td><td class="cu600" ><a href="team/peugeot-shell-michelin-1982">Peugeot - Shell - Michelin</a></td><td>5</td><td class="time ar" ><span>24:00</span><div class="hide">24:00</div></td></tr>
+</tbody></table>
+<div style="color: #bbb; font-size: 10px; text-align: right; ">DNF=Did not finish / DNS=Did not start / OTL = Outside time limit / DF=Did finish, no result / NR=No result<svg viewBox="0 0 24 24" style="width: 14px; margin: 0 0 -4px 3px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#dec650" d="M21 3a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-2.001L19 20a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1l-.001-8.001L3 12a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h6a3 3 0 0 0 6 0h6z"/></g></svg> Rider wearing the jersey<span   style=" margin-left: 10px;"> <svg viewBox="0 0 24 24" style="width: 10px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#f55733" d="M3.783 2.826L12 1l8.217 1.826a1 1 0 0 1 .783.976v9.987a6 6 0 0 1-2.672 4.992L12 23l-6.328-4.219A6 6 0 0 1 3 13.79V3.802a1 1 0 0 1 .783-.976z"/></g></svg>>50% of race distance in group before peloton</span><div class="clear"></div>  </div><div class="more-results-cont"><a class="viewMoreResults" data-n="25"   href="#">View top-25</a><div style="width: 10px; "></div><a class="viewMoreResults" data-n="250"   href="#">View full result</a></div><div class="mob-ad after-result "></div></div><div class="subTabs hide" data-subtab="2"></div></div></div><div class="w30 right mb_w100"><div class=""></div>
+<div class=""><h3>Race information</h3><div class=""></div></div>
+<img class="left maxw100 mg_rp10" src="images/logo/bn/eh/liege-bastogne-liege.png" /><div class=""><ul class="infolist" style=""><li><div>Date:</div> <div>11 April 1982</div></li>
+<li><div>Start time:</div> <div>-</div></li>
+<li><div>Avg. speed winner:</div> <div>35.29 km/h</div></li>
+<li><div>Race category:</div> <div>ME - Men Elite</div></li>
+<li><div>Distance: </div> <div>244.7 km</div></li>
+<li><div>Points scale:</div> <div><a    href="info.php?s=point-scales&season=1982&category=1&scale=13">1.WT.A</a></div></li>
+<li><div>UCI scale:</div> <div><a    href="info.php?s=point-scales&season=1982&category=1&pcs_uci&uci&scale=0"></a></div></li>
+<li><div>Parcours type: </div> <div><span class="icon profile p0"></span></div></li>
+<li><div>ProfileScore: </div> <div></div></li>
+<li><div>Vert. meters:</div> <div></div></li>
+<li><div>Departure:</div> <div><a    href="location/liege">Liège</a></div></li>
+<li><div>Arrival:</div> <div><a    href="location/liege">Liège</a></div></li>
+<li><div>Race ranking:</div> <div><a    href="race/liege-bastogne-liege/1982/result/overview/race-ranking">0</a></div></li>
+<li><div>Startlist quality score:</div> <div><a    href="race/liege-bastogne-liege/1982/startlist/startlist-quality">491</a></div></li>
+<li><div>Won how: </div> <div>Sprint of small group</div></li>
+<li><div>Avg. temperature:</div> <div><a    href="race/liege-bastogne-liege/1982/result/stages/hottest-stages"></a></div></li>
+</ul></div>
+<div class=""><ul class="list horizontal"></ul></div>
+<div class="mt10"><h3>Race profile</h3>
+<span class="table-cont"><ul class="list"  style=" "></ul></span></div>
+<div class="mt10"><h3>Sites</h3><ul class="list horizontal sites "><li><span class="icon website left"></span><a  target="_blank"   class="" href="https://www.liege-bastogne-liege.be">site</a></li>
+<li><span class="icon facebook left"></span><a  target="_blank"   class="" href="https://www.facebook.com/liegebastogneliege/">facebook</a></li>
+<li><span class="icon twitter left"></span><a  target="_blank"   class="" href="http://www.twitter.com/LiegeBastogneL">twitter</a></li>
+</ul></div>
+<div class="fs11"><div class=""></div></div>
+<div class="desktop-ad race-column-right"></div><div class="mob-ad race-column-right"></div></div><div class="clear"></div>
+</div>
+<div class="desktop-ad below-content race"></div><div class="mob-ad below-content race"></div></div><div style="clear: both; "></div>  
+  </div>
+  </center>
+  <div class="push"></div>
+</div>
+<div class="footer">
+  <div class="sfa"><ul class="ftr-list"><li class="group"><h3>Grand Tours</h3><ul><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">Vuelta a España</a></li>
+</ul><h3>Major Tours</h3><ul><li><a href="race/paris-nice">Paris-Nice</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/volta-a-catalunya">Volta a Catalunya</a></li>
+<li><a href="race/tour-de-romandie">Tour de Romandie</a></li>
+<li><a href="race/tour-de-suisse">Tour de Suisse</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/itzulia-basque-country">Itzulia Basque Country</a></li>
+</ul></li>
+<li class="group"><h3>Monuments</h3><ul><li><a href="race/milano-sanremo">Milano-SanRemo</a></li>
+<li><a href="race/ronde-van-vlaanderen">Ronde van Vlaanderen</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+</ul><h3>Championships</h3><ul><li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/uec-road-european-championships">European championships</a></li>
+</ul></li>
+<li class="group"><h3>Top classics</h3><ul><li><a href="race/omloop-het-nieuwsblad">Omloop Het Nieuwsblad</a></li>
+<li><a href="race/strade-bianche">Strade Bianche</a></li>
+<li><a href="race/e3-harelbeke">E3 Classic</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem</a></li>
+<li><a href="race/dwars-door-vlaanderen">Dwars door vlaanderen</a></li>
+<li><a href="race/eschborn-frankfurt">Eschborn-Frankfurt</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/san-sebastian">San Sebastian</a></li>
+<li><a href="race/bretagne-classic">Bretagne Classic</a></li>
+<li><a href="race/gp-quebec">GP Québec</a></li>
+<li><a href="race/gp-montreal">GP Montréal</a></li>
+</ul></li>
+<li class="group"><h3>Popular riders</h3><ul><li><a href="rider/tadej-pogacar">Tadej Pogačar</a></li>
+<li><a href="rider/wout-van-aert">Wout van Aert</a></li>
+<li><a href="rider/remco-evenepoel">Remco Evenepoel</a></li>
+<li><a href="rider/jonas-vingegaard-rasmussen">Jonas Vingegaard</a></li>
+<li><a href="rider/mathieu-van-der-poel">Mathieu van der Poel</a></li>
+<li><a href="rider/biniam-girmay">Biniam Girmay</a></li>
+<li><a href="rider/peter-sagan">Peter Sagan</a></li>
+<li><a href="rider/annemiek-van-vleuten">Annemiek van Vleuten</a></li>
+<li><a href="rider/elisa-longo-borghini">Elisa Longo Borghini</a></li>
+<li><a href="rider/katarzyna-niewiadoma">Katarzyna Niewiadoma</a></li>
+</ul></li>
+<li class="group"><h3>Statistics</h3><ul><li><a href="statistics/start/points-per-age">Points per age</a></li>
+<li><a href="statistics/start/latest-injuries">Latest injuries</a></li>
+<li><a href="statistics/riders/youngest-riders">Youngest riders</a></li>
+<li><a href="statistics/grandtours">Grand tour statistics</a></li>
+<li><a href="statistics/monuments">Monument classics</a></li>
+<li><a href="teams/transfers">Latest transfers</a></li>
+<li><a href="favorite500">Favorite 500</a></li>
+</ul><h3>Rankings</h3><ul><li><a href="rankings.php">PCS ranking</a></li>
+<li><a href="rankings/me/uci-individual">UCI World Ranking</a></li>
+<li><a href="rankings/me/all-time">Alltime</a></li>
+</ul></li>
+<li class="group"><h3>Info</h3><ul><li><a href="info/point-scales">Points scales</a></li>
+<li><a href="info/profile-score-explained">Profile scores</a></li>
+<li><a href="reset_password.php">Reset password</a></li>
+<li><a href="info/pcs-game">PCS game</a></li>
+<li><a href="info/procyclinggame">ProCyclingGame</a></li>
+</ul><h3>About ProCyclingStats</h3><ul><li><a href="info/about-us">About us</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/cookie-policy">Cookie policy</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/contributions">Contributions</a></li>
+<li><span>Pageload 0.0256s</span></li>
+</ul></li>
+</ul><input type="hidden" id="pageid" value="1190" /><input type="hidden" id="userid" value="0" />
+	</div>
+</div> 
+ 
+ </body></html>
+<script src="search_list7.js"></script>  

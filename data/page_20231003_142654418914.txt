@@ -1,0 +1,302 @@
+<!DOCTYPE HTML><html><head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35889790-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'GA_MEASUREMENT_ID', {
+	  'linker': {
+	    'domains': ['cx.procyclingstats.com','procyclingstats.com']
+	  }
+	});
+
+  gtag('config', 'UA-35889790-1');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2MNJ20S7SJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2MNJ20S7SJ');
+</script>
+<title>Coppa Bernocchi 2000 One day race results</title>
+<base href="https://www.procyclingstats.com/race.php" />
+<link rel="canonical" href="https://www.procyclingstats.com/race/coppa-bernocchi/2000/result" />
+<script>
+    var r89 = r89 || {
+      callAds: [],
+      pushAd: function(id, name, config) { r89.callAds.push([id, name, config]); }
+    };
+</script>
+<script async src="https://tags.refinery89.com/v2/procyclingstats.js"></script><meta name="description" content="Romāns Vainšteins is the winner of Coppa Bernocchi 2000, before Raimondas Rumšas and Giovanni Lombardi. ">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="utf-8"> 
+<meta name="facebook-domain-verification" content="tjwn3jyjupm0t1j8e0sgis3c80x88r" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<base href="race.php" />
+	<link rel="stylesheet" type="text/css" href="https://www.procyclingstats.com/pcs_a190.css" />
+	
+<script src="https://www.procyclingstats.com/pcs_s79.js"></script> 
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css"> 
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.procyclingstats.com/images/pcs-logos/icon3/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-16x16.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon.ico" />
+ 
+</head>
+<body>
+<div class="wrapper">
+  <header class="">
+    <div class="cont">
+    	<a  class="logo" href="index.php"></a>
+  
+    	<form action="search.php" class="msearch"><input type="hidden"  id="term" />
+    		<input type="text" name="term" id="search" data-nav="race/-id-/result" data-nav2="" data-page="race" class="search4"  placeholder="search"  /></form> 
+    	<div class="menuCont">
+      	<a class="mobMenu" href="">Menu&#x25BC;</a>
+				<ul class="nav_v4 default"><li class=" "><a class="reg" href="index.php">Home</a></li>
+<li class="more4 "><a class="reg" href="races.php">Races</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">La Vuelta ciclista a España</a></li>
+<li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/milano-sanremo">Milano-Sanremo</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/paris-nice">Paris - Nice</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/volta-a-catalunya">Volta Ciclista a Catalunya</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/ronde-van-vlaanderen">Tour des Flandres</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem in Flanders Fields</a></li>
+<li><a href="race/san-sebastian">Clásica Ciclista San Sebastián</a></li>
+</ul></li>
+<li class="more4 "><a class="reg" href="teams.php">Teams</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="team/intermarche-circus-wanty-2023">Intermarché - Circus - Wanty </a></li>
+<li><a href="team/ineos-grenadiers-2023">INEOS Grenadiers</a></li>
+<li><a href="team/groupama-fdj-2023">Groupama - FDJ</a></li>
+<li><a href="team/ef-education-easypost-2023">EF Education-EasyPost</a></li>
+<li><a href="team/cofidis-2023">Cofidis </a></li>
+<li><a href="team/bora-hansgrohe-2023">BORA - hansgrohe</a></li>
+<li><a href="team/bahrain-victorious-2023">Bahrain - Victorious</a></li>
+<li><a href="team/astana-qazaqstan-team-2023">Astana Qazaqstan Team</a></li>
+<li><a href="team/team-jumbo-visma-2023">Jumbo-Visma</a></li>
+<li><a href="team/movistar-team-2023">Movistar Team</a></li>
+<li><a href="team/soudal-quick-step-2023">Soudal - Quick Step</a></li>
+<li><a href="team/team-arkea-samsic-2023">Team Arkéa Samsic</a></li>
+<li><a href="team/team-jayco-alula-2023">Team Jayco AlUla</a></li>
+<li><a href="team/team-dsm-2023">Team DSM</a></li>
+<li><a href="team/trek-segafredo-2023">Trek - Segafredo</a></li>
+<li><a href="team/uae-team-emirates-2023">UAE Team Emirates</a></li>
+<li><a href="team/alpecin-deceuninck-2023">Alpecin-Deceuninck</a></li>
+<li><a href="team/ag2r-citroen-team-2023">AG2R Citroën Team</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="rankings.php">Rankings</a></li>
+<li class="more4 "><a class="reg" href="statistics.php">Statistics</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="statistics">Overview</a></li>
+<li><a href="statistics/riders">Riders</a></li>
+<li><a href="statistics/teams">Teams</a></li>
+<li><a href="statistics/grandtours">Grand tours</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="game.php">Game</a></li>
+<li class="more4 "><a class="reg" href="riders.php">More</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="riders">Riders</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/countdown-to-1-billion-pageviews">Countdown to 2 billion pageviews</a></li>
+<li><a href="favorite500.php">Favorite500</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/about-us">About us</a></li>
+<li><a href="info/profile-score-explained">Profile Score</a></li>
+<li><a href="info/tutorials">Tutorials</a></li>
+</ul></li>
+<li class="more4 pro"><a class="reg" href="premium.php">Pro</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="">Dashboard</a></li>
+<li><a href="">Lists</a></li>
+</ul></li>
+ 
+				 </ul> 
+			 </div>
+			 <a class="user4" data-logged="0" href="account.php"><span>&#10070;</span><font class="hideIfMobile">login</font></a><a class="settings4 " href="settings.php"><span>&#10033;</span><font>settings</font></a>    </div>
+  </header>  
+<div class="content   "> <div class="page-topnav "><div class="pageDDnavCont"><div class="pageSelectNav " ><a   href="race/coppa-bernocchi/1999/result" >1999</a><div ><form style="  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/coppa-bernocchi/2023/result" >2023</option><option value="race/coppa-bernocchi/2022/result" >2022</option><option value="race/coppa-bernocchi/2021/result" >2021</option><option value="race/coppa-bernocchi/2020/result" >2020</option><option value="race/coppa-bernocchi/2019/result" >2019</option><option value="race/coppa-bernocchi/2018/result" >2018</option><option value="race/coppa-bernocchi/2017/result" >2017</option><option value="race/coppa-bernocchi/2016/result" >2016</option><option value="race/coppa-bernocchi/2015/result" >2015</option><option value="race/coppa-bernocchi/2014/result" >2014</option><option value="race/coppa-bernocchi/2013/result" >2013</option><option value="race/coppa-bernocchi/2012/result" >2012</option><option value="race/coppa-bernocchi/2011/result" >2011</option><option value="race/coppa-bernocchi/2010/result" >2010</option><option value="race/coppa-bernocchi/2009/result" >2009</option><option value="race/coppa-bernocchi/2008/result" >2008</option><option value="race/coppa-bernocchi/2007/result" >2007</option><option value="race/coppa-bernocchi/2006/result" >2006</option><option value="race/coppa-bernocchi/2005/result" >2005</option><option value="race/coppa-bernocchi/2004/result" >2004</option><option value="race/coppa-bernocchi/2003/result" >2003</option><option value="race/coppa-bernocchi/2002/result" >2002</option><option value="race/coppa-bernocchi/2001/result" >2001</option><option value="race/coppa-bernocchi/2000/result" selected>2000</option><option value="race/coppa-bernocchi/1999/result" >1999</option><option value="race/coppa-bernocchi/1998/result" >1998</option><option value="race/coppa-bernocchi/1997/result" >1997</option><option value="race/coppa-bernocchi/1996/result" >1996</option><option value="race/coppa-bernocchi/1995/result" >1995</option><option value="race/coppa-bernocchi/1994/result" >1994</option><option value="race/coppa-bernocchi/1993/result" >1993</option><option value="race/coppa-bernocchi/1992/result" >1992</option><option value="race/coppa-bernocchi/1991/result" >1991</option><option value="race/coppa-bernocchi/1990/result" >1990</option><option value="race/coppa-bernocchi/1989/result" >1989</option><option value="race/coppa-bernocchi/1988/result" >1988</option><option value="race/coppa-bernocchi/1987/result" >1987</option><option value="race/coppa-bernocchi/1986/result" >1986</option><option value="race/coppa-bernocchi/1985/result" >1985</option><option value="race/coppa-bernocchi/1983/result" >1983</option><option value="race/coppa-bernocchi/1982/result" >1982</option><option value="race/coppa-bernocchi/1981/result" >1981</option><option value="race/coppa-bernocchi/1980/result" >1980</option><option value="race/coppa-bernocchi/1979/result" >1979</option><option value="race/coppa-bernocchi/1978/result" >1978</option><option value="race/coppa-bernocchi/1977/result" >1977</option><option value="race/coppa-bernocchi/1976/result" >1976</option><option value="race/coppa-bernocchi/1975/result" >1975</option><option value="race/coppa-bernocchi/1974/result" >1974</option><option value="race/coppa-bernocchi/1973/result" >1973</option><option value="race/coppa-bernocchi/1972/result" >1972</option><option value="race/coppa-bernocchi/1971/result" >1971</option><option value="race/coppa-bernocchi/1970/result" >1970</option><option value="race/coppa-bernocchi/1969/result" >1969</option><option value="race/coppa-bernocchi/1968/result" >1968</option><option value="race/coppa-bernocchi/1967/result" >1967</option><option value="race/coppa-bernocchi/1966/result" >1966</option><option value="race/coppa-bernocchi/1965/result" >1965</option><option value="race/coppa-bernocchi/1964/result" >1964</option><option value="race/coppa-bernocchi/1963/result" >1963</option><option value="race/coppa-bernocchi/1962/result" >1962</option><option value="race/coppa-bernocchi/1961/result" >1961</option><option value="race/coppa-bernocchi/1960/result" >1960</option><option value="race/coppa-bernocchi/1959/result" >1959</option><option value="race/coppa-bernocchi/1958/result" >1958</option><option value="race/coppa-bernocchi/1957/result" >1957</option><option value="race/coppa-bernocchi/1956/result" >1956</option><option value="race/coppa-bernocchi/1955/result" >1955</option><option value="race/coppa-bernocchi/1954/result" >1954</option><option value="race/coppa-bernocchi/1953/result" >1953</option><option value="race/coppa-bernocchi/1952/result" >1952</option><option value="race/coppa-bernocchi/1951/result" >1951</option><option value="race/coppa-bernocchi/1950/result" >1950</option><option value="race/coppa-bernocchi/1949/result" >1949</option><option value="race/coppa-bernocchi/1948/result" >1948</option><option value="race/coppa-bernocchi/1947/result" >1947</option><option value="race/coppa-bernocchi/1946/result" >1946</option><option value="race/coppa-bernocchi/1945/result" >1945</option><option value="race/coppa-bernocchi/1944/result" >1944</option><option value="race/coppa-bernocchi/1941/result" >1941</option><option value="race/coppa-bernocchi/1940/result" >1940</option><option value="race/coppa-bernocchi/1939/result" >1939</option><option value="race/coppa-bernocchi/1936/result" >1936</option><option value="race/coppa-bernocchi/1935/result" >1935</option><option value="race/coppa-bernocchi/1933/result" >1933</option><option value="race/coppa-bernocchi/1932/result" >1932</option><option value="race/coppa-bernocchi/1924/result" >1924</option></select></form></div><a  href="race/coppa-bernocchi/2001/result" >2001</a></div></div><ul class="pagenavLinks"><li class="reg "><a class="cur" href="race/coppa-bernocchi/2000/result">Results</a></li>
+<li class="reg "><a style=" " href="race/coppa-bernocchi/2000/startlist">Startlist</a><ul><li><a href="race/coppa-bernocchi/2000/startlist">Startlist</a></li><li><a href="race/coppa-bernocchi/results">Race palmares</a></li></ul></li><li class="reg "><a class="" href="race/coppa-bernocchi/2000/result/info">Info&#x25BC;</a><ul><li><a href="race/coppa-bernocchi/2000/result/info/complementary-results">Complementary results</a></li>
+<li><a href="race/coppa-bernocchi/2000/result/info/photos">Finish photo</a></li>
+<li><a href="race/coppa-bernocchi/2000/result/info/profiles">Profiles</a></li>
+<li><a href="race/coppa-bernocchi/2000/result/info/time-table">Time table</a></li>
+</ul></li>
+<li class="reg "><a class="" href="race/coppa-bernocchi/2000/result/live">Live</a></li>
+<li class="reg "><a class="" href="race/coppa-bernocchi/2000/result/game">Game</a></li>
+<li class="reg "><a class="" href="race/coppa-bernocchi/2000/result/statistics">Stats</a></li>
+<li class="reg "><a class="" href="race/coppa-bernocchi/2000/result/more">More&#x25BC;</a><ul><li><a href="race/coppa-bernocchi/2000/result/more/report">Report</a></li>
+<li><a href="race/coppa-bernocchi/2000/result/more/embed-results">Embed</a></li>
+<li><a href="race/coppa-bernocchi/2000/result/more/contribute-info">Contribute info</a></li>
+<li><a href="race/coppa-bernocchi/2000/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li>
+<li class="more"><a href="race/coppa-bernocchi/2000/result">More</a><ul><li data-n="1"><a href="race/coppa-bernocchi/2000/result/result/result">Results - Results</a></li><li data-n="2"><a href="race/coppa-bernocchi/2000/result/info/info">Info - Info</a></li><li data-n="1"><a href="race/coppa-bernocchi/2000/result/info/complementary-results">Complementary results</a></li>
+<li data-n="1"><a href="race/coppa-bernocchi/2000/result/info/photos">Finish photo</a></li>
+<li data-n="1"><a href="race/coppa-bernocchi/2000/result/info/profiles">Profiles</a></li>
+<li data-n="1"><a href="race/coppa-bernocchi/2000/result/info/time-table">Time table</a></li>
+<li data-n="3"><a href="race/coppa-bernocchi/2000/result/live/live">Live - Live</a></li><li data-n="4"><a href="race/coppa-bernocchi/2000/result/game/game">Game - Game</a></li><li data-n="5"><a href="race/coppa-bernocchi/2000/result/statistics/statistics">Stats - Stats</a></li><li data-n="6"><a href="race/coppa-bernocchi/2000/result/more/more">More - More</a></li><li data-n="5"><a href="race/coppa-bernocchi/2000/result/more/report">Report</a></li>
+<li data-n="5"><a href="race/coppa-bernocchi/2000/result/more/embed-results">Embed</a></li>
+<li data-n="5"><a href="race/coppa-bernocchi/2000/result/more/contribute-info">Contribute info</a></li>
+<li data-n="5"><a href="race/coppa-bernocchi/2000/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li></ul><div class="clear"></div></div><ul class="thumbnails" ><li><a href="race/coppa-bernocchi">Coppa Bernocchi</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/coppa-bernocchi/2000">2000</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/coppa-bernocchi/2000/result">One day race</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/coppa-bernocchi/2000/result/result">Results</a></li></ul><div class="page-title " ><div class="main"><span class="flag it w32"></span><span class="flag it w24"></span><span class="hideIfMobile">2000</span><span class="hideIfMobile">&raquo;</span><font class="hideIfMobile">82nd</font><h1 class="">Coppa Bernocchi</h1><font class="hideIfMobile">(1.3)</font></div><div class="sub"><span class="showIfMobile">2000</span><span class="showIfMobile">&raquo;</span><span class="blue">One day race</span><span class="hideIfMobile">&raquo;</span><span class="red">Legnano</span><span class="red">&rsaquo;</span><span class="red">Legnano</span><span class="red fw400">(207km)</span></div></div><div class="clear"></div><div class="desktop-ad leaderbord race"></div><div class="mob-ad leaderbord race"></div><div class="top-cont"></div><div class="top-cont-mobile top-cont-mobile-race"></div><div class="page-content page-object default " data-no_menu="1" ><h2></h2><div class="w100 "   >
+<div class="w68 left mb_w100"><div class="result-filter-cont"><label for="age"><input type="checkbox" class="toggleAge" value="1" id="age">Age</label><label for="bibs"><input type="checkbox" class="toggleBibs" value="1" id="bibs">BIBs</label><label for="h2h"><input type="checkbox" class="toggleH2H cbFalseOnLoad" value="1" id="h2h" >H2H</label><span class="hideIfMobile"><label for="specialty"><input type="checkbox" class="toggleSpecialty " value="1" id="specialty">Specialty</label></span><a class="clearFilter blue hide" style="padding: 0px 7px; " href="">clear filter</a><select class="TNFilter" data-type="team"><option value="0"  >-</option></select><select class="TNFilter" data-type="nation"><option value="0"  >all nations</option><option value="by"  >Belarus</option><option value="be"  >Belgium</option><option value="fr"  >France</option><option value="de"  >Germany</option><option value="gb"  >Great Britain</option><option value="it"  >Italy</option><option value="lv"  >Latvia</option><option value="lt"  >Lithuania</option><option value="no"  >Norway</option><option value="ch"  >Switzerland</option></select></div><div class="hide timeWonLostComment" style="text-align: right; color: #555; font-size: 10px; ">The time won/lost column displays the gains in time in the GC. Click on the time of any rider to view the relative gains on this rider.</div><div class="h2h hide " style="font-size: 11px; color: #555;   ">Select two riders to compare. </div><div class="result-cont " data-id="149263">
+<div class="subTabs" data-subtab="1"><table class="results basic moblist10"><thead><tr><th>Rnk</th><th class="bibs hide" >BIB</th><th class="h2h hide" >H2H</th><th class="specialty hide" >Specialty</th><th>Rider</th><th class="age hide" >Age</th><th class="cu600" >Team</th><th>Pnt</th><th class="time ar" >Time</th></tr></thead><tbody>
+<tr data-team="1480" data-nation="lv"><td>1</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="romans-vainsteins" data-id="114761" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag lv"></span> <a href="rider/romans-vainsteins">VAINŠTEINS Romāns</a>  <span class="showIfMobile riderteam">Vini Caldirola - Sidermec</span> </div></td><td class="age hide" >27</td><td class="cu600" ><a href="team/vini-caldirola-sidermec-2000">Vini Caldirola - Sidermec</a></td><td>75</td><td class="time ar" >4:51:45</td></tr>
+<tr data-team="1182" data-nation="lt"><td>2</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="raimondas-rumsas-1" data-id="132648" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag lt"></span> <a href="rider/raimondas-rumsas-1">RUMŠAS Raimondas</a>  <span class="showIfMobile riderteam">Fassa Bortolo</span> </div></td><td class="age hide" >28</td><td class="cu600" ><a href="team/fassa-bortolo-2000">Fassa Bortolo</a></td><td>55</td><td class="time ar" ><span>,,</span><div class="hide">0:00</div></td></tr>
+<tr data-team="1216" data-nation="it"><td>3</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="giovanni-lombardi" data-id="115320" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/giovanni-lombardi">LOMBARDI Giovanni</a>  <span class="showIfMobile riderteam">Team Telekom</span> </div></td><td class="age hide" >31</td><td class="cu600" ><a href="team/team-telekom-2000">Team Telekom</a></td><td>40</td><td class="time ar" ><span>0:15</span><div class="hide">0:15</div></td></tr>
+<tr data-team="2325" data-nation="it"><td>4</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="denis-zanette" data-id="114060" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/denis-zanette">ZANETTE Denis</a>  <span class="showIfMobile riderteam">Liquigas - Pata</span> </div></td><td class="age hide" >30</td><td class="cu600" ><a href="team/liquigas-pata-2000">Liquigas - Pata</a></td><td>32</td><td class="time ar" ><span>,,</span><div class="hide">0:15</div></td></tr>
+<tr data-team="1182" data-nation="it"><td>5</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="nicola-loda" data-id="115126" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/nicola-loda">LODA Nicola</a>  <span class="showIfMobile riderteam">Fassa Bortolo</span> </div></td><td class="age hide" >29</td><td class="cu600" ><a href="team/fassa-bortolo-2000">Fassa Bortolo</a></td><td>28</td><td class="time ar" ><span>,,</span><div class="hide">0:15</div></td></tr>
+<tr data-team="2088" data-nation="be"><td>6</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="serge-baguet" data-id="115828" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag be"></span> <a href="rider/serge-baguet">BAGUET Serge</a>  <span class="showIfMobile riderteam">Lotto - Adecco</span> </div></td><td class="age hide" >31</td><td class="cu600" ><a href="team/lotto-adecco-2000">Lotto - Adecco</a></td><td>24</td><td class="time ar" ><span>,,</span><div class="hide">0:15</div></td></tr>
+<tr data-team="1253" data-nation="it"><td>7</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="marco-serpellini" data-id="115355" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/marco-serpellini">SERPELLINI Marco</a>  <span class="showIfMobile riderteam">Lampre - Daikin</span> </div></td><td class="age hide" >28</td><td class="cu600" ><a href="team/lampre-daikin-2000">Lampre - Daikin</a></td><td>20</td><td class="time ar" ><span>,,</span><div class="hide">0:15</div></td></tr>
+<tr data-team="1272" data-nation="it"><td>8</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="andrea-noe" data-id="128955" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag it"></span> <a href="rider/andrea-noe">NOÈ Andrea</a>  <span class="showIfMobile riderteam">Mapei - Quickstep</span> </div></td><td class="age hide" >31</td><td class="cu600" ><a href="team/mapei-quickstep-2000">Mapei - Quickstep</a></td><td>18</td><td class="time ar" ><span>,,</span><div class="hide">0:15</div></td></tr>
+<tr data-team="1276" data-nation="it"><td>9</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="marco-velo" data-id="126158" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag it"></span> <a href="rider/marco-velo">VELO Marco</a>  <span class="showIfMobile riderteam">Mercatone Uno - Albacom</span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/mercatone-uno-albacom-2000">Mercatone Uno - Albacom</a></td><td>16</td><td class="time ar" ><span>,,</span><div class="hide">0:15</div></td></tr>
+<tr data-team="1349" data-nation="it"><td>10</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="francesco-secchiari" data-id="114716" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/francesco-secchiari">SECCHIARI Francesco</a>  <span class="showIfMobile riderteam">Saeco</span> </div></td><td class="age hide" >27</td><td class="cu600" ><a href="team/saeco-2000">Saeco</a></td><td>14</td><td class="time ar" ><span>,,</span><div class="hide">0:15</div></td></tr>
+<tr data-team="4328" data-nation="it"><td>11</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="valentino-fois" data-id="116374" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/valentino-fois">FOIS Valentino</a>  <span class="showIfMobile riderteam">Team Colpack</span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/team-colpack-2000">Team Colpack</a></td><td>12</td><td class="time ar" ><span>,,</span><div class="hide">0:15</div></td></tr>
+<tr data-team="1201" data-nation="it"><td>12</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="carlo-finco" data-id="113337" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag it"></span> <a href="rider/carlo-finco">FINCO Carlo</a>  <span class="showIfMobile riderteam">Alessio</span> </div></td><td class="age hide" >32</td><td class="cu600" ><a href="team/alessio-2000">Alessio</a></td><td>10</td><td class="time ar" ><span>,,</span><div class="hide">0:15</div></td></tr>
+<tr data-team="1565" data-nation="it"><td>13</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="roberto-sgambelluri" data-id="114763" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag it"></span> <a href="rider/roberto-sgambelluri">SGAMBELLURI Roberto</a>  <span class="showIfMobile riderteam">Cantina Tollo - Regain</span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/cantina-tollo-regain-2000">Cantina Tollo - Regain</a></td><td>8</td><td class="time ar" ><span>,,</span><div class="hide">0:15</div></td></tr>
+<tr data-team="1253" data-nation="lv"><td>14</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="raivis-belohvosciks" data-id="126166" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag lv"></span> <a href="rider/raivis-belohvosciks">BELOHVOŠČIKS Raivis</a>  <span class="showIfMobile riderteam">Lampre - Daikin</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/lampre-daikin-2000">Lampre - Daikin</a></td><td>7</td><td class="time ar" ><span>,,</span><div class="hide">0:15</div></td></tr>
+<tr data-team="1272" data-nation="it"><td>15</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="luca-paolini" data-id="140774" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/luca-paolini">PAOLINI Luca</a>  <span class="showIfMobile riderteam">Mapei - Quickstep</span> </div></td><td class="age hide" >23</td><td class="cu600" ><a href="team/mapei-quickstep-2000">Mapei - Quickstep</a></td><td>6</td><td class="time ar" ><span>0:50</span><div class="hide">0:50</div></td></tr>
+<tr data-team="3345" data-nation="by"><td>16</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="yauheni-seniushkin" data-id="114069" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag by"></span> <a href="rider/yauheni-seniushkin">SENIUSHKIN Yauheni</a>  <span class="showIfMobile riderteam">Panaria - Fiordo</span> </div></td><td class="age hide" >23</td><td class="cu600" ><a href="team/panaria-fiordo-2000">Panaria - Fiordo</a></td><td>5</td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="1182" data-nation="it"><td>17</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alessandro-petacchi" data-id="140365" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/alessandro-petacchi">PETACCHI Alessandro</a>  <span class="showIfMobile riderteam">Fassa Bortolo</span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/fassa-bortolo-2000">Fassa Bortolo</a></td><td>4</td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="1272" data-nation="it"><td>18</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="stefano-zanini" data-id="115954" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/stefano-zanini">ZANINI Stefano</a>  <span class="showIfMobile riderteam">Mapei - Quickstep</span> </div></td><td class="age hide" >31</td><td class="cu600" ><a href="team/mapei-quickstep-2000">Mapei - Quickstep</a></td><td>3</td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="4477" data-nation="it"><td>19</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alain-turicchia" data-id="113531" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/alain-turicchia">TURICCHIA Alain</a>  <span class="showIfMobile riderteam">Amica Chips - Tacconi Sport </span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/amica-chips-tacconi-sport-2000">Amica Chips - Tacconi Sport </a></td><td>2</td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="6083" data-nation="gb"><td>20</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="maximilian-sciandri" data-id="114486" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag gb"></span> <a href="rider/maximilian-sciandri">SCIANDRI Maximilian</a>  <span class="showIfMobile riderteam">Linda McCartney Racing Team</span> </div></td><td class="age hide" >33</td><td class="cu600" ><a href="team/linda-mccartney-racing-team-2000">Linda McCartney Racing Team</a></td><td>1</td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="2020" data-nation="it"><td>21</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alberto-ongarato" data-id="133647" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/alberto-ongarato">ONGARATO Alberto</a>  <span class="showIfMobile riderteam">Mobilvetta Design - Rossin</span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/mobilvetta-design-rossin-2000">Mobilvetta Design - Rossin</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="4477" data-nation="no"><td>22</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="kurt-asle-arvesen" data-id="135456" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag no"></span> <a href="rider/kurt-asle-arvesen">ARVESEN Kurt-Asle</a>  <span class="showIfMobile riderteam">Amica Chips - Tacconi Sport </span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/amica-chips-tacconi-sport-2000">Amica Chips - Tacconi Sport </a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="1349" data-nation="de"><td>23</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="jorg-ludewig" data-id="116701" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag de"></span> <a href="rider/jorg-ludewig">LUDEWIG Jörg</a>  <span class="showIfMobile riderteam">Saeco</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/saeco-2000">Saeco</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="2925" data-nation="it"><td>24</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="fortunato-baliani" data-id="137973" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag it"></span> <a href="rider/fortunato-baliani">BALIANI Fortunato</a>  <span class="showIfMobile riderteam">Néctar - Selle Italia</span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/nectar-selle-italia-2000">Néctar - Selle Italia</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="4328" data-nation="it"><td>25</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="andrea-nencini" data-id="168286" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/andrea-nencini">NENCINI Andrea</a>  <span class="showIfMobile riderteam">Team Colpack</span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/team-colpack-2000">Team Colpack</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="1201" data-nation="ch"><td>26</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="felice-puttini" data-id="113500" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag ch"></span> <a href="rider/felice-puttini">PUTTINI Felice</a>  <span class="showIfMobile riderteam">Alessio</span> </div></td><td class="age hide" >32</td><td class="cu600" ><a href="team/alessio-2000">Alessio</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="2325" data-nation="it"><td>27</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="giancarlo-raimondi" data-id="113436" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/giancarlo-raimondi">RAIMONDI Giancarlo</a>  <span class="showIfMobile riderteam">Liquigas - Pata</span> </div></td><td class="age hide" >27</td><td class="cu600" ><a href="team/liquigas-pata-2000">Liquigas - Pata</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="1201" data-nation="it"><td>28</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="marco-magnani" data-id="113663" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag it"></span> <a href="rider/marco-magnani">MAGNANI Marco</a>  <span class="showIfMobile riderteam">Alessio</span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/alessio-2000">Alessio</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="1565" data-nation="it"><td>29</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="rodolfo-massi" data-id="114271" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag it"></span> <a href="rider/rodolfo-massi">MASSI Rodolfo</a>  <span class="showIfMobile riderteam">Cantina Tollo - Regain</span> </div></td><td class="age hide" >34</td><td class="cu600" ><a href="team/cantina-tollo-regain-2000">Cantina Tollo - Regain</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="1253" data-nation="it"><td>30</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="sergio-barbero" data-id="115762" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/sergio-barbero">BARBERO Sergio</a>  <span class="showIfMobile riderteam">Lampre - Daikin</span> </div></td><td class="age hide" >31</td><td class="cu600" ><a href="team/lampre-daikin-2000">Lampre - Daikin</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="2016" data-nation="it"><td>31</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="dario-andriotto" data-id="125349" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag it"></span> <a href="rider/dario-andriotto">ANDRIOTTO Dario</a>  <span class="showIfMobile riderteam">Alexia Allumino</span> </div></td><td class="age hide" >27</td><td class="cu600" ><a href="team/alexia-allumino-2000">Alexia Allumino</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="3345" data-nation="it"><td>32</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="domenico-romano" data-id="114020" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/domenico-romano">ROMANO Domenico</a>  <span class="showIfMobile riderteam">Panaria - Fiordo</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/panaria-fiordo-2000">Panaria - Fiordo</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="2325" data-nation="it"><td>33</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="daniele-contrini" data-id="117850" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/daniele-contrini">CONTRINI Daniele</a>  <span class="showIfMobile riderteam">Liquigas - Pata</span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/liquigas-pata-2000">Liquigas - Pata</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="1276" data-nation="it"><td>34</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="oscar-mason" data-id="114766" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/oscar-mason">MASON Oscar</a>  <span class="showIfMobile riderteam">Mercatone Uno - Albacom</span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/mercatone-uno-albacom-2000">Mercatone Uno - Albacom</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="1272" data-nation="it"><td>35</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="daniele-nardello" data-id="119049" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/daniele-nardello">NARDELLO Daniele</a>  <span class="showIfMobile riderteam">Mapei - Quickstep</span> </div></td><td class="age hide" >28</td><td class="cu600" ><a href="team/mapei-quickstep-2000">Mapei - Quickstep</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="4477" data-nation="it"><td>36</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="diego-ferrari" data-id="113659" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/diego-ferrari">FERRARI Diego</a>  <span class="showIfMobile riderteam">Amica Chips - Tacconi Sport </span> </div></td><td class="age hide" >29</td><td class="cu600" ><a href="team/amica-chips-tacconi-sport-2000">Amica Chips - Tacconi Sport </a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="1060" data-nation="fr"><td>37</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="ludovic-turpin" data-id="135381" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/ludovic-turpin">TURPIN Ludovic</a>  <span class="showIfMobile riderteam">AG2R Prevoyance</span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/ag2r-prevoyance-2000">AG2R Prevoyance</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="1216" data-nation="de"><td>38</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="rolf-aldag" data-id="115054" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag de"></span> <a href="rider/rolf-aldag">ALDAG Rolf</a>  <span class="showIfMobile riderteam">Team Telekom</span> </div></td><td class="age hide" >31</td><td class="cu600" ><a href="team/team-telekom-2000">Team Telekom</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="1253" data-nation="it"><td>39</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="matteo-algeri" data-id="168293" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag it"></span> <a href="rider/matteo-algeri">ALGERI Matteo</a>  <span class="showIfMobile riderteam">Lampre - Daikin</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/lampre-daikin-2000">Lampre - Daikin</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="1182" data-nation="it"><td>43</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="matteo-tosatto" data-id="140418" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/matteo-tosatto">TOSATTO Matteo</a>  <span class="showIfMobile riderteam">Fassa Bortolo</span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/fassa-bortolo-2000">Fassa Bortolo</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="4477" data-nation="it"><td>44</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="davide-scalmana" data-id="174569" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/davide-scalmana">SCALMANA Davide</a>  <span class="showIfMobile riderteam">Amica Chips - Tacconi Sport </span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/amica-chips-tacconi-sport-2000">Amica Chips - Tacconi Sport </a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="4328" data-nation="it"><td>45</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="fabio-bulgarelli" data-id="113660" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/fabio-bulgarelli">BULGARELLI Fabio</a>  <span class="showIfMobile riderteam">Team Colpack</span> </div></td><td class="age hide" >23</td><td class="cu600" ><a href="team/team-colpack-2000">Team Colpack</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="4328" data-nation="it"><td>46</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="mauro-zinetti" data-id="114469" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/mauro-zinetti">ZINETTI Mauro</a>  <span class="showIfMobile riderteam">Team Colpack</span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/team-colpack-2000">Team Colpack</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="1565" data-nation="it"><td>49</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alessandro-baronti" data-id="113521" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/alessandro-baronti">BARONTI Alessandro</a>  <span class="showIfMobile riderteam">Cantina Tollo - Regain</span> </div></td><td class="age hide" >33</td><td class="cu600" ><a href="team/cantina-tollo-regain-2000">Cantina Tollo - Regain</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="1182" data-nation="it"><td>50</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="luca-mazzanti" data-id="140210" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag it"></span> <a href="rider/luca-mazzanti">MAZZANTI Luca</a>  <span class="showIfMobile riderteam">Fassa Bortolo</span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/fassa-bortolo-2000">Fassa Bortolo</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="1253" data-nation="it"><td>51</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="gilberto-simoni" data-id="123788" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_purple"></div><span class="fs10 clr999">Climber</span></td><td><div><span class="flag it"></span> <a href="rider/gilberto-simoni">SIMONI Gilberto</a>  <span class="showIfMobile riderteam">Lampre - Daikin</span> </div></td><td class="age hide" >28</td><td class="cu600" ><a href="team/lampre-daikin-2000">Lampre - Daikin</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+<tr data-team="1182" data-nation="it"><td>52</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="gabriele-balducci" data-id="117770" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/gabriele-balducci">BALDUCCI Gabriele</a>  <span class="showIfMobile riderteam">Fassa Bortolo</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/fassa-bortolo-2000">Fassa Bortolo</a></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:50</div></td></tr>
+</tbody></table>
+<div style="color: #bbb; font-size: 10px; text-align: right; ">DNF=Did not finish / DNS=Did not start / OTL = Outside time limit / DF=Did finish, no result / NR=No result<svg viewBox="0 0 24 24" style="width: 14px; margin: 0 0 -4px 3px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#dec650" d="M21 3a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-2.001L19 20a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1l-.001-8.001L3 12a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h6a3 3 0 0 0 6 0h6z"/></g></svg> Rider wearing the jersey<span   style=" margin-left: 10px;"> <svg viewBox="0 0 24 24" style="width: 10px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#f55733" d="M3.783 2.826L12 1l8.217 1.826a1 1 0 0 1 .783.976v9.987a6 6 0 0 1-2.672 4.992L12 23l-6.328-4.219A6 6 0 0 1 3 13.79V3.802a1 1 0 0 1 .783-.976z"/></g></svg>>50% of race distance in group before peloton</span><div class="clear"></div>  </div><div class="more-results-cont"><a class="viewMoreResults" data-n="25"   href="#">View top-25</a><div style="width: 10px; "></div><a class="viewMoreResults" data-n="250"   href="#">View full result</a></div><div class="mob-ad after-result "></div></div><div class="subTabs hide" data-subtab="2"></div></div></div><div class="w30 right mb_w100"><div class=""></div>
+<div class=""><h3>Race information</h3><div class=""></div></div>
+<img class="left maxw100 mg_rp10" src="images/logo/bn/dm/coppa-bernocchi.png" /><div class=""><ul class="infolist" style=""><li><div>Date:</div> <div>18 August 2000</div></li>
+<li><div>Start time:</div> <div>-</div></li>
+<li><div>Avg. speed winner:</div> <div>42.571 km/h</div></li>
+<li><div>Race category:</div> <div>ME - Men Elite</div></li>
+<li><div>Distance: </div> <div>207 km</div></li>
+<li><div>Points scale:</div> <div><a    href="info.php?s=point-scales&season=2000&category=1&scale=20">1.1</a></div></li>
+<li><div>UCI scale:</div> <div><a    href="info.php?s=point-scales&season=2000&category=1&pcs_uci&uci&scale=0"></a></div></li>
+<li><div>Parcours type: </div> <div><span class="icon profile p0"></span></div></li>
+<li><div>ProfileScore: </div> <div></div></li>
+<li><div>Vert. meters:</div> <div></div></li>
+<li><div>Departure:</div> <div><a    href="location/legnano">Legnano</a></div></li>
+<li><div>Arrival:</div> <div><a    href="location/legnano">Legnano</a></div></li>
+<li><div>Race ranking:</div> <div><a    href="race/coppa-bernocchi/2000/result/overview/race-ranking">0</a></div></li>
+<li><div>Startlist quality score:</div> <div><a    href="race/coppa-bernocchi/2000/startlist/startlist-quality">289</a></div></li>
+<li><div>Won how: </div> <div><a    href="race/coppa-bernocchi/2000/result/more/contribute-info">? - let us know!</a></div></li>
+<li><div>Avg. temperature:</div> <div><a    href="race/coppa-bernocchi/2000/result/stages/hottest-stages"></a></div></li>
+</ul></div>
+<div class=""><ul class="list horizontal"></ul></div>
+<div class="mt10"><h3>Race profile</h3>
+<span class="table-cont"><ul class="list"  style=" "></ul></span></div>
+<div class="mt10"><h3>Sites</h3><ul class="list horizontal sites "><li><span class="icon website left"></span><a  target="_blank"   class="" href="https://www.uslegnanese.it/">site</a></li>
+</ul></div>
+<div class="fs11"><div class=""></div></div>
+<div class="desktop-ad race-column-right"></div><div class="mob-ad race-column-right"></div></div><div class="clear"></div>
+</div>
+<div class="desktop-ad below-content race"></div><div class="mob-ad below-content race"></div></div><div style="clear: both; "></div>  
+  </div>
+  </center>
+  <div class="push"></div>
+</div>
+<div class="footer">
+  <div class="sfa"><ul class="ftr-list"><li class="group"><h3>Grand Tours</h3><ul><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">Vuelta a España</a></li>
+</ul><h3>Major Tours</h3><ul><li><a href="race/paris-nice">Paris-Nice</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/volta-a-catalunya">Volta a Catalunya</a></li>
+<li><a href="race/tour-de-romandie">Tour de Romandie</a></li>
+<li><a href="race/tour-de-suisse">Tour de Suisse</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/itzulia-basque-country">Itzulia Basque Country</a></li>
+</ul></li>
+<li class="group"><h3>Monuments</h3><ul><li><a href="race/milano-sanremo">Milano-SanRemo</a></li>
+<li><a href="race/ronde-van-vlaanderen">Ronde van Vlaanderen</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+</ul><h3>Championships</h3><ul><li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/uec-road-european-championships">European championships</a></li>
+</ul></li>
+<li class="group"><h3>Top classics</h3><ul><li><a href="race/omloop-het-nieuwsblad">Omloop Het Nieuwsblad</a></li>
+<li><a href="race/strade-bianche">Strade Bianche</a></li>
+<li><a href="race/e3-harelbeke">E3 Classic</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem</a></li>
+<li><a href="race/dwars-door-vlaanderen">Dwars door vlaanderen</a></li>
+<li><a href="race/eschborn-frankfurt">Eschborn-Frankfurt</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/san-sebastian">San Sebastian</a></li>
+<li><a href="race/bretagne-classic">Bretagne Classic</a></li>
+<li><a href="race/gp-quebec">GP Québec</a></li>
+<li><a href="race/gp-montreal">GP Montréal</a></li>
+</ul></li>
+<li class="group"><h3>Popular riders</h3><ul><li><a href="rider/tadej-pogacar">Tadej Pogačar</a></li>
+<li><a href="rider/wout-van-aert">Wout van Aert</a></li>
+<li><a href="rider/remco-evenepoel">Remco Evenepoel</a></li>
+<li><a href="rider/jonas-vingegaard-rasmussen">Jonas Vingegaard</a></li>
+<li><a href="rider/mathieu-van-der-poel">Mathieu van der Poel</a></li>
+<li><a href="rider/biniam-girmay">Biniam Girmay</a></li>
+<li><a href="rider/peter-sagan">Peter Sagan</a></li>
+<li><a href="rider/annemiek-van-vleuten">Annemiek van Vleuten</a></li>
+<li><a href="rider/elisa-longo-borghini">Elisa Longo Borghini</a></li>
+<li><a href="rider/katarzyna-niewiadoma">Katarzyna Niewiadoma</a></li>
+</ul></li>
+<li class="group"><h3>Statistics</h3><ul><li><a href="statistics/start/points-per-age">Points per age</a></li>
+<li><a href="statistics/start/latest-injuries">Latest injuries</a></li>
+<li><a href="statistics/riders/youngest-riders">Youngest riders</a></li>
+<li><a href="statistics/grandtours">Grand tour statistics</a></li>
+<li><a href="statistics/monuments">Monument classics</a></li>
+<li><a href="teams/transfers">Latest transfers</a></li>
+<li><a href="favorite500">Favorite 500</a></li>
+</ul><h3>Rankings</h3><ul><li><a href="rankings.php">PCS ranking</a></li>
+<li><a href="rankings/me/uci-individual">UCI World Ranking</a></li>
+<li><a href="rankings/me/all-time">Alltime</a></li>
+</ul></li>
+<li class="group"><h3>Info</h3><ul><li><a href="info/point-scales">Points scales</a></li>
+<li><a href="info/profile-score-explained">Profile scores</a></li>
+<li><a href="reset_password.php">Reset password</a></li>
+<li><a href="info/pcs-game">PCS game</a></li>
+<li><a href="info/procyclinggame">ProCyclingGame</a></li>
+</ul><h3>About ProCyclingStats</h3><ul><li><a href="info/about-us">About us</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/cookie-policy">Cookie policy</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/contributions">Contributions</a></li>
+<li><span>Pageload 0.0277s</span></li>
+</ul></li>
+</ul><input type="hidden" id="pageid" value="1190" /><input type="hidden" id="userid" value="0" />
+	</div>
+</div> 
+ 
+ </body></html>
+<script src="search_list7.js"></script>  

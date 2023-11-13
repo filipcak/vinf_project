@@ -1,0 +1,252 @@
+<!DOCTYPE HTML><html><head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35889790-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'GA_MEASUREMENT_ID', {
+	  'linker': {
+	    'domains': ['cx.procyclingstats.com','procyclingstats.com']
+	  }
+	});
+
+  gtag('config', 'UA-35889790-1');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2MNJ20S7SJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2MNJ20S7SJ');
+</script>
+<title>African Continental Championships - TTT 2018 Time trial results</title>
+<base href="https://www.procyclingstats.com/race.php" />
+<link rel="canonical" href="https://www.procyclingstats.com/race/african-cycling-championships-ttt/2018/result" />
+<script>
+    var r89 = r89 || {
+      callAds: [],
+      pushAd: function(id, name, config) { r89.callAds.push([id, name, config]); }
+    };
+</script>
+<script async src="https://tags.refinery89.com/v2/procyclingstats.js"></script><meta name="description" content="Mekseb Debesay is the winner of African Continental Championships - TTT 2018, before Amanuel Ghebreigzabhier and Metkel Eyob. ">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="utf-8"> 
+<meta name="facebook-domain-verification" content="tjwn3jyjupm0t1j8e0sgis3c80x88r" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<base href="race.php" />
+	<link rel="stylesheet" type="text/css" href="https://www.procyclingstats.com/pcs_a190.css" />
+	
+<script src="https://www.procyclingstats.com/pcs_s79.js"></script> 
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css"> 
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.procyclingstats.com/images/pcs-logos/icon3/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-16x16.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon.ico" />
+ 
+</head>
+<body>
+<div class="wrapper">
+  <header class="">
+    <div class="cont">
+    	<a  class="logo" href="index.php"></a>
+  
+    	<form action="search.php" class="msearch"><input type="hidden"  id="term" />
+    		<input type="text" name="term" id="search" data-nav="race/-id-/result" data-nav2="" data-page="race" class="search4"  placeholder="search"  /></form> 
+    	<div class="menuCont">
+      	<a class="mobMenu" href="">Menu&#x25BC;</a>
+				<ul class="nav_v4 default"><li class=" "><a class="reg" href="index.php">Home</a></li>
+<li class="more4 "><a class="reg" href="races.php">Races</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">La Vuelta ciclista a España</a></li>
+<li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/milano-sanremo">Milano-Sanremo</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/paris-nice">Paris - Nice</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/volta-a-catalunya">Volta Ciclista a Catalunya</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/ronde-van-vlaanderen">Tour des Flandres</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem in Flanders Fields</a></li>
+<li><a href="race/san-sebastian">Clásica Ciclista San Sebastián</a></li>
+</ul></li>
+<li class="more4 "><a class="reg" href="teams.php">Teams</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="team/intermarche-circus-wanty-2023">Intermarché - Circus - Wanty </a></li>
+<li><a href="team/ineos-grenadiers-2023">INEOS Grenadiers</a></li>
+<li><a href="team/groupama-fdj-2023">Groupama - FDJ</a></li>
+<li><a href="team/ef-education-easypost-2023">EF Education-EasyPost</a></li>
+<li><a href="team/cofidis-2023">Cofidis </a></li>
+<li><a href="team/bora-hansgrohe-2023">BORA - hansgrohe</a></li>
+<li><a href="team/bahrain-victorious-2023">Bahrain - Victorious</a></li>
+<li><a href="team/astana-qazaqstan-team-2023">Astana Qazaqstan Team</a></li>
+<li><a href="team/team-jumbo-visma-2023">Jumbo-Visma</a></li>
+<li><a href="team/movistar-team-2023">Movistar Team</a></li>
+<li><a href="team/soudal-quick-step-2023">Soudal - Quick Step</a></li>
+<li><a href="team/team-arkea-samsic-2023">Team Arkéa Samsic</a></li>
+<li><a href="team/team-jayco-alula-2023">Team Jayco AlUla</a></li>
+<li><a href="team/team-dsm-2023">Team DSM</a></li>
+<li><a href="team/trek-segafredo-2023">Trek - Segafredo</a></li>
+<li><a href="team/uae-team-emirates-2023">UAE Team Emirates</a></li>
+<li><a href="team/alpecin-deceuninck-2023">Alpecin-Deceuninck</a></li>
+<li><a href="team/ag2r-citroen-team-2023">AG2R Citroën Team</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="rankings.php">Rankings</a></li>
+<li class="more4 "><a class="reg" href="statistics.php">Statistics</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="statistics">Overview</a></li>
+<li><a href="statistics/riders">Riders</a></li>
+<li><a href="statistics/teams">Teams</a></li>
+<li><a href="statistics/grandtours">Grand tours</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="game.php">Game</a></li>
+<li class="more4 "><a class="reg" href="riders.php">More</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="riders">Riders</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/countdown-to-1-billion-pageviews">Countdown to 2 billion pageviews</a></li>
+<li><a href="favorite500.php">Favorite500</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/about-us">About us</a></li>
+<li><a href="info/profile-score-explained">Profile Score</a></li>
+<li><a href="info/tutorials">Tutorials</a></li>
+</ul></li>
+<li class="more4 pro"><a class="reg" href="premium.php">Pro</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="">Dashboard</a></li>
+<li><a href="">Lists</a></li>
+</ul></li>
+ 
+				 </ul> 
+			 </div>
+			 <a class="user4" data-logged="0" href="account.php"><span>&#10070;</span><font class="hideIfMobile">login</font></a><a class="settings4 " href="settings.php"><span>&#10033;</span><font>settings</font></a>    </div>
+  </header>  
+<div class="content   "> <div class="page-topnav "><div class="pageDDnavCont"><div class="pageSelectNav " ><a   href="race/african-cycling-championships-ttt/2017/result" >2017</a><div ><form style="  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/african-cycling-championships-ttt/2023/result" >2023</option><option value="race/african-cycling-championships-ttt/2022/result" >2022</option><option value="race/african-cycling-championships-ttt/2021/result" >2021</option><option value="race/african-cycling-championships-ttt/2019/result" >2019</option><option value="race/african-cycling-championships-ttt/2018/result" selected>2018</option><option value="race/african-cycling-championships-ttt/2017/result" >2017</option><option value="race/african-cycling-championships-ttt/2015/result" >2015</option><option value="race/african-cycling-championships-ttt/2013/result" >2013</option><option value="race/african-cycling-championships-ttt/2012/result" >2012</option><option value="race/african-cycling-championships-ttt/2011/result" >2011</option><option value="race/african-cycling-championships-ttt/2009/result" >2009</option></select></form></div><a  href="race/african-cycling-championships-ttt/2019/result" >2019</a></div></div><ul class="pagenavLinks"><li class="reg "><a class="cur" href="race/african-cycling-championships-ttt/2018/result">Results</a></li>
+<li class="reg "><a style=" " href="race/african-cycling-championships-ttt/2018/startlist">Startlist</a><ul><li><a href="race/african-cycling-championships-ttt/2018/startlist">Startlist</a></li><li><a href="race/african-cycling-championships-ttt/results">Race palmares</a></li></ul></li><li class="reg "><a class="" href="race/african-cycling-championships-ttt/2018/result/info">Info&#x25BC;</a><ul><li><a href="race/african-cycling-championships-ttt/2018/result/info/complementary-results">Complementary results</a></li>
+<li><a href="race/african-cycling-championships-ttt/2018/result/info/photos">Finish photo</a></li>
+<li><a href="race/african-cycling-championships-ttt/2018/result/info/profiles">Profiles</a></li>
+<li><a href="race/african-cycling-championships-ttt/2018/result/info/time-table">Time table</a></li>
+</ul></li>
+<li class="reg "><a class="" href="race/african-cycling-championships-ttt/2018/result/live">Live</a></li>
+<li class="reg "><a class="" href="race/african-cycling-championships-ttt/2018/result/game">Game</a></li>
+<li class="reg "><a class="" href="race/african-cycling-championships-ttt/2018/result/statistics">Stats</a></li>
+<li class="reg "><a class="" href="race/african-cycling-championships-ttt/2018/result/more">More&#x25BC;</a><ul><li><a href="race/african-cycling-championships-ttt/2018/result/more/report">Report</a></li>
+<li><a href="race/african-cycling-championships-ttt/2018/result/more/embed-results">Embed</a></li>
+<li><a href="race/african-cycling-championships-ttt/2018/result/more/contribute-info">Contribute info</a></li>
+<li><a href="race/african-cycling-championships-ttt/2018/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li>
+<li class="more"><a href="race/african-cycling-championships-ttt/2018/result">More</a><ul><li data-n="1"><a href="race/african-cycling-championships-ttt/2018/result/result/result">Results - Results</a></li><li data-n="2"><a href="race/african-cycling-championships-ttt/2018/result/info/info">Info - Info</a></li><li data-n="1"><a href="race/african-cycling-championships-ttt/2018/result/info/complementary-results">Complementary results</a></li>
+<li data-n="1"><a href="race/african-cycling-championships-ttt/2018/result/info/photos">Finish photo</a></li>
+<li data-n="1"><a href="race/african-cycling-championships-ttt/2018/result/info/profiles">Profiles</a></li>
+<li data-n="1"><a href="race/african-cycling-championships-ttt/2018/result/info/time-table">Time table</a></li>
+<li data-n="3"><a href="race/african-cycling-championships-ttt/2018/result/live/live">Live - Live</a></li><li data-n="4"><a href="race/african-cycling-championships-ttt/2018/result/game/game">Game - Game</a></li><li data-n="5"><a href="race/african-cycling-championships-ttt/2018/result/statistics/statistics">Stats - Stats</a></li><li data-n="6"><a href="race/african-cycling-championships-ttt/2018/result/more/more">More - More</a></li><li data-n="5"><a href="race/african-cycling-championships-ttt/2018/result/more/report">Report</a></li>
+<li data-n="5"><a href="race/african-cycling-championships-ttt/2018/result/more/embed-results">Embed</a></li>
+<li data-n="5"><a href="race/african-cycling-championships-ttt/2018/result/more/contribute-info">Contribute info</a></li>
+<li data-n="5"><a href="race/african-cycling-championships-ttt/2018/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li></ul><div class="clear"></div></div><ul class="thumbnails" ><li><a href="race/african-cycling-championships-ttt">African Continental Championships ME - TTT</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/african-cycling-championships-ttt/2018">2018</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/african-cycling-championships-ttt/2018/result">Time trial</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/african-cycling-championships-ttt/2018/result/result">Results</a></li></ul><div class="page-title " ><div class="main"><span class="flag rw w32"></span><span class="flag rw w24"></span><span class="hideIfMobile">2018</span><span class="hideIfMobile">&raquo;</span><h1 class="">African Continental Championships - TTT</h1><font class="hideIfMobile">(CC)</font></div><div class="sub"><span class="showIfMobile">2018</span><span class="showIfMobile">&raquo;</span><span class="blue">Time trial</span><span class="hideIfMobile">&raquo;</span><span class="red">Kigali</span><span class="red">&rsaquo;</span><span class="red">Kigali</span><span class="red fw400">(40km)</span></div></div><div class="clear"></div><div class="desktop-ad leaderbord race"></div><div class="mob-ad leaderbord race"></div><div class="top-cont"></div><div class="top-cont-mobile top-cont-mobile-race"></div><div class="page-content page-object default " data-no_menu="1" ><h2></h2><div class="w100 "   >
+<div class="w68 left mb_w100"><div class="result-filter-cont"><label for="age"><input type="checkbox" class="toggleAge" value="1" id="age">Age</label><label for="bibs"><input type="checkbox" class="toggleBibs" value="1" id="bibs">BIBs</label><label for="h2h"><input type="checkbox" class="toggleH2H cbFalseOnLoad" value="1" id="h2h" >H2H</label><span class="hideIfMobile"><label for="specialty"><input type="checkbox" class="toggleSpecialty " value="1" id="specialty">Specialty</label></span><a class="clearFilter blue hide" style="padding: 0px 7px; " href="">clear filter</a><select class="TNFilter" data-type="team"><option value="0"  >all teams</option><option value="2707"  >Algeria</option><option value="1752"  >Benin</option><option value="1742"  >Burkina Faso</option><option value="4942"  >Burundi</option><option value="2377"  >Democratic Republic of the Congo</option><option value="3962"  >Djibouti</option><option value="1739"  >Eritrea</option><option value="1784"  >Ethiopia</option><option value="1746"  >Ghana</option><option value="2780"  >Mauritius</option><option value="1605"  >Morocco</option><option value="1744"  >Namibia</option><option value="1745"  >Rwanda</option><option value="2425"  >Seychelles</option><option value="1750"  >Tanzania</option><option value="4733"  >Uganda</option><option value="4941"  >Zambia</option></select><select class="TNFilter" data-type="nation"><option value="0"  >all nations</option><option value="dz"  >Algeria</option><option value="bj"  >Benin</option><option value="bf"  >Burkina Faso</option><option value="bi"  >Burundi</option><option value="cg"  >Congo-Brazaville</option><option value="dj"  >Djibouti</option><option value="er"  >Eritrea</option><option value="et"  >Ethiopia</option><option value="gh"  >Ghana</option><option value="mu"  >Mauritius</option><option value="ma"  >Morocco</option><option value="na"  >Namibia</option><option value="rw"  >Rwanda</option><option value="sc"  >Seychelles</option><option value="tz"  >Tanzania</option><option value="ug"  >Uganda</option><option value="zm"  >Zambia</option></select></div><div class="hide timeWonLostComment" style="text-align: right; color: #555; font-size: 10px; ">The time won/lost column displays the gains in time in the GC. Click on the time of any rider to view the relative gains on this rider.</div><div class="h2h hide " style="font-size: 11px; color: #555;   ">Select two riders to compare. </div><div class="result-cont " data-id="192307">
+<div class="subTabs" data-subtab="1"><table class="results-ttt"><thead><tr><th>Pos.</th><th>Team</th><th>Time</th><th>Timegap</th><th>Speed</th><th class="ac"><center>PCS points</center></th><th class="ac"><center>UCI points</center></th></tr></thead><tbody><tr class="team"><td>1</td><td><span class="flag er"></span> <a href="team/eritrea-2018"><b>Eritrea</b></a></td><td>51:28</td><td></td><td><b>46.632</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/amanuel-ghebreigzabhier">GHEBREIGZABHIER Amanuel</a> </td><td></td><td></td><td></td><td class="ac">15</td><td class="blue ac">17.5</td></tr><tr class=""><td></td><td><a style="" href="rider/mekseb-debesay">DEBESAY Mekseb</a> </td><td></td><td></td><td></td><td class="ac">15</td><td class="blue ac">17.5</td></tr><tr class=""><td></td><td><a style="" href="rider/saymon-musie">MUSIE Saymon</a> </td><td></td><td></td><td></td><td class="ac">15</td><td class="blue ac">17.5</td></tr><tr class=""><td></td><td><a style="" href="rider/metkel-eyob">EYOB Metkel</a> </td><td></td><td></td><td></td><td class="ac">15</td><td class="blue ac">17.5</td></tr><tr class="team"><td>2</td><td><span class="flag rw"></span> <a href="team/rwanda-2018"><b>Rwanda</b></a></td><td>51:45</td><td>0:17</td><td><b>46.377</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/joseph-areruya">ARERUYA Joseph</a> </td><td></td><td></td><td></td><td class="ac">12</td><td class="blue ac">13.75</td></tr><tr class=""><td></td><td><a style="" href="rider/adrien-niyonshuti">NIYONSHUTI Adrien</a> </td><td></td><td></td><td></td><td class="ac">12</td><td class="blue ac">13.75</td></tr><tr class=""><td></td><td><a style="" href="rider/valens-ndayisenga">NDAYISENGA Valens</a> </td><td></td><td></td><td></td><td class="ac">12</td><td class="blue ac">13.75</td></tr><tr class=""><td></td><td><a style="" href="rider/jean-bosco-nsengiyumva">NSENGIMANA Jean Bosco</a> </td><td></td><td></td><td></td><td class="ac">12</td><td class="blue ac">13.75</td></tr><tr class="team"><td>3</td><td><span class="flag dz"></span> <a href="team/algeria-2018"><b>Algeria</b></a></td><td>52:15</td><td>0:47</td><td><b>45.933</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/abderrahmane-mansouri">MANSOURI Abderrahmane</a> </td><td></td><td></td><td></td><td class="ac">9</td><td class="blue ac">10</td></tr><tr class=""><td></td><td><a style="" href="rider/islam-mansouri">MANSOURI Islam</a> </td><td></td><td></td><td></td><td class="ac">9</td><td class="blue ac">10</td></tr><tr class=""><td></td><td><a style="" href="rider/azzedine-lagab">LAGAB Azzedine</a> </td><td></td><td></td><td></td><td class="ac">9</td><td class="blue ac">10</td></tr><tr class=""><td></td><td><a style="" href="rider/youcef-reguigui">REGUIGUI Youcef</a> </td><td></td><td></td><td></td><td class="ac">9</td><td class="blue ac">10</td></tr><tr class="team"><td>4</td><td><span class="flag ma"></span> <a href="team/morocco-2018"><b>Morocco</b></a></td><td>52:17</td><td>0:49</td><td><b>45.904</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/mohcine-el-kouraji">EL KOURAJI Mohcine</a> </td><td></td><td></td><td></td><td class="ac">6</td><td class="blue ac">7.5</td></tr><tr class=""><td></td><td><a style="" href="rider/salah-eddine-mraouni">MRAOUNI Salah Eddine</a> </td><td></td><td></td><td></td><td class="ac">6</td><td class="blue ac">7.5</td></tr><tr class=""><td></td><td><a style="" href="rider/el-chokri">CHOKRI El Mehdi</a> </td><td></td><td></td><td></td><td class="ac">6</td><td class="blue ac">7.5</td></tr><tr class=""><td></td><td><a style="" href="rider/anass-ait-el-abdia">AÏT EL ABDIA Anass</a> </td><td></td><td></td><td></td><td class="ac">6</td><td class="blue ac">7.5</td></tr><tr class="team"><td>5</td><td><span class="flag et"></span> <a href="team/ethiopia-2018"><b>Ethiopia</b></a></td><td>53:30</td><td>2:02</td><td><b>44.86</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/temesgen-buru">BURU Temesgen</a> </td><td></td><td></td><td></td><td class="ac">3</td><td class="blue ac">6.25</td></tr><tr class=""><td></td><td><a style="" href="rider/hafetab-weldu">WELDU Hafetab</a> </td><td></td><td></td><td></td><td class="ac">3</td><td class="blue ac">6.25</td></tr><tr class=""><td></td><td><a style="" href="rider/redwan-ebrahim">EBRAHIM Redwan</a> </td><td></td><td></td><td></td><td class="ac">3</td><td class="blue ac">6.25</td></tr><tr class=""><td></td><td><a style="" href="rider/kiflom-gademaedhim-gebreselassie">GEBRESELASSIE Kiflom Gademaedhim</a> </td><td></td><td></td><td></td><td class="ac">3</td><td class="blue ac">6.25</td></tr><tr class="team"><td>6</td><td><span class="flag mu"></span> <a href="team/mauritius-2018"><b>Mauritius</b></a></td><td>55:31</td><td>4:03</td><td><b>43.23</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/dylan-redy">REDY Dylan</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">5</td></tr><tr class=""><td></td><td><a style="" href="rider/gregory-rougier-lagane">ROUGIER-LAGANE Grégory</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">5</td></tr><tr class=""><td></td><td><a style="" href="rider/alexandre-mayer">MAYER Alexandre</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">5</td></tr><tr class=""><td></td><td><a style="" href="rider/fidzerald-rabaye">RABAYE Fidzerald</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">5</td></tr><tr class="team"><td>7</td><td><span class="flag na"></span> <a href="team/namibia-2018"><b>Namibia</b></a></td><td>56:21</td><td>4:53</td><td><b>42.591</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/drikus-coetzee">COETZEE Drikus</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">3.75</td></tr><tr class=""><td></td><td><a style="" href="rider/lotto-petrus">PETRUS Lotto</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">3.75</td></tr><tr class=""><td></td><td><a style="" href="rider/dan-craven">CRAVEN Dan</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">3.75</td></tr><tr class=""><td></td><td><a style="" href="rider/martin-freyer">FREYER Martin</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">3.75</td></tr><tr class="team"><td>8</td><td><span class="flag bf"></span> <a href="team/burkina-faso-2018"><b>Burkina Faso</b></a></td><td>57:34</td><td>6:06</td><td><b>41.691</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/salifou-yarbanga">YARBANGA Salifou</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">2.5</td></tr><tr class=""><td></td><td><a style="" href="rider/paul-daumont">DAUMONT Paul</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">2.5</td></tr><tr class=""><td></td><td><a style="" href="rider/boureima-nana">NANA Boureima</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">2.5</td></tr><tr class=""><td></td><td><a style="" href="rider/abdoul-aziz-nikiema">NIKIÉMA Abdoul Aziz</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">2.5</td></tr><tr class="team"><td>9</td><td><span class="flag tz"></span> <a href="team/tanzania-2018"><b>Tanzania</b></a></td><td>59:41</td><td>8:13</td><td><b>40.212</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/masunga-tab-baiskeli">BAISKELI Masunga</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">1.25</td></tr><tr class=""><td></td><td><a style="" href="rider/hamisi-mkoma">MKOMA Hamisi</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/richard-laizer">LAIZER Richard</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">1.25</td></tr><tr class=""><td></td><td><a style="" href="rider/gerald-konda-karemani">KAREMANI Gerald Konda</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">1.25</td></tr><tr class="team"><td>10</td><td><span class="flag gh"></span> <a href="team/ghana-2018"><b>Ghana</b></a></td><td>59:41</td><td>8:13</td><td><b>40.212</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/abdulrazak-umar">UMAR Abdulrazak</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/abdul-razak-abdul">ABDUL Abdul Razak</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">0.75</td></tr><tr class=""><td></td><td><a style="" href="rider/abdul-rahman">RAHMAN Abdul</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">0.75</td></tr><tr class=""><td></td><td><a style="" href="rider/anthony-boakye-dankwa">BOAKYE DANKWA Anthony Boafo</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">0.75</td></tr><tr class="team"><td>11</td><td><span class="flag cg"></span> <a href="team/democratic-republic-of-the-congo-2018"><b>Democratic Republic of the Congo</b></a></td><td>1:00:49</td><td>9:21</td><td><b>39.463</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/n-koro-mayele">MAYELE N'koro</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/mimbole-matondo">MATONDO Mimbole</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/daniel-kinanira-ischara">KINANIRA ISCHARA Daniel</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/kyaviro-jimmy-muhindo">MUHINDO Kyaviro Jimmy</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class="team"><td>12</td><td><span class="flag sc"></span> <a href="team/seychelles-2018"><b>Seychelles</b></a></td><td>1:01:10</td><td>9:42</td><td><b>39.237</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/stephen-belle">BELLE Stephen</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/jude-hoareau">HOAREAU Jude</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/gerry-albert">GERRY Christopher Albert</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/xerxes-tab-larue">LARUE Xerxes</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class="team"><td>13</td><td><span class="flag ug"></span> <a href="team/uganda-2018"><b>Uganda</b></a></td><td>1:03:45</td><td>12:17</td><td><b>37.647</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/joseph-mbaziira">MBAZIIRA Joseph</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/julius-yamasamuel">YAMASAMUEL Julius</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/augustin-niyonsiima">NIYONSIIMA Augustin</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/senay-kunus">KUNUS Senay</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class="team"><td>14</td><td><span class="flag zm"></span> <a href="team/zambia-2018"><b>Zambia</b></a></td><td>1:03:51</td><td>12:23</td><td><b>37.588</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/michael-olokani">OLOKANI Michael</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/tunkanya-bedias-sanyando">TUNKANYA Bedias</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/omar-mweene">MWEENE Omar</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/sydney-juma">JUMA Sydney</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class="team"><td>15</td><td><span class="flag dj"></span> <a href="team/djibouti-2018"><b>Djibouti</b></a></td><td>1:06:54</td><td>15:26</td><td><b>35.874</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/issa-mahamoud-bogoreh">MAHAMOUD BOGOREH Issa</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/osman-abdek">OSMAN Abdek Khaireh</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/mohamed-ahmed-abdillahi">AHMED ABDILLAHI Mohamed</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/aden-ilyas">ILYAS Aden</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class="team"><td>16</td><td><span class="flag bj"></span> <a href="team/benin-2018"><b>Benin</b></a></td><td>1:08:26</td><td>16:58</td><td><b>35.071</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/idrissou-bascki">BASHIKI Idrissou Abdul</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/eric-ahouandjinou">AHOUANDJINOU Eric</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/augustin-acakpo">ACAKPO Augustin</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/emmanuel-sagbo">SAGBO Emmanuel</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class="team"><td>17</td><td><span class="flag bi"></span> <a href="team/burundi-2018"><b>Burundi</b></a></td><td>1:11:09</td><td>19:41</td><td><b>33.732</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/eric-niyonkuru">NIYONKURU Eric</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/obedi-ciza">CIZA Obedi</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/amadi-uwimana">UWIMANA Amadi</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr></tbody></table></div><div class="subTabs hide" data-subtab="2"></div></div></div><div class="w30 right mb_w100"><div class=""></div>
+<div class=""><h3>Race information</h3><div class=""></div></div>
+<img class="left maxw100 mg_rp10" src="" /><div class=""><ul class="infolist" style=""><li><div>Date:</div> <div>14 February 2018</div></li>
+<li><div>Start time:</div> <div>-</div></li>
+<li><div>Avg. speed winner:</div> <div>46.63 km/h</div></li>
+<li><div>Race category:</div> <div>ME - Men Elite</div></li>
+<li><div>Distance: </div> <div>40 km</div></li>
+<li><div>Points scale:</div> <div><a    href="info.php?s=point-scales&season=2018&category=1&scale=25">2.Pro.TTT</a></div></li>
+<li><div>UCI scale:</div> <div><a    href="info.php?s=point-scales&season=2018&category=1&pcs_uci&uci&scale=0"></a></div></li>
+<li><div>Parcours type: </div> <div><span class="icon profile p0"></span></div></li>
+<li><div>ProfileScore: </div> <div></div></li>
+<li><div>Vert. meters:</div> <div></div></li>
+<li><div>Departure:</div> <div><a    href="location/kigali">Kigali</a></div></li>
+<li><div>Arrival:</div> <div><a    href="location/kigali">Kigali</a></div></li>
+<li><div>Race ranking:</div> <div><a    href="race/african-cycling-championships-ttt/2018/result/overview/race-ranking">0</a></div></li>
+<li><div>Startlist quality score:</div> <div><a    href="race/african-cycling-championships-ttt/2018/startlist/startlist-quality">13</a></div></li>
+<li><div>Won how: </div> <div>Time Trial</div></li>
+<li><div>Avg. temperature:</div> <div><a    href="race/african-cycling-championships-ttt/2018/result/stages/hottest-stages"></a></div></li>
+</ul></div>
+<div class=""><ul class="list horizontal"></ul></div>
+<div class="mt10"><h3>Race profile</h3>
+<span class="table-cont"><ul class="list"  style=" "></ul></span></div>
+<div class="mt10"><h3>Sites</h3><ul class="list horizontal sites "></ul></div>
+<div class="fs11"><div class=""></div></div>
+<div class="desktop-ad race-column-right"></div><div class="mob-ad race-column-right"></div></div><div class="clear"></div>
+</div>
+<div class="desktop-ad below-content race"></div><div class="mob-ad below-content race"></div></div><div style="clear: both; "></div>  
+  </div>
+  </center>
+  <div class="push"></div>
+</div>
+<div class="footer">
+  <div class="sfa"><ul class="ftr-list"><li class="group"><h3>Grand Tours</h3><ul><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">Vuelta a España</a></li>
+</ul><h3>Major Tours</h3><ul><li><a href="race/paris-nice">Paris-Nice</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/volta-a-catalunya">Volta a Catalunya</a></li>
+<li><a href="race/tour-de-romandie">Tour de Romandie</a></li>
+<li><a href="race/tour-de-suisse">Tour de Suisse</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/itzulia-basque-country">Itzulia Basque Country</a></li>
+</ul></li>
+<li class="group"><h3>Monuments</h3><ul><li><a href="race/milano-sanremo">Milano-SanRemo</a></li>
+<li><a href="race/ronde-van-vlaanderen">Ronde van Vlaanderen</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+</ul><h3>Championships</h3><ul><li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/uec-road-european-championships">European championships</a></li>
+</ul></li>
+<li class="group"><h3>Top classics</h3><ul><li><a href="race/omloop-het-nieuwsblad">Omloop Het Nieuwsblad</a></li>
+<li><a href="race/strade-bianche">Strade Bianche</a></li>
+<li><a href="race/e3-harelbeke">E3 Classic</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem</a></li>
+<li><a href="race/dwars-door-vlaanderen">Dwars door vlaanderen</a></li>
+<li><a href="race/eschborn-frankfurt">Eschborn-Frankfurt</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/san-sebastian">San Sebastian</a></li>
+<li><a href="race/bretagne-classic">Bretagne Classic</a></li>
+<li><a href="race/gp-quebec">GP Québec</a></li>
+<li><a href="race/gp-montreal">GP Montréal</a></li>
+</ul></li>
+<li class="group"><h3>Popular riders</h3><ul><li><a href="rider/tadej-pogacar">Tadej Pogačar</a></li>
+<li><a href="rider/wout-van-aert">Wout van Aert</a></li>
+<li><a href="rider/remco-evenepoel">Remco Evenepoel</a></li>
+<li><a href="rider/jonas-vingegaard-rasmussen">Jonas Vingegaard</a></li>
+<li><a href="rider/mathieu-van-der-poel">Mathieu van der Poel</a></li>
+<li><a href="rider/biniam-girmay">Biniam Girmay</a></li>
+<li><a href="rider/peter-sagan">Peter Sagan</a></li>
+<li><a href="rider/annemiek-van-vleuten">Annemiek van Vleuten</a></li>
+<li><a href="rider/elisa-longo-borghini">Elisa Longo Borghini</a></li>
+<li><a href="rider/katarzyna-niewiadoma">Katarzyna Niewiadoma</a></li>
+</ul></li>
+<li class="group"><h3>Statistics</h3><ul><li><a href="statistics/start/points-per-age">Points per age</a></li>
+<li><a href="statistics/start/latest-injuries">Latest injuries</a></li>
+<li><a href="statistics/riders/youngest-riders">Youngest riders</a></li>
+<li><a href="statistics/grandtours">Grand tour statistics</a></li>
+<li><a href="statistics/monuments">Monument classics</a></li>
+<li><a href="teams/transfers">Latest transfers</a></li>
+<li><a href="favorite500">Favorite 500</a></li>
+</ul><h3>Rankings</h3><ul><li><a href="rankings.php">PCS ranking</a></li>
+<li><a href="rankings/me/uci-individual">UCI World Ranking</a></li>
+<li><a href="rankings/me/all-time">Alltime</a></li>
+</ul></li>
+<li class="group"><h3>Info</h3><ul><li><a href="info/point-scales">Points scales</a></li>
+<li><a href="info/profile-score-explained">Profile scores</a></li>
+<li><a href="reset_password.php">Reset password</a></li>
+<li><a href="info/pcs-game">PCS game</a></li>
+<li><a href="info/procyclinggame">ProCyclingGame</a></li>
+</ul><h3>About ProCyclingStats</h3><ul><li><a href="info/about-us">About us</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/cookie-policy">Cookie policy</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/contributions">Contributions</a></li>
+<li><span>Pageload 0.0277s</span></li>
+</ul></li>
+</ul><input type="hidden" id="pageid" value="1190" /><input type="hidden" id="userid" value="0" />
+	</div>
+</div> 
+ 
+ </body></html>
+<script src="search_list7.js"></script>  

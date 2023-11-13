@@ -1,0 +1,255 @@
+<!DOCTYPE HTML><html><head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35889790-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'GA_MEASUREMENT_ID', {
+	  'linker': {
+	    'domains': ['cx.procyclingstats.com','procyclingstats.com']
+	  }
+	});
+
+  gtag('config', 'UA-35889790-1');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2MNJ20S7SJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2MNJ20S7SJ');
+</script>
+<title>World Championships - Mixed Relay TTT 2022 Time trial results</title>
+<base href="https://www.procyclingstats.com/race.php" />
+<link rel="canonical" href="https://www.procyclingstats.com/race/world-championships-mixed-relay-ttt/2022/result" />
+<script>
+    var r89 = r89 || {
+      callAds: [],
+      pushAd: function(id, name, config) { r89.callAds.push([id, name, config]); }
+    };
+</script>
+<script async src="https://tags.refinery89.com/v2/procyclingstats.js"></script><meta name="description" content="Stefan Küng is the winner of World Championships - Mixed Relay TTT 2022, before Stefan Bissegger and Elise Chabbey. ">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="utf-8"> 
+<meta name="facebook-domain-verification" content="tjwn3jyjupm0t1j8e0sgis3c80x88r" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<base href="race.php" />
+	<link rel="stylesheet" type="text/css" href="https://www.procyclingstats.com/pcs_a190.css" />
+	
+<script src="https://www.procyclingstats.com/pcs_s79.js"></script> 
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css"> 
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.procyclingstats.com/images/pcs-logos/icon3/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-16x16.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon.ico" />
+ 
+</head>
+<body>
+<div class="wrapper">
+  <header class="">
+    <div class="cont">
+    	<a  class="logo" href="index.php"></a>
+  
+    	<form action="search.php" class="msearch"><input type="hidden"  id="term" />
+    		<input type="text" name="term" id="search" data-nav="race/-id-/result" data-nav2="" data-page="race" class="search4"  placeholder="search"  /></form> 
+    	<div class="menuCont">
+      	<a class="mobMenu" href="">Menu&#x25BC;</a>
+				<ul class="nav_v4 default"><li class=" "><a class="reg" href="index.php">Home</a></li>
+<li class="more4 "><a class="reg" href="races.php">Races</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">La Vuelta ciclista a España</a></li>
+<li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/milano-sanremo">Milano-Sanremo</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/paris-nice">Paris - Nice</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/volta-a-catalunya">Volta Ciclista a Catalunya</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/ronde-van-vlaanderen">Tour des Flandres</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem in Flanders Fields</a></li>
+<li><a href="race/san-sebastian">Clásica Ciclista San Sebastián</a></li>
+</ul></li>
+<li class="more4 "><a class="reg" href="teams.php">Teams</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="team/intermarche-circus-wanty-2023">Intermarché - Circus - Wanty </a></li>
+<li><a href="team/ineos-grenadiers-2023">INEOS Grenadiers</a></li>
+<li><a href="team/groupama-fdj-2023">Groupama - FDJ</a></li>
+<li><a href="team/ef-education-easypost-2023">EF Education-EasyPost</a></li>
+<li><a href="team/cofidis-2023">Cofidis </a></li>
+<li><a href="team/bora-hansgrohe-2023">BORA - hansgrohe</a></li>
+<li><a href="team/bahrain-victorious-2023">Bahrain - Victorious</a></li>
+<li><a href="team/astana-qazaqstan-team-2023">Astana Qazaqstan Team</a></li>
+<li><a href="team/team-jumbo-visma-2023">Jumbo-Visma</a></li>
+<li><a href="team/movistar-team-2023">Movistar Team</a></li>
+<li><a href="team/soudal-quick-step-2023">Soudal - Quick Step</a></li>
+<li><a href="team/team-arkea-samsic-2023">Team Arkéa Samsic</a></li>
+<li><a href="team/team-jayco-alula-2023">Team Jayco AlUla</a></li>
+<li><a href="team/team-dsm-2023">Team DSM</a></li>
+<li><a href="team/trek-segafredo-2023">Trek - Segafredo</a></li>
+<li><a href="team/uae-team-emirates-2023">UAE Team Emirates</a></li>
+<li><a href="team/alpecin-deceuninck-2023">Alpecin-Deceuninck</a></li>
+<li><a href="team/ag2r-citroen-team-2023">AG2R Citroën Team</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="rankings.php">Rankings</a></li>
+<li class="more4 "><a class="reg" href="statistics.php">Statistics</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="statistics">Overview</a></li>
+<li><a href="statistics/riders">Riders</a></li>
+<li><a href="statistics/teams">Teams</a></li>
+<li><a href="statistics/grandtours">Grand tours</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="game.php">Game</a></li>
+<li class="more4 "><a class="reg" href="riders.php">More</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="riders">Riders</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/countdown-to-1-billion-pageviews">Countdown to 2 billion pageviews</a></li>
+<li><a href="favorite500.php">Favorite500</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/about-us">About us</a></li>
+<li><a href="info/profile-score-explained">Profile Score</a></li>
+<li><a href="info/tutorials">Tutorials</a></li>
+</ul></li>
+<li class="more4 pro"><a class="reg" href="premium.php">Pro</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="">Dashboard</a></li>
+<li><a href="">Lists</a></li>
+</ul></li>
+ 
+				 </ul> 
+			 </div>
+			 <a class="user4" data-logged="0" href="account.php"><span>&#10070;</span><font class="hideIfMobile">login</font></a><a class="settings4 " href="settings.php"><span>&#10033;</span><font>settings</font></a>    </div>
+  </header>  
+<div class="content   "> <div class="page-topnav "><div class="pageDDnavCont"><div class="pageSelectNav " ><a   href="race/world-championships-mixed-relay-ttt/2021/result" >2021</a><div ><form style="  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/world-championships-mixed-relay-ttt/2023/result" >2023</option><option value="race/world-championships-mixed-relay-ttt/2022/result" selected>2022</option><option value="race/world-championships-mixed-relay-ttt/2021/result" >2021</option><option value="race/world-championships-mixed-relay-ttt/2019/result" >2019</option></select></form></div><a  href="race/world-championships-mixed-relay-ttt/2023/result" >2023</a></div><div class="pageSelectNav " ><div ><form style="  max-width: 150px; width: 100%;  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/world-championships-u23/2022/result/result" >MU</option><option value="race/world-championship/2022/result/result" >ME</option><option value="race/world-championships-junior-women/2022/result/result" >WJ</option><option value="race/world-championship-we/2022/result/result" >WE</option><option value="race/uci-world-championships-mj/2022/result/result" >MJ</option><option value="race/world-championships-mixed-relay-ttt/2022/result/result" selected>Mixed relay</option><option value="race/world-championships-wj-itt/2022/result/result" >WJ (TT)</option><option value="race/uci-world-championships-itt-mj/2022/result/result" >MJ (TT)</option><option value="race/world-championships-itt-u23/2022/result/result" >MU (TT)</option><option value="race/world-championship-itt-we/2022/result/result" >WE (TT)</option><option value="race/world-championship-itt/2022/result/result" >ME (TT)</option></select></form></div></div></div><ul class="pagenavLinks"><li class="reg "><a class="cur" href="race/world-championships-mixed-relay-ttt/2022/result">Results</a></li>
+<li class="reg "><a style=" " href="race/world-championships-mixed-relay-ttt/2022/startlist">Startlist</a><ul><li><a href="race/world-championships-mixed-relay-ttt/2022/startlist">Startlist</a></li><li><a href="race/world-championships-mixed-relay-ttt/results">Race palmares</a></li></ul></li><li class="reg "><a class="" href="race/world-championships-mixed-relay-ttt/2022/result/info">Info&#x25BC;</a><ul><li><a href="race/world-championships-mixed-relay-ttt/2022/result/info/complementary-results">Complementary results</a></li>
+<li><a href="race/world-championships-mixed-relay-ttt/2022/result/info/photos">Finish photo</a></li>
+<li><a href="race/world-championships-mixed-relay-ttt/2022/result/info/profiles">Profiles</a></li>
+<li><a href="race/world-championships-mixed-relay-ttt/2022/result/info/time-table">Time table</a></li>
+</ul></li>
+<li class="reg "><a class="" href="race/world-championships-mixed-relay-ttt/2022/result/live">Live</a></li>
+<li class="reg "><a class="" href="race/world-championships-mixed-relay-ttt/2022/result/game">Game</a></li>
+<li class="reg "><a class="" href="race/world-championships-mixed-relay-ttt/2022/result/statistics">Stats</a></li>
+<li class="reg "><a class="" href="race/world-championships-mixed-relay-ttt/2022/result/more">More&#x25BC;</a><ul><li><a href="race/world-championships-mixed-relay-ttt/2022/result/more/report">Report</a></li>
+<li><a href="race/world-championships-mixed-relay-ttt/2022/result/more/embed-results">Embed</a></li>
+<li><a href="race/world-championships-mixed-relay-ttt/2022/result/more/contribute-info">Contribute info</a></li>
+<li><a href="race/world-championships-mixed-relay-ttt/2022/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li>
+<li class="more"><a href="race/world-championships-mixed-relay-ttt/2022/result">More</a><ul><li data-n="1"><a href="race/world-championships-mixed-relay-ttt/2022/result/result/result">Results - Results</a></li><li data-n="2"><a href="race/world-championships-mixed-relay-ttt/2022/result/info/info">Info - Info</a></li><li data-n="1"><a href="race/world-championships-mixed-relay-ttt/2022/result/info/complementary-results">Complementary results</a></li>
+<li data-n="1"><a href="race/world-championships-mixed-relay-ttt/2022/result/info/photos">Finish photo</a></li>
+<li data-n="1"><a href="race/world-championships-mixed-relay-ttt/2022/result/info/profiles">Profiles</a></li>
+<li data-n="1"><a href="race/world-championships-mixed-relay-ttt/2022/result/info/time-table">Time table</a></li>
+<li data-n="3"><a href="race/world-championships-mixed-relay-ttt/2022/result/live/live">Live - Live</a></li><li data-n="4"><a href="race/world-championships-mixed-relay-ttt/2022/result/game/game">Game - Game</a></li><li data-n="5"><a href="race/world-championships-mixed-relay-ttt/2022/result/statistics/statistics">Stats - Stats</a></li><li data-n="6"><a href="race/world-championships-mixed-relay-ttt/2022/result/more/more">More - More</a></li><li data-n="5"><a href="race/world-championships-mixed-relay-ttt/2022/result/more/report">Report</a></li>
+<li data-n="5"><a href="race/world-championships-mixed-relay-ttt/2022/result/more/embed-results">Embed</a></li>
+<li data-n="5"><a href="race/world-championships-mixed-relay-ttt/2022/result/more/contribute-info">Contribute info</a></li>
+<li data-n="5"><a href="race/world-championships-mixed-relay-ttt/2022/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li></ul><div class="clear"></div></div><ul class="thumbnails" ><li><a href="race/world-championships-mixed-relay-ttt">World Championships - Mixed Relay TTT</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/world-championships-mixed-relay-ttt/2022">2022</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/world-championships-mixed-relay-ttt/2022/result">Time trial</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/world-championships-mixed-relay-ttt/2022/result/result">Results</a></li></ul><div class="page-title " ><div class="main"><span class="flag au w32"></span><span class="flag au w24"></span><span class="hideIfMobile">2022</span><span class="hideIfMobile">&raquo;</span><font class="hideIfMobile">3rd</font><h1 class="">World Championships - Mixed Relay TTT</h1><font class="hideIfMobile">(WC)</font></div><div class="sub"><span class="showIfMobile">2022</span><span class="showIfMobile">&raquo;</span><span class="blue">Time trial</span><span class="hideIfMobile">&raquo;</span><span class="red">Wollongong</span><span class="red">&rsaquo;</span><span class="red">Wollongong</span><span class="red fw400">(28.2km)</span></div></div><div class="clear"></div><div class="desktop-ad leaderbord race"></div><div class="mob-ad leaderbord race"></div><div class="top-cont"></div><div class="top-cont-mobile top-cont-mobile-race"></div><div class="page-content page-object default " data-no_menu="1" ><h2></h2><div class="w100 "   >
+<div class="w68 left mb_w100"><div class="result-filter-cont"><label for="age"><input type="checkbox" class="toggleAge" value="1" id="age">Age</label><label for="bibs"><input type="checkbox" class="toggleBibs" value="1" id="bibs">BIBs</label><label for="h2h"><input type="checkbox" class="toggleH2H cbFalseOnLoad" value="1" id="h2h" >H2H</label><span class="hideIfMobile"><label for="specialty"><input type="checkbox" class="toggleSpecialty " value="1" id="specialty">Specialty</label></span><a class="clearFilter blue hide" style="padding: 0px 7px; " href="">clear filter</a><select class="TNFilter" data-type="team"><option value="0"  >all teams</option><option value="1519"  >Australia</option><option value="5604"  >Austria</option><option value="3658"  >Belgium</option><option value="1543"  >Denmark</option><option value="3082"  >France</option><option value="1547"  >Germany</option><option value="3079"  >Italy</option><option value="3249"  >Netherlands</option><option value="5430"  >New Caledonia</option><option value="2158"  >Poland</option><option value="5446"  >Samoa</option><option value="3077"  >Spain</option><option value="1660"  >Switzerland</option><option value="10231"  >Tahiti</option><option value="1654"  >Ukraine</option><option value="5083"  >WCC Team</option></select><select class="TNFilter" data-type="nation"><option value="0"  >all nations</option><option value="dz"  >Algeria</option><option value="au"  >Australia</option><option value="at"  >Austria</option><option value="be"  >Belgium</option><option value="dk"  >Denmark</option><option value="et"  >Ethiopia</option><option value="fr"  >France</option><option value="pf"  >French Polynesia</option><option value="de"  >Germany</option><option value="it"  >Italy</option><option value="nl"  >Netherlands</option><option value="nc"  >New Caledonia</option><option value="pl"  >Poland</option><option value="ws"  >Samoa</option><option value="za"  >South Africa</option><option value="es"  >Spain</option><option value="ch"  >Switzerland</option><option value="ua"  >Ukraine</option></select></div><div class="hide timeWonLostComment" style="text-align: right; color: #555; font-size: 10px; ">The time won/lost column displays the gains in time in the GC. Click on the time of any rider to view the relative gains on this rider.</div><div class="h2h hide " style="font-size: 11px; color: #555;   ">Select two riders to compare. </div><div class="result-cont " data-id="272208">
+<div class="subTabs" data-subtab="1"><table class="results-ttt"><thead><tr><th>Pos.</th><th>Team</th><th>Time</th><th>Timegap</th><th>Speed</th><th class="ac"><center>PCS points</center></th><th class="ac"><center>UCI points</center></th></tr></thead><tbody><tr class="team"><td>1</td><td><span class="flag ch"></span> <a href="team/switzerland-2022"><b>Switzerland</b></a></td><td>33:47</td><td></td><td><b>50.084</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/stefan-kung">KÜNG Stefan</a> </td><td></td><td></td><td></td><td class="ac">40</td><td class="blue ac">100</td></tr><tr class=""><td></td><td><a style="" href="rider/stefan-bissegger">BISSEGGER Stefan</a> </td><td></td><td></td><td></td><td class="ac">40</td><td class="blue ac">100</td></tr><tr class=""><td></td><td><a style="" href="rider/elise-chabbey">CHABBEY Elise</a> </td><td></td><td></td><td></td><td class="ac">40</td><td class="blue ac">100</td></tr><tr class=""><td></td><td><a style="" href="rider/marlen-reusser">REUSSER Marlen</a> </td><td></td><td></td><td></td><td class="ac">40</td><td class="blue ac">100</td></tr><tr class=""><td></td><td><a style="" href="rider/nicole-koller">KOLLER Nicole</a> </td><td></td><td></td><td></td><td class="ac">40</td><td class="blue ac">100</td></tr><tr class=""><td></td><td><a style="" href="rider/mauro-schmid">SCHMID Mauro</a> </td><td></td><td></td><td></td><td class="ac">40</td><td class="blue ac">100</td></tr><tr class="team"><td>2</td><td><span class="flag it"></span> <a href="team/italy-2022"><b>Italy</b></a></td><td>33:50</td><td>0:03</td><td><b>50.01</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/edoardo-affini">AFFINI Edoardo</a> </td><td></td><td></td><td></td><td class="ac">20</td><td class="blue ac">83.33</td></tr><tr class=""><td></td><td><a style="" href="rider/matteo-sobrero">SOBRERO Matteo</a> </td><td></td><td></td><td></td><td class="ac">20</td><td class="blue ac">83.33</td></tr><tr class=""><td></td><td><a style="" href="rider/filippo-ganna">GANNA Filippo</a> </td><td></td><td></td><td></td><td class="ac">20</td><td class="blue ac">83.33</td></tr><tr class=""><td></td><td><a style="" href="rider/elisa-longo-borghini">LONGO BORGHINI Elisa</a> </td><td></td><td></td><td></td><td class="ac">20</td><td class="blue ac">83.33</td></tr><tr class=""><td></td><td><a style="" href="rider/elena-cecchini">CECCHINI Elena</a> </td><td></td><td></td><td></td><td class="ac">20</td><td class="blue ac">83.33</td></tr><tr class=""><td></td><td><a style="" href="rider/vittoria-guazzini">GUAZZINI Vittoria</a> </td><td></td><td></td><td></td><td class="ac">20</td><td class="blue ac">83.33</td></tr><tr class="team"><td>3</td><td><span class="flag au"></span> <a href="team/australia-2022"><b>Australia</b></a></td><td>34:25</td><td>0:38</td><td><b>49.162</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/luke-plapp">PLAPP Luke</a> </td><td></td><td></td><td></td><td class="ac">10</td><td class="blue ac">66.67</td></tr><tr class=""><td></td><td><a style="" href="rider/sarah-roy">ROY Sarah</a> </td><td></td><td></td><td></td><td class="ac">10</td><td class="blue ac">66.67</td></tr><tr class=""><td></td><td><a style="" href="rider/alexandra-manly">MANLY Alexandra</a> </td><td></td><td></td><td></td><td class="ac">10</td><td class="blue ac">66.67</td></tr><tr class=""><td></td><td><a style="" href="rider/georgia-baker">BAKER Georgia</a> </td><td></td><td></td><td></td><td class="ac">10</td><td class="blue ac">66.67</td></tr><tr class=""><td></td><td><a style="" href="rider/luke-durbridge">DURBRIDGE Luke</a> </td><td></td><td></td><td></td><td class="ac">10</td><td class="blue ac">66.67</td></tr><tr class=""><td></td><td><a style="" href="rider/michael-matthews">MATTHEWS Michael</a> </td><td></td><td></td><td></td><td class="ac">10</td><td class="blue ac">66.67</td></tr><tr class="team"><td>4</td><td><span class="flag de"></span> <a href="team/germany-2022"><b>Germany</b></a></td><td>34:33</td><td>0:46</td><td><b>48.973</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/miguel-heidemann">HEIDEMANN Miguel</a> </td><td></td><td></td><td></td><td class="ac">5</td><td class="blue ac">50</td></tr><tr class=""><td></td><td><a style="" href="rider/jannik-steimle">STEIMLE Jannik</a> </td><td></td><td></td><td></td><td class="ac">5</td><td class="blue ac">50</td></tr><tr class=""><td></td><td><a style="" href="rider/nikias-arndt">ARNDT Nikias</a> </td><td></td><td></td><td></td><td class="ac">5</td><td class="blue ac">50</td></tr><tr class=""><td></td><td><a style="" href="rider/liane-lippert">LIPPERT Liane</a> </td><td></td><td></td><td></td><td class="ac">5</td><td class="blue ac">50</td></tr><tr class=""><td></td><td><a style="" href="rider/mieke-kroger">KRÖGER Mieke</a> </td><td></td><td></td><td></td><td class="ac">5</td><td class="blue ac">50</td></tr><tr class=""><td></td><td><a style="" href="rider/romy-kasper">KASPER Romy</a> </td><td></td><td></td><td></td><td class="ac">5</td><td class="blue ac">50</td></tr><tr class="team"><td>5</td><td><span class="flag nl"></span> <a href="team/netherlands-2022"><b>Netherlands</b></a></td><td>34:39</td><td>0:52</td><td><b>48.831</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/mathieu-van-der-poel">VAN DER POEL Mathieu</a> </td><td></td><td></td><td></td><td class="ac">3</td><td class="blue ac">41.67</td></tr><tr class=""><td></td><td><a style="" href="rider/ellen-van-dijk">VAN DIJK Ellen</a> </td><td></td><td></td><td></td><td class="ac">3</td><td class="blue ac">41.67</td></tr><tr class=""><td></td><td><a style="" href="rider/annemiek-van-vleuten">VAN VLEUTEN Annemiek</a> </td><td></td><td></td><td></td><td class="ac">3</td><td class="blue ac">41.67</td></tr><tr class=""><td></td><td><a style="" href="rider/daan-hoole">HOOLE Daan</a> </td><td></td><td></td><td></td><td class="ac">3</td><td class="blue ac">41.67</td></tr><tr class=""><td></td><td><a style="" href="rider/bauke-mollema">MOLLEMA Bauke</a> </td><td></td><td></td><td></td><td class="ac">3</td><td class="blue ac">41.67</td></tr><tr class=""><td></td><td><a style="" href="rider/riejanne-markus">MARKUS Riejanne</a> </td><td></td><td></td><td></td><td class="ac">3</td><td class="blue ac">41.67</td></tr><tr class="team"><td>6</td><td><span class="flag dk"></span> <a href="team/denmark-2022"><b>Denmark</b></a></td><td>34:45</td><td>0:58</td><td><b>48.691</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/magnus-cort-nielsen">CORT Magnus</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">33.33</td></tr><tr class=""><td></td><td><a style="" href="rider/mikkel-honore">HONORÉ Mikkel Frølich</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">33.33</td></tr><tr class=""><td></td><td><a style="" href="rider/mikkel-bjerg">BJERG Mikkel</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">33.33</td></tr><tr class=""><td></td><td><a style="" href="rider/julie-norman-leth">NORMAN LETH Julie</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">33.33</td></tr><tr class=""><td></td><td><a style="" href="rider/rebecca-koerner">KOERNER Rebecca</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">33.33</td></tr><tr class=""><td></td><td><a style="" href="rider/emma-norsgaard">NORSGAARD Emma</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">33.33</td></tr><tr class="team"><td>7</td><td><span class="flag fr"></span> <a href="team/france-2022"><b>France</b></a></td><td>34:45</td><td>0:58</td><td><b>48.691</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/aude-biannic">BIANNIC Aude</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">28.33</td></tr><tr class=""><td></td><td><a style="" href="rider/juliette-labous">LABOUS Juliette</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">28.33</td></tr><tr class=""><td></td><td><a style="" href="rider/coralie-demay">DEMAY Coralie</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">28.33</td></tr><tr class=""><td></td><td><a style="" href="rider/remi-cavagna">CAVAGNA Rémi</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">28.33</td></tr><tr class=""><td></td><td><a style="" href="rider/bruno-armirail">ARMIRAIL Bruno</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">28.33</td></tr><tr class=""><td></td><td><a style="" href="rider/eddy-le-huitouze">LE HUITOUZE Eddy</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">28.33</td></tr><tr class="team"><td>8</td><td><span class="flag be"></span> <a href="team/belgium-2022"><b>Belgium</b></a></td><td>35:36</td><td>1:49</td><td><b>47.528</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/nathan-van-hooydonck">VAN HOOYDONCK Nathan</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">25</td></tr><tr class=""><td></td><td><a style="" href="rider/quinten-hermans">HERMANS Quinten</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">25</td></tr><tr class=""><td></td><td><a style="" href="rider/pieter-serry">SERRY Pieter</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">25</td></tr><tr class=""><td></td><td><a style="" href="rider/julie-de-wilde">DE WILDE Julie</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">25</td></tr><tr class=""><td></td><td><a style="" href="rider/jesse-vandenbulcke">VANDENBULCKE Jesse</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">25</td></tr><tr class=""><td></td><td><a style="" href="rider/valerie-demey">DEMEY Valerie</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">25</td></tr><tr class="team"><td>9</td><td><span class="flag pl"></span> <a href="team/poland-2022"><b>Poland</b></a></td><td>35:38</td><td>1:51</td><td><b>47.484</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/mateusz-gajdulewicz">GAJDULEWICZ Mateusz</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">20</td></tr><tr class=""><td></td><td><a style="" href="rider/marta-jaskulska">JASKULSKA Marta</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">20</td></tr><tr class=""><td></td><td><a style="" href="rider/agnieszka-skalniak-sojka">SKALNIAK-SÓJKA Agnieszka</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">20</td></tr><tr class=""><td></td><td><a style="" href="rider/kacper-gieryk">GIERYK Kacper</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">20</td></tr><tr class=""><td></td><td><a style="" href="rider/maciej-bodnar">BODNAR Maciej</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">20</td></tr><tr class=""><td></td><td><a style="" href="rider/dominika-wlodarczyk">WŁODARCZYK Dominika</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">20</td></tr><tr class="team"><td>10</td><td><span class="flag es"></span> <a href="team/spain-2022"><b>Spain</b></a></td><td>36:31</td><td>2:44</td><td><b>46.335</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/oier-lazkano">LAZKANO Oier</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">16.67</td></tr><tr class=""><td></td><td><a style="" href="rider/raul-garcia-pierna">GARCÍA PIERNA Raúl</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">16.67</td></tr><tr class=""><td></td><td><a style="" href="rider/ivan-romeo">ROMEO Iván</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">16.67</td></tr><tr class=""><td></td><td><a style="" href="rider/lourdes-oyarbide">OYARBIDE Lourdes</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">16.67</td></tr><tr class=""><td></td><td><a style="" href="rider/sandra-alonso">ALONSO Sandra</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">16.67</td></tr><tr class=""><td></td><td><a style="" href="rider/idoia-eraso-lasa">ERASO Idoia</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">16.67</td></tr><tr class="team"><td>11</td><td><span class="flag at"></span> <a href="team/austria-2022"><b>Austria</b></a></td><td>37:17</td><td>3:30</td><td><b>45.382</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/christina-schweinberger">SCHWEINBERGER Christina</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">13.33</td></tr><tr class=""><td></td><td><a style="" href="rider/carina-schrempf">SCHREMPF Carina</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">13.33</td></tr><tr class=""><td></td><td><a style="" href="rider/anna-kiesenhofer">KIESENHOFER Anna</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">13.33</td></tr><tr class=""><td></td><td><a style="" href="rider/felix-gall">GALL Felix</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">13.33</td></tr><tr class=""><td></td><td><a style="" href="rider/sebastian-schonberger">SCHÖNBERGER Sebastian</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">13.33</td></tr><tr class=""><td></td><td><a style="" href="rider/tobias-bayer">BAYER Tobias</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">13.33</td></tr><tr class="team"><td>12</td><td><span class="flag ua"></span> <a href="team/ukraine-2022"><b>Ukraine</b></a></td><td>38:38</td><td>4:51</td><td><b>43.796</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/vitaliy-buts">BUTS Vitaliy</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">10</td></tr><tr class=""><td></td><td><a style="text-decoration: line-through " href="rider/mykhaylo-kononenko">KONONENKO Mykhaylo</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac"></td></tr><tr class=""><td></td><td><a style="" href="rider/vitalii-novakowskyi">NOVAKOWSKYI Vitalii</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">10</td></tr><tr class=""><td></td><td><a style="" href="rider/daryna-nahuliak">NAHULIAK Daryna</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">10</td></tr><tr class=""><td></td><td><a style="" href="rider/maryna-varenyk">VARENYK Maryna</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">10</td></tr><tr class=""><td></td><td><a style="" href="rider/iryna-semionova">SEMIONOVA Iryna</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">10</td></tr><tr class="team"><td>13</td><td><span class="flag xx"></span> <a href="team/wcc-team-2022"><b>WCC Team</b></a></td><td>38:46</td><td>4:59</td><td><b>43.646</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/negasi-abreha">ABREHA Negasi Haylu</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">8.33</td></tr><tr class=""><td></td><td><a style="" href="rider/nesrine-houili">HOUILI Nesrine</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">8.33</td></tr><tr class=""><td></td><td><a style="" href="rider/maude-le-roux">LE ROUX Maude</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">8.33</td></tr><tr class=""><td></td><td><a style="" href="rider/kiya-rogora">ROGORA Kiya</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">8.33</td></tr><tr class=""><td></td><td><a style="" href="rider/hamza-amari">AMARI Hamza</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">8.33</td></tr><tr class=""><td></td><td><a style="" href="rider/selam-amha1">GEREFIEL Selam Amha</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">8.33</td></tr><tr class="team"><td>14</td><td><span class="flag pf"></span> <a href="team/tahiti-2022"><b>Tahiti</b></a></td><td>40:50</td><td>7:03</td><td><b>41.437</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/taruia-krainer">KRAINER Taruia</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">5</td></tr><tr class=""><td></td><td><a style="" href="rider/kahiri-endeler">ENDELER Kahiri</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">5</td></tr><tr class=""><td></td><td><a style="" href="rider/teva-poulain">POULAIN Teva </a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">5</td></tr><tr class=""><td></td><td><a style="" href="rider/elodie-touffet">TOUFFET Élodie</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">5</td></tr><tr class=""><td></td><td><a style="" href="rider/kylie-crawford">CRAWFORD Kylie </a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">5</td></tr><tr class=""><td></td><td><a style="" href="rider/tekau-hapairai">HAPAIRAI Tekau </a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">5</td></tr><tr class="team"><td>15</td><td><span class="flag nc"></span> <a href="team/new-caledonia-2022"><b>New Caledonia</b></a></td><td>42:08</td><td>8:21</td><td><b>40.158</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/florian-barket">BARKET Florian</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">3.33</td></tr><tr class=""><td></td><td><a style="" href="rider/patricia-themereau">THÉMEREAU Patricia </a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">3.33</td></tr><tr class=""><td></td><td><a style="" href="rider/sandra-gayral">GAYRAL Sandra</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">3.33</td></tr><tr class=""><td></td><td><a style="" href="rider/manon-brasseur">BRASSEUR Manon </a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">3.33</td></tr><tr class=""><td></td><td><a style="" href="rider/david-schavits">SCHAVITS David </a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">3.33</td></tr><tr class=""><td></td><td><a style="" href="rider/rayann-lacheny">LACHENY Rayann</a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">3.33</td></tr><tr class="team"><td>16</td><td><span class="flag ws"></span> <a href="team/samoa-2022"><b>Samoa</b></a></td><td>51:45</td><td>17:58</td><td><b>32.696</b></td><td></td><td></td></tr><tr class="last"><td></td><td><a style="" href="rider/raea-khan">KHAN Raea </a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">3.33</td></tr><tr class=""><td></td><td><a style="" href="rider/wally-collins">COLLINS Wally </a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">3.33</td></tr><tr class=""><td></td><td><a style="" href="rider/gideon-mulitalo">MULITALO Gideon </a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">3.33</td></tr><tr class=""><td></td><td><a style="" href="rider/pearl-harris-blain">HARRIS-BLAIN Pearl </a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">3.33</td></tr><tr class=""><td></td><td><a style="" href="rider/jordan-afoa">AFOA Jordan </a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">3.33</td></tr><tr class=""><td></td><td><a style="" href="rider/urlin-mulitalo">MULITALO Urlin </a> </td><td></td><td></td><td></td><td class="ac"></td><td class="blue ac">3.33</td></tr></tbody></table></div><div class="subTabs hide" data-subtab="2"></div></div></div><div class="w30 right mb_w100"><div class=""></div>
+<div class=""><h3>Race information</h3><div class=""></div></div>
+<img class="left maxw100 mg_rp10" src="" /><div class=""><ul class="infolist" style=""><li><div>Date:</div> <div>21 September 2022</div></li>
+<li><div>Start time:</div> <div>14:23  (06:23 CET)</div></li>
+<li><div>Avg. speed winner:</div> <div>46.496 km/h</div></li>
+<li><div>Race category:</div> <div>ME + WE</div></li>
+<li><div>Distance: </div> <div>28.2 km</div></li>
+<li><div>Points scale:</div> <div><a    href="info.php?s=point-scales&season=2022&category=8&scale=8312">Worlds.Relay.TTT</a></div></li>
+<li><div>UCI scale:</div> <div><a    href="info.php?s=point-scales&season=2022&category=8&pcs_uci&uci&scale=9850">UCI.WR.WC.TTT-Relay</a></div></li>
+<li><div>Parcours type: </div> <div><span class="icon profile p2"></span></div></li>
+<li><div>ProfileScore: </div> <div>11</div></li>
+<li><div>Vert. meters:</div> <div>226</div></li>
+<li><div>Departure:</div> <div><a    href="location/wollongong">Wollongong</a></div></li>
+<li><div>Arrival:</div> <div><a    href="location/wollongong">Wollongong</a></div></li>
+<li><div>Race ranking:</div> <div><a    href="race/world-championships-mixed-relay-ttt/2022/result/overview/race-ranking">0</a></div></li>
+<li><div>Startlist quality score:</div> <div><a    href="race/world-championships-mixed-relay-ttt/2022/startlist/startlist-quality">91</a></div></li>
+<li><div>Won how: </div> <div>Time Trial</div></li>
+<li><div>Avg. temperature:</div> <div><a    href="race/world-championships-mixed-relay-ttt/2022/result/stages/hottest-stages"></a></div></li>
+</ul></div>
+<div class=""><ul class="list horizontal"><li class="goto mr10" ><a   class="goto mr10" href="race/world-championships-mixed-relay-ttt/2022/result/live">LiveStats</a></li>
+</ul></div>
+<div class="mt10"><h3>Race profile</h3>
+<span class="table-cont"><ul class="list"  style=" "><li class="" ><div ><a    href="race/world-championships-mixed-relay-ttt/2022/result/info/profiles"><img src="images/profiles/ca/ea/world-championships-mixed-relay-ttt-2022-result-profile-n2.jpg" style="max-height: 200px; max-width: 100%;  " /></a></div><div class="clear"></div></li>
+</ul></span></div>
+<div class="mt10"><h3>Sites</h3><ul class="list horizontal sites "><li><span class="icon instagram left"></span><a  target="_blank"   class="" href="https://www.instagram.com/uci_cyclingworlds/">instagram</a></li>
+</ul></div>
+<div class="fs11"><div class=""></div></div>
+<div class="desktop-ad race-column-right"></div><div class="mob-ad race-column-right"></div></div><div class="clear"></div>
+</div>
+<div class="desktop-ad below-content race"></div><div class="mob-ad below-content race"></div></div><div style="clear: both; "></div>  
+  </div>
+  </center>
+  <div class="push"></div>
+</div>
+<div class="footer">
+  <div class="sfa"><ul class="ftr-list"><li class="group"><h3>Grand Tours</h3><ul><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">Vuelta a España</a></li>
+</ul><h3>Major Tours</h3><ul><li><a href="race/paris-nice">Paris-Nice</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/volta-a-catalunya">Volta a Catalunya</a></li>
+<li><a href="race/tour-de-romandie">Tour de Romandie</a></li>
+<li><a href="race/tour-de-suisse">Tour de Suisse</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/itzulia-basque-country">Itzulia Basque Country</a></li>
+</ul></li>
+<li class="group"><h3>Monuments</h3><ul><li><a href="race/milano-sanremo">Milano-SanRemo</a></li>
+<li><a href="race/ronde-van-vlaanderen">Ronde van Vlaanderen</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+</ul><h3>Championships</h3><ul><li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/uec-road-european-championships">European championships</a></li>
+</ul></li>
+<li class="group"><h3>Top classics</h3><ul><li><a href="race/omloop-het-nieuwsblad">Omloop Het Nieuwsblad</a></li>
+<li><a href="race/strade-bianche">Strade Bianche</a></li>
+<li><a href="race/e3-harelbeke">E3 Classic</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem</a></li>
+<li><a href="race/dwars-door-vlaanderen">Dwars door vlaanderen</a></li>
+<li><a href="race/eschborn-frankfurt">Eschborn-Frankfurt</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/san-sebastian">San Sebastian</a></li>
+<li><a href="race/bretagne-classic">Bretagne Classic</a></li>
+<li><a href="race/gp-quebec">GP Québec</a></li>
+<li><a href="race/gp-montreal">GP Montréal</a></li>
+</ul></li>
+<li class="group"><h3>Popular riders</h3><ul><li><a href="rider/tadej-pogacar">Tadej Pogačar</a></li>
+<li><a href="rider/wout-van-aert">Wout van Aert</a></li>
+<li><a href="rider/remco-evenepoel">Remco Evenepoel</a></li>
+<li><a href="rider/jonas-vingegaard-rasmussen">Jonas Vingegaard</a></li>
+<li><a href="rider/mathieu-van-der-poel">Mathieu van der Poel</a></li>
+<li><a href="rider/biniam-girmay">Biniam Girmay</a></li>
+<li><a href="rider/peter-sagan">Peter Sagan</a></li>
+<li><a href="rider/annemiek-van-vleuten">Annemiek van Vleuten</a></li>
+<li><a href="rider/elisa-longo-borghini">Elisa Longo Borghini</a></li>
+<li><a href="rider/katarzyna-niewiadoma">Katarzyna Niewiadoma</a></li>
+</ul></li>
+<li class="group"><h3>Statistics</h3><ul><li><a href="statistics/start/points-per-age">Points per age</a></li>
+<li><a href="statistics/start/latest-injuries">Latest injuries</a></li>
+<li><a href="statistics/riders/youngest-riders">Youngest riders</a></li>
+<li><a href="statistics/grandtours">Grand tour statistics</a></li>
+<li><a href="statistics/monuments">Monument classics</a></li>
+<li><a href="teams/transfers">Latest transfers</a></li>
+<li><a href="favorite500">Favorite 500</a></li>
+</ul><h3>Rankings</h3><ul><li><a href="rankings.php">PCS ranking</a></li>
+<li><a href="rankings/me/uci-individual">UCI World Ranking</a></li>
+<li><a href="rankings/me/all-time">Alltime</a></li>
+</ul></li>
+<li class="group"><h3>Info</h3><ul><li><a href="info/point-scales">Points scales</a></li>
+<li><a href="info/profile-score-explained">Profile scores</a></li>
+<li><a href="reset_password.php">Reset password</a></li>
+<li><a href="info/pcs-game">PCS game</a></li>
+<li><a href="info/procyclinggame">ProCyclingGame</a></li>
+</ul><h3>About ProCyclingStats</h3><ul><li><a href="info/about-us">About us</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/cookie-policy">Cookie policy</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/contributions">Contributions</a></li>
+<li><span>Pageload 0.0413s</span></li>
+</ul></li>
+</ul><input type="hidden" id="pageid" value="1190" /><input type="hidden" id="userid" value="0" />
+	</div>
+</div> 
+ 
+ </body></html>
+<script src="search_list7.js"></script>  

@@ -1,0 +1,286 @@
+<!DOCTYPE HTML><html><head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35889790-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'GA_MEASUREMENT_ID', {
+	  'linker': {
+	    'domains': ['cx.procyclingstats.com','procyclingstats.com']
+	  }
+	});
+
+  gtag('config', 'UA-35889790-1');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2MNJ20S7SJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2MNJ20S7SJ');
+</script>
+<title>Chrono des Nations 2019 Time trial results</title>
+<base href="https://www.procyclingstats.com/race.php" />
+<link rel="canonical" href="https://www.procyclingstats.com/race/chrono-des-nations/2019/result" />
+<script>
+    var r89 = r89 || {
+      callAds: [],
+      pushAd: function(id, name, config) { r89.callAds.push([id, name, config]); }
+    };
+</script>
+<script async src="https://tags.refinery89.com/v2/procyclingstats.js"></script><meta name="description" content="Jos van Emden is the winner of Chrono des Nations 2019, before Filippo Ganna and Primož Roglič. ">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="utf-8"> 
+<meta name="facebook-domain-verification" content="tjwn3jyjupm0t1j8e0sgis3c80x88r" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<base href="race.php" />
+	<link rel="stylesheet" type="text/css" href="https://www.procyclingstats.com/pcs_a190.css" />
+	
+<script src="https://www.procyclingstats.com/pcs_s79.js"></script> 
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css"> 
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.procyclingstats.com/images/pcs-logos/icon3/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-16x16.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon.ico" />
+ 
+</head>
+<body>
+<div class="wrapper">
+  <header class="">
+    <div class="cont">
+    	<a  class="logo" href="index.php"></a>
+  
+    	<form action="search.php" class="msearch"><input type="hidden"  id="term" />
+    		<input type="text" name="term" id="search" data-nav="race/-id-/result" data-nav2="" data-page="race" class="search4"  placeholder="search"  /></form> 
+    	<div class="menuCont">
+      	<a class="mobMenu" href="">Menu&#x25BC;</a>
+				<ul class="nav_v4 default"><li class=" "><a class="reg" href="index.php">Home</a></li>
+<li class="more4 "><a class="reg" href="races.php">Races</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">La Vuelta ciclista a España</a></li>
+<li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/milano-sanremo">Milano-Sanremo</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/paris-nice">Paris - Nice</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/volta-a-catalunya">Volta Ciclista a Catalunya</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/ronde-van-vlaanderen">Tour des Flandres</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem in Flanders Fields</a></li>
+<li><a href="race/san-sebastian">Clásica Ciclista San Sebastián</a></li>
+</ul></li>
+<li class="more4 "><a class="reg" href="teams.php">Teams</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="team/intermarche-circus-wanty-2023">Intermarché - Circus - Wanty </a></li>
+<li><a href="team/ineos-grenadiers-2023">INEOS Grenadiers</a></li>
+<li><a href="team/groupama-fdj-2023">Groupama - FDJ</a></li>
+<li><a href="team/ef-education-easypost-2023">EF Education-EasyPost</a></li>
+<li><a href="team/cofidis-2023">Cofidis </a></li>
+<li><a href="team/bora-hansgrohe-2023">BORA - hansgrohe</a></li>
+<li><a href="team/bahrain-victorious-2023">Bahrain - Victorious</a></li>
+<li><a href="team/astana-qazaqstan-team-2023">Astana Qazaqstan Team</a></li>
+<li><a href="team/team-jumbo-visma-2023">Jumbo-Visma</a></li>
+<li><a href="team/movistar-team-2023">Movistar Team</a></li>
+<li><a href="team/soudal-quick-step-2023">Soudal - Quick Step</a></li>
+<li><a href="team/team-arkea-samsic-2023">Team Arkéa Samsic</a></li>
+<li><a href="team/team-jayco-alula-2023">Team Jayco AlUla</a></li>
+<li><a href="team/team-dsm-2023">Team DSM</a></li>
+<li><a href="team/trek-segafredo-2023">Trek - Segafredo</a></li>
+<li><a href="team/uae-team-emirates-2023">UAE Team Emirates</a></li>
+<li><a href="team/alpecin-deceuninck-2023">Alpecin-Deceuninck</a></li>
+<li><a href="team/ag2r-citroen-team-2023">AG2R Citroën Team</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="rankings.php">Rankings</a></li>
+<li class="more4 "><a class="reg" href="statistics.php">Statistics</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="statistics">Overview</a></li>
+<li><a href="statistics/riders">Riders</a></li>
+<li><a href="statistics/teams">Teams</a></li>
+<li><a href="statistics/grandtours">Grand tours</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="game.php">Game</a></li>
+<li class="more4 "><a class="reg" href="riders.php">More</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="riders">Riders</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/countdown-to-1-billion-pageviews">Countdown to 2 billion pageviews</a></li>
+<li><a href="favorite500.php">Favorite500</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/about-us">About us</a></li>
+<li><a href="info/profile-score-explained">Profile Score</a></li>
+<li><a href="info/tutorials">Tutorials</a></li>
+</ul></li>
+<li class="more4 pro"><a class="reg" href="premium.php">Pro</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="">Dashboard</a></li>
+<li><a href="">Lists</a></li>
+</ul></li>
+ 
+				 </ul> 
+			 </div>
+			 <a class="user4" data-logged="0" href="account.php"><span>&#10070;</span><font class="hideIfMobile">login</font></a><a class="settings4 " href="settings.php"><span>&#10033;</span><font>settings</font></a>    </div>
+  </header>  
+<div class="content   "> <div class="page-topnav "><div class="pageDDnavCont"><div class="pageSelectNav " ><a   href="race/chrono-des-nations/2018/result" >2018</a><div ><form style="  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/chrono-des-nations/2023/result" >2023</option><option value="race/chrono-des-nations/2022/result" >2022</option><option value="race/chrono-des-nations/2021/result" >2021</option><option value="race/chrono-des-nations/2020/result" >2020</option><option value="race/chrono-des-nations/2019/result" selected>2019</option><option value="race/chrono-des-nations/2018/result" >2018</option><option value="race/chrono-des-nations/2017/result" >2017</option><option value="race/chrono-des-nations/2016/result" >2016</option><option value="race/chrono-des-nations/2015/result" >2015</option><option value="race/chrono-des-nations/2014/result" >2014</option><option value="race/chrono-des-nations/2013/result" >2013</option><option value="race/chrono-des-nations/2012/result" >2012</option><option value="race/chrono-des-nations/2011/result" >2011</option><option value="race/chrono-des-nations/2010/result" >2010</option><option value="race/chrono-des-nations/2009/result" >2009</option><option value="race/chrono-des-nations/2008/result" >2008</option><option value="race/chrono-des-nations/2007/result" >2007</option><option value="race/chrono-des-nations/2006/result" >2006</option><option value="race/chrono-des-nations/2005/result" >2005</option><option value="race/chrono-des-nations/2004/result" >2004</option><option value="race/chrono-des-nations/2003/result" >2003</option><option value="race/chrono-des-nations/2002/result" >2002</option><option value="race/chrono-des-nations/2001/result" >2001</option><option value="race/chrono-des-nations/2000/result" >2000</option><option value="race/chrono-des-nations/1999/result" >1999</option><option value="race/chrono-des-nations/1998/result" >1998</option><option value="race/chrono-des-nations/1997/result" >1997</option><option value="race/chrono-des-nations/1996/result" >1996</option><option value="race/chrono-des-nations/1995/result" >1995</option><option value="race/chrono-des-nations/1994/result" >1994</option><option value="race/chrono-des-nations/1993/result" >1993</option><option value="race/chrono-des-nations/1992/result" >1992</option><option value="race/chrono-des-nations/1991/result" >1991</option><option value="race/chrono-des-nations/1990/result" >1990</option><option value="race/chrono-des-nations/1989/result" >1989</option><option value="race/chrono-des-nations/1988/result" >1988</option><option value="race/chrono-des-nations/1987/result" >1987</option><option value="race/chrono-des-nations/1986/result" >1986</option><option value="race/chrono-des-nations/1985/result" >1985</option><option value="race/chrono-des-nations/1984/result" >1984</option><option value="race/chrono-des-nations/1983/result" >1983</option><option value="race/chrono-des-nations/1982/result" >1982</option></select></form></div><a  href="race/chrono-des-nations/2020/result" >2020</a></div><div class="pageSelectNav " ><div ><form style="  max-width: 150px; width: 100%;  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/chrono-des-nations/2019/result/result" selected>ME</option><option value="race/chrono-des-nations-wj/2019/result/result" >WJ</option><option value="race/chrono-des-nations-we/2019/result/result" >WE</option><option value="race/chrono-des-nations-u23/2019/result/result" >MU</option><option value="race/chrono-des-nations-les-herbiers-vendee-mj/2019/result/result" >MJ</option></select></form></div></div></div><ul class="pagenavLinks"><li class="reg "><a class="cur" href="race/chrono-des-nations/2019/result">Results</a></li>
+<li class="reg "><a style=" " href="race/chrono-des-nations/2019/startlist">Startlist</a><ul><li><a href="race/chrono-des-nations/2019/startlist">Startlist</a></li><li><a href="race/chrono-des-nations/results">Race palmares</a></li></ul></li><li class="reg "><a class="" href="race/chrono-des-nations/2019/result/info">Info&#x25BC;</a><ul><li><a href="race/chrono-des-nations/2019/result/info/complementary-results">Complementary results</a></li>
+<li><a href="race/chrono-des-nations/2019/result/info/photos">Finish photo</a></li>
+<li><a href="race/chrono-des-nations/2019/result/info/profiles">Profiles</a></li>
+<li><a href="race/chrono-des-nations/2019/result/info/time-table">Time table</a></li>
+</ul></li>
+<li class="reg "><a class="" href="race/chrono-des-nations/2019/result/live">Live</a></li>
+<li class="reg "><a class="" href="race/chrono-des-nations/2019/result/game">Game</a></li>
+<li class="reg "><a class="" href="race/chrono-des-nations/2019/result/statistics">Stats</a></li>
+<li class="reg "><a class="" href="race/chrono-des-nations/2019/result/more">More&#x25BC;</a><ul><li><a href="race/chrono-des-nations/2019/result/more/report">Report</a></li>
+<li><a href="race/chrono-des-nations/2019/result/more/embed-results">Embed</a></li>
+<li><a href="race/chrono-des-nations/2019/result/more/contribute-info">Contribute info</a></li>
+<li><a href="race/chrono-des-nations/2019/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li>
+<li class="more"><a href="race/chrono-des-nations/2019/result">More</a><ul><li data-n="1"><a href="race/chrono-des-nations/2019/result/result/result">Results - Results</a></li><li data-n="2"><a href="race/chrono-des-nations/2019/result/info/info">Info - Info</a></li><li data-n="1"><a href="race/chrono-des-nations/2019/result/info/complementary-results">Complementary results</a></li>
+<li data-n="1"><a href="race/chrono-des-nations/2019/result/info/photos">Finish photo</a></li>
+<li data-n="1"><a href="race/chrono-des-nations/2019/result/info/profiles">Profiles</a></li>
+<li data-n="1"><a href="race/chrono-des-nations/2019/result/info/time-table">Time table</a></li>
+<li data-n="3"><a href="race/chrono-des-nations/2019/result/live/live">Live - Live</a></li><li data-n="4"><a href="race/chrono-des-nations/2019/result/game/game">Game - Game</a></li><li data-n="5"><a href="race/chrono-des-nations/2019/result/statistics/statistics">Stats - Stats</a></li><li data-n="6"><a href="race/chrono-des-nations/2019/result/more/more">More - More</a></li><li data-n="5"><a href="race/chrono-des-nations/2019/result/more/report">Report</a></li>
+<li data-n="5"><a href="race/chrono-des-nations/2019/result/more/embed-results">Embed</a></li>
+<li data-n="5"><a href="race/chrono-des-nations/2019/result/more/contribute-info">Contribute info</a></li>
+<li data-n="5"><a href="race/chrono-des-nations/2019/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li></ul><div class="clear"></div></div><ul class="thumbnails" ><li><a href="race/chrono-des-nations">Chrono des Nations</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/chrono-des-nations/2019">2019</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/chrono-des-nations/2019/result">Time trial</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/chrono-des-nations/2019/result/result">Results</a></li></ul><div class="page-title " ><div class="main"><span class="flag fr w32"></span><span class="flag fr w24"></span><span class="hideIfMobile">2019</span><span class="hideIfMobile">&raquo;</span><font class="hideIfMobile">38th</font><h1 class="">Chrono des Nations</h1><font class="hideIfMobile">(1.1)</font></div><div class="sub"><span class="showIfMobile">2019</span><span class="showIfMobile">&raquo;</span><span class="blue">Time trial</span><span class="hideIfMobile">&raquo;</span><span class="red">Les Herbiers</span><span class="red">&rsaquo;</span><span class="red">Les Herbiers</span><span class="red fw400">(46.3km)</span></div></div><div class="clear"></div><div class="desktop-ad leaderbord race"></div><div class="mob-ad leaderbord race"></div><div class="top-cont"></div><div class="top-cont-mobile top-cont-mobile-race"></div><div class="page-content page-object default " data-no_menu="1" ><h2></h2><div class="w100 "   >
+<div class="w68 left mb_w100"><div class="result-filter-cont"><label for="age"><input type="checkbox" class="toggleAge" value="1" id="age">Age</label><label for="bibs"><input type="checkbox" class="toggleBibs" value="1" id="bibs">BIBs</label><label for="h2h"><input type="checkbox" class="toggleH2H cbFalseOnLoad" value="1" id="h2h" >H2H</label><span class="hideIfMobile"><label for="specialty"><input type="checkbox" class="toggleSpecialty " value="1" id="specialty">Specialty</label></span><a class="clearFilter blue hide" style="padding: 0px 7px; " href="">clear filter</a><select class="TNFilter" data-type="team"><option value="0"  >all teams</option><option value="3814"  >Bahrain Merida</option><option value="4861"  >BEAT Cycling Club </option><option value="2708"  >BHS - Almeborg-Bornholm</option><option value="2405"  >BIKE AID</option><option value="4022"  >CC Nogent-sur-Oise</option><option value="1136"  >Cofidis, Solutions Crédits</option><option value="1100"  >Corendon - Circus</option><option value="6211"  >Cycling Team A De Jong</option><option value="3891"  >Dauner D&DQ-Akkon</option><option value="4014"  >Delko Marseille Provence</option><option value="5643"  >EvoPro Racing</option><option value="1187"  >Groupama - FDJ</option><option value="1458"  >Hagens Berman Axeon</option><option value="1382"  >Riwal Readynez Cycling Team</option><option value="1096"  >St Michel - Auber93</option><option value="1644"  >Tarteletto - Isorex</option><option value="1293"  >Team Dimension Data</option><option value="1423"  >Team INEOS</option><option value="1330"  >Team Jumbo-Visma</option><option value="1175"  >Team Total Direct Energie</option><option value="3590"  >Union Raiffeisen Radteam Tirol</option><option value="1941"  >Vendee U Pays De La Loire</option><option value="4627"  >Vital Concept - B&B Hotels</option><option value="1490"  >Wanty - Gobert Cycling Team</option></select><select class="TNFilter" data-type="nation"><option value="0"  >all nations</option><option value="at"  >Austria</option><option value="be"  >Belgium</option><option value="dk"  >Denmark</option><option value="er"  >Eritrea</option><option value="fr"  >France</option><option value="de"  >Germany</option><option value="gr"  >Greece</option><option value="ie"  >Ireland</option><option value="it"  >Italy</option><option value="nl"  >Netherlands</option><option value="rw"  >Rwanda</option><option value="si"  >Slovenia</option></select></div><div class="hide timeWonLostComment" style="text-align: right; color: #555; font-size: 10px; ">The time won/lost column displays the gains in time in the GC. Click on the time of any rider to view the relative gains on this rider.</div><div class="h2h hide " style="font-size: 11px; color: #555;   ">Select two riders to compare. </div><div class="result-cont " data-id="221369">
+<div class="subTabs" data-subtab="1"><table class="results basic moblist10"><thead><tr><th>Rnk</th><th class="bibs hide" >BIB</th><th class="h2h hide" >H2H</th><th class="specialty hide" >Specialty</th><th>Rider</th><th class="age hide" >Age</th><th class="cu600" >Team</th><th>UCI</th><th>Pnt</th><th class="bonis ar fs11 cu600" ></th><th class="time ar" >Time</th><th class="ar" >Avg</th></tr></thead><tbody>
+<tr data-team="1330" data-nation="nl"><td>1</td><td class="bibs hide" >6</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="jos-van-emden" data-id="140268" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag nl"></span> <a href="rider/jos-van-emden">VAN EMDEN Jos</a>  <span class="showIfMobile riderteam">Team Jumbo-Visma</span> </div></td><td class="age hide" >34</td><td class="cu600" ><a href="team/team-jumbo-visma-2019">Team Jumbo-Visma</a></td><td>125</td><td>75</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" >0:55:02</td><td class="ar" >50.478</td></tr>
+<tr data-team="1423" data-nation="it"><td>2</td><td class="bibs hide" >4</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="filippo-ganna" data-id="177672" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag it"></span> <a href="rider/filippo-ganna">GANNA Filippo</a>  <span class="showIfMobile riderteam">Team INEOS</span> </div></td><td class="age hide" >23</td><td class="cu600" ><a href="team/team-ineos-2019">Team INEOS</a></td><td>85</td><td>55</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:11</span><div class="hide">0:11</div></td><td class="ar" >50.311</td></tr>
+<tr data-team="1330" data-nation="si"><td>3</td><td class="bibs hide" >2</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="primoz-roglic" data-id="174582" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_purple"></div><span class="fs10 clr999">Climber</span></td><td><div><span class="flag si"></span> <a href="rider/primoz-roglic">ROGLIČ Primož</a>  <span class="showIfMobile riderteam">Team Jumbo-Visma</span> </div></td><td class="age hide" >29</td><td class="cu600" ><a href="team/team-jumbo-visma-2019">Team Jumbo-Visma</a></td><td>70</td><td>40</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:19</span><div class="hide">0:19</div></td><td class="ar" >50.19</td></tr>
+<tr data-team="1382" data-nation="dk"><td>4</td><td class="bibs hide" >22</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="rasmus-quaade" data-id="134345" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag dk"></span> <a href="rider/rasmus-quaade">QUAADE Rasmus</a>  <span class="showIfMobile riderteam">Riwal Readynez Cycling Team</span> </div></td><td class="age hide" >29</td><td class="cu600" ><a href="team/riwal-readynez-cycling-team-2019">Riwal Readynez Cycling Team</a></td><td>60</td><td>32</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:41</span><div class="hide">0:41</div></td><td class="ar" >49.859</td></tr>
+<tr data-team="1458" data-nation="dk"><td>5</td><td class="bibs hide" >3</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="mikkel-bjerg" data-id="203053" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag dk"></span> <a href="rider/mikkel-bjerg">BJERG Mikkel</a>  <span class="showIfMobile riderteam">Hagens Berman Axeon</span> </div></td><td class="age hide" >20</td><td class="cu600" ><a href="team/hagens-berman-axeon-2019">Hagens Berman Axeon</a></td><td>50</td><td>28</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:57</span><div class="hide">0:57</div></td><td class="ar" >49.622</td></tr>
+<tr data-team="1293" data-nation="dk"><td>6</td><td class="bibs hide" >8</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="michael-valgren-andersen" data-id="139801" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag dk"></span> <a href="rider/michael-valgren-andersen">VALGREN Michael</a>  <span class="showIfMobile riderteam">Team Dimension Data</span> </div></td><td class="age hide" >27</td><td class="cu600" ><a href="team/team-dimension-data-2019">Team Dimension Data</a></td><td>40</td><td>24</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>1:18</span><div class="hide">1:18</div></td><td class="ar" >49.314</td></tr>
+<tr data-team="2708" data-nation="dk"><td>7</td><td class="bibs hide" >1</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="martin-toft-madsen" data-id="167369" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag dk"></span> <a href="rider/martin-toft-madsen">MADSEN Martin Toft</a>  <span class="showIfMobile riderteam">BHS - Almeborg-Bornholm</span> </div></td><td class="age hide" >34</td><td class="cu600" ><a href="team/bhs-almeborg-bornholm-2019">BHS - Almeborg-Bornholm</a></td><td>35</td><td>20</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:18</div></td><td class="ar" >49.314</td></tr>
+<tr data-team="3814" data-nation="si"><td>8</td><td class="bibs hide" >9</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="jan-tratnik" data-id="138849" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag si"></span> <a href="rider/jan-tratnik">TRATNIK Jan</a>  <span class="showIfMobile riderteam">Bahrain Merida</span> </div></td><td class="age hide" >29</td><td class="cu600" ><a href="team/bahrain-merida-2019">Bahrain Merida</a></td><td>30</td><td>18</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>1:28</span><div class="hide">1:28</div></td><td class="ar" >49.168</td></tr>
+<tr data-team="2405" data-nation="de"><td>9</td><td class="bibs hide" >25</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="justin-wolf" data-id="130887" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag de"></span> <a href="rider/justin-wolf">WOLF Justin</a>  <span class="showIfMobile riderteam">BIKE AID</span> </div></td><td class="age hide" >27</td><td class="cu600" ><a href="team/bike-aid-2019">BIKE AID</a></td><td>25</td><td>16</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>1:31</span><div class="hide">1:31</div></td><td class="ar" >49.125</td></tr>
+<tr data-team="1175" data-nation="nl"><td>10</td><td class="bibs hide" >5</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="niki-terpstra" data-id="140747" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag nl"></span> <a href="rider/niki-terpstra">TERPSTRA Niki</a>  <span class="showIfMobile riderteam">Team Total Direct Energie</span> </div></td><td class="age hide" >35</td><td class="cu600" ><a href="team/team-total-direct-energie-2019">Team Total Direct Energie</a></td><td>20</td><td>14</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:12</span><div class="hide">2:12</div></td><td class="ar" >48.538</td></tr>
+<tr data-team="1136" data-nation="fr"><td>11</td><td class="bibs hide" >7</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="stephane-rossetto" data-id="137804" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag fr"></span> <a href="rider/stephane-rossetto">ROSSETTO Stéphane</a>  <span class="showIfMobile riderteam">Cofidis, Solutions Crédits</span> </div></td><td class="age hide" >32</td><td class="cu600" ><a href="team/cofidis-solutions-credits-2019">Cofidis, Solutions Crédits</a></td><td>15</td><td>12</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:17</span><div class="hide">2:17</div></td><td class="ar" >48.468</td></tr>
+<tr data-team="1187" data-nation="fr"><td>12</td><td class="bibs hide" >12</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alexys-brunel" data-id="194248" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag fr"></span> <a href="rider/alexys-brunel">BRUNEL Alexys</a>  <span class="showIfMobile riderteam">Groupama - FDJ</span> </div></td><td class="age hide" >21</td><td class="cu600" ><a href="team/groupama-fdj-2019">Groupama - FDJ</a></td><td>10</td><td>10</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:57</span><div class="hide">2:57</div></td><td class="ar" >47.91</td></tr>
+<tr data-team="1490" data-nation="be"><td>13</td><td class="bibs hide" >10</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="xandro-meurisse" data-id="138697" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_purple"></div><span class="fs10 clr999">Climber</span></td><td><div><span class="flag be"></span> <a href="rider/xandro-meurisse">MEURISSE Xandro</a>  <span class="showIfMobile riderteam">Wanty - Gobert Cycling Team</span> </div></td><td class="age hide" >27</td><td class="cu600" ><a href="team/wanty-gobert-cycling-team-2019">Wanty - Gobert Cycling Team</a></td><td>5</td><td>8</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>3:02</span><div class="hide">3:02</div></td><td class="ar" >47.842</td></tr>
+<tr data-team="3891" data-nation="de"><td>14</td><td class="bibs hide" >31</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="julian-braun" data-id="181506" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag de"></span> <a href="rider/julian-braun">BRAUN Julian</a>  <span class="showIfMobile riderteam">Dauner D&DQ-Akkon</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/dauner-d-dq-akkon-2019">Dauner D&DQ-Akkon</a></td><td>5</td><td>7</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>3:26</span><div class="hide">3:26</div></td><td class="ar" >47.514</td></tr>
+<tr data-team="1100" data-nation="be"><td>15</td><td class="bibs hide" >15</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="jimmy-janssens" data-id="135620" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag be"></span> <a href="rider/jimmy-janssens">JANSSENS Jimmy</a>  <span class="showIfMobile riderteam">Corendon - Circus</span> </div></td><td class="age hide" >30</td><td class="cu600" ><a href="team/corendon-circus-2019">Corendon - Circus</a></td><td>5</td><td>6</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>3:54</span><div class="hide">3:54</div></td><td class="ar" >47.138</td></tr>
+<tr data-team="1293" data-nation="er"><td>16</td><td class="bibs hide" >14</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="amanuel-ghebreigzabhier" data-id="179622" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_purple"></div><span class="fs10 clr999">Climber</span></td><td><div><span class="flag er"></span> <a href="rider/amanuel-ghebreigzabhier">GHEBREIGZABHIER Amanuel</a>  <span class="showIfMobile riderteam">Team Dimension Data</span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/team-dimension-data-2019">Team Dimension Data</a></td><td>3</td><td>5</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>4:01</span><div class="hide">4:01</div></td><td class="ar" >47.045</td></tr>
+<tr data-team="4022" data-nation="fr"><td>17</td><td class="bibs hide" >26</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="romain-bacon" data-id="138670" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/romain-bacon">BACON Romain</a>  <span class="showIfMobile riderteam">CC Nogent-sur-Oise</span> </div></td><td class="age hide" >29</td><td class="cu600" ><a href="team/c-c-nogent-sur-oise-2019">CC Nogent-sur-Oise</a></td><td>3</td><td>4</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>4:10</span><div class="hide">4:10</div></td><td class="ar" >46.926</td></tr>
+<tr data-team="4014" data-nation="fr"><td>18</td><td class="bibs hide" >20</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alexis-guerin" data-id="133003" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag fr"></span> <a href="rider/alexis-guerin">GUERIN Alexis</a>  <span class="showIfMobile riderteam">Delko Marseille Provence</span> </div></td><td class="age hide" >27</td><td class="cu600" ><a href="team/delko-marseille-provence-2019">Delko Marseille Provence</a></td><td>3</td><td>3</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>4:37</span><div class="hide">4:37</div></td><td class="ar" >46.572</td></tr>
+<tr data-team="4861" data-nation="nl"><td>19</td><td class="bibs hide" >24</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="piotr-havik" data-id="123349" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag nl"></span> <a href="rider/piotr-havik">HAVIK Piotr</a>  <span class="showIfMobile riderteam">BEAT Cycling Club </span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/beat-cycling-club-2019">BEAT Cycling Club </a></td><td>3</td><td>2</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>4:45</span><div class="hide">4:45</div></td><td class="ar" >46.468</td></tr>
+<tr data-team="1096" data-nation="fr"><td>20</td><td class="bibs hide" >19</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="nicolas-baldo" data-id="138806" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag fr"></span> <a href="rider/nicolas-baldo">BALDO Nicolas</a>  <span class="showIfMobile riderteam">St Michel - Auber93</span> </div></td><td class="age hide" >35</td><td class="cu600" ><a href="team/st-michel-auber93-2019">St Michel - Auber93</a></td><td>3</td><td>1</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>4:56</span><div class="hide">4:56</div></td><td class="ar" >46.326</td></tr>
+<tr data-team="1175" data-nation="fr"><td>21</td><td class="bibs hide" >13</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="anthony-turgis" data-id="162917" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag fr"></span> <a href="rider/anthony-turgis">TURGIS Anthony</a>  <span class="showIfMobile riderteam">Team Total Direct Energie</span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/team-total-direct-energie-2019">Team Total Direct Energie</a></td><td>3</td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>5:44</span><div class="hide">5:44</div></td><td class="ar" >45.716</td></tr>
+<tr data-team="1644" data-nation="gr"><td>22</td><td class="bibs hide" >23</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="polychronis-tzortzakis" data-id="134489" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag gr"></span> <a href="rider/polychronis-tzortzakis">TZORTZAKIS Polychronis</a>  <span class="showIfMobile riderteam">Tarteletto - Isorex</span> </div></td><td class="age hide" >30</td><td class="cu600" ><a href="team/tarteletto-isorex-2019">Tarteletto - Isorex</a></td><td>3</td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>6:13</span><div class="hide">6:13</div></td><td class="ar" >45.355</td></tr>
+<tr data-team="1941" data-nation="fr"><td>23</td><td class="bibs hide" >29</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="florian-maitre" data-id="176656" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag fr"></span> <a href="rider/florian-maitre">MAITRE Florian</a>  <span class="showIfMobile riderteam">Vendee U Pays De La Loire</span> </div></td><td class="age hide" >23</td><td class="cu600" ><a href="team/vendee-u-pays-de-la-loire-2019">Vendee U Pays De La Loire</a></td><td>3</td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>6:19</span><div class="hide">6:19</div></td><td class="ar" >45.281</td></tr>
+<tr data-team="1100" data-nation="be"><td>24</td><td class="bibs hide" >21</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="otto-vergaerde" data-id="132208" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag be"></span> <a href="rider/otto-vergaerde">VERGAERDE Otto</a>  <span class="showIfMobile riderteam">Corendon - Circus</span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/corendon-circus-2019">Corendon - Circus</a></td><td>3</td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>6:42</span><div class="hide">6:42</div></td><td class="ar" >45</td></tr>
+<tr data-team="4627" data-nation="fr"><td>25</td><td class="bibs hide" >17</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="adrien-garel" data-id="176645" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag fr"></span> <a href="rider/adrien-garel">GAREL Adrien</a>  <span class="showIfMobile riderteam">Vital Concept - B&B Hotels</span> </div></td><td class="age hide" >23</td><td class="cu600" ><a href="team/vital-concept-bb-hotels-2019">Vital Concept - B&B Hotels</a></td><td>3</td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>7:40</span><div class="hide">7:40</div></td><td class="ar" >44.306</td></tr>
+<tr data-team="4014" data-nation="rw"><td>26</td><td class="bibs hide" >11</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="joseph-areruya" data-id="188663" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag rw"></span> <a href="rider/joseph-areruya">ARERUYA Joseph</a>  <span class="showIfMobile riderteam">Delko Marseille Provence</span> </div></td><td class="age hide" >23</td><td class="cu600" ><a href="team/delko-marseille-provence-2019">Delko Marseille Provence</a></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>9:09</span><div class="hide">9:09</div></td><td class="ar" >43.282</td></tr>
+<tr data-team="6211" data-nation="nl"><td>27</td><td class="bibs hide" >27</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="kai-reus" data-id="140055" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag nl"></span> <a href="rider/kai-reus">REUS Kai</a>  <span class="showIfMobile riderteam">Cycling Team A De Jong</span> </div></td><td class="age hide" >34</td><td class="cu600" ><a href="team/cycling-team-a-de-jong-2019">Cycling Team A De Jong</a></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>9:13</span><div class="hide">9:13</div></td><td class="ar" >43.237</td></tr>
+</tbody></table>
+<div style="color: #bbb; font-size: 10px; text-align: right; ">DNF=Did not finish / DNS=Did not start / OTL = Outside time limit / DF=Did finish, no result / NR=No result<svg viewBox="0 0 24 24" style="width: 14px; margin: 0 0 -4px 3px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#dec650" d="M21 3a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-2.001L19 20a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1l-.001-8.001L3 12a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h6a3 3 0 0 0 6 0h6z"/></g></svg> Rider wearing the jersey<span   style=" margin-left: 10px;"> <svg viewBox="0 0 24 24" style="width: 10px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#f55733" d="M3.783 2.826L12 1l8.217 1.826a1 1 0 0 1 .783.976v9.987a6 6 0 0 1-2.672 4.992L12 23l-6.328-4.219A6 6 0 0 1 3 13.79V3.802a1 1 0 0 1 .783-.976z"/></g></svg>>50% of race distance in group before peloton</span><div class="clear"></div>  </div><div class="more-results-cont"><a class="viewMoreResults" data-n="25"   href="#">View top-25</a><div style="width: 10px; "></div><a class="viewMoreResults" data-n="250"   href="#">View full result</a></div><div class="mob-ad after-result "></div></div><div class="subTabs hide" data-subtab="2"></div></div></div><div class="w30 right mb_w100"><div class=""></div>
+<div class=""><h3>Race information</h3><div class=""></div></div>
+<img class="left maxw100 mg_rp10" src="" /><div class=""><ul class="infolist" style=""><li><div>Date:</div> <div>20 October 2019</div></li>
+<li><div>Start time:</div> <div>-</div></li>
+<li><div>Avg. speed winner:</div> <div>50.478 km/h</div></li>
+<li><div>Race category:</div> <div>ME - Men Elite</div></li>
+<li><div>Distance: </div> <div>46.3 km</div></li>
+<li><div>Points scale:</div> <div><a    href="info.php?s=point-scales&season=2019&category=1&scale=20">1.1</a></div></li>
+<li><div>UCI scale:</div> <div><a    href="info.php?s=point-scales&season=2019&category=1&pcs_uci&uci&scale=147">UCI.WR.1</a></div></li>
+<li><div>Parcours type: </div> <div><span class="icon profile p1"></span></div></li>
+<li><div>ProfileScore: </div> <div>5</div></li>
+<li><div>Vert. meters:</div> <div>319</div></li>
+<li><div>Departure:</div> <div><a    href="location/les-herbiers">Les Herbiers</a></div></li>
+<li><div>Arrival:</div> <div><a    href="location/les-herbiers">Les Herbiers</a></div></li>
+<li><div>Race ranking:</div> <div><a    href="race/chrono-des-nations/2019/result/overview/race-ranking">0</a></div></li>
+<li><div>Startlist quality score:</div> <div><a    href="race/chrono-des-nations/2019/startlist/startlist-quality">116</a></div></li>
+<li><div>Won how: </div> <div>Time Trial</div></li>
+<li><div>Avg. temperature:</div> <div><a    href="race/chrono-des-nations/2019/result/stages/hottest-stages"></a></div></li>
+</ul></div>
+<div class=""><ul class="list horizontal"></ul></div>
+<div class="mt10"><h3>Race profile</h3>
+<span class="table-cont"><ul class="list"  style=" "><li class="" ><div ><a    href="race/chrono-des-nations/2019/result/info/profiles"><img src="images/profiles/ap/cf/chrono-des-nations-2019-result-profile-5ad77045b0.jpg" style="max-height: 200px; max-width: 100%;  " /></a></div><div class="clear"></div></li>
+</ul></span></div>
+<div class="mt10"><h3>Sites</h3><ul class="list horizontal sites "><li><span class="icon facebook left"></span><a  target="_blank"   class="" href="https://www.facebook.com/chronodesnations">facebook</a></li>
+<li><span class="icon instagram left"></span><a  target="_blank"   class="" href="https://www.instagram.com/chronodesnations">instagram</a></li>
+<li><span class="icon twitter left"></span><a  target="_blank"   class="" href="https://www.twitter.com/ChronoNations">twitter</a></li>
+<li><span class="icon website left"></span><a  target="_blank"   class="" href="https://www.chronodesnations.com/">site</a></li>
+</ul></div>
+<div class="fs11"><div class=""></div></div>
+<div class="desktop-ad race-column-right"></div><div class="mob-ad race-column-right"></div></div><div class="clear"></div>
+</div>
+<div class="desktop-ad below-content race"></div><div class="mob-ad below-content race"></div></div><div style="clear: both; "></div>  
+  </div>
+  </center>
+  <div class="push"></div>
+</div>
+<div class="footer">
+  <div class="sfa"><ul class="ftr-list"><li class="group"><h3>Grand Tours</h3><ul><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">Vuelta a España</a></li>
+</ul><h3>Major Tours</h3><ul><li><a href="race/paris-nice">Paris-Nice</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/volta-a-catalunya">Volta a Catalunya</a></li>
+<li><a href="race/tour-de-romandie">Tour de Romandie</a></li>
+<li><a href="race/tour-de-suisse">Tour de Suisse</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/itzulia-basque-country">Itzulia Basque Country</a></li>
+</ul></li>
+<li class="group"><h3>Monuments</h3><ul><li><a href="race/milano-sanremo">Milano-SanRemo</a></li>
+<li><a href="race/ronde-van-vlaanderen">Ronde van Vlaanderen</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+</ul><h3>Championships</h3><ul><li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/uec-road-european-championships">European championships</a></li>
+</ul></li>
+<li class="group"><h3>Top classics</h3><ul><li><a href="race/omloop-het-nieuwsblad">Omloop Het Nieuwsblad</a></li>
+<li><a href="race/strade-bianche">Strade Bianche</a></li>
+<li><a href="race/e3-harelbeke">E3 Classic</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem</a></li>
+<li><a href="race/dwars-door-vlaanderen">Dwars door vlaanderen</a></li>
+<li><a href="race/eschborn-frankfurt">Eschborn-Frankfurt</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/san-sebastian">San Sebastian</a></li>
+<li><a href="race/bretagne-classic">Bretagne Classic</a></li>
+<li><a href="race/gp-quebec">GP Québec</a></li>
+<li><a href="race/gp-montreal">GP Montréal</a></li>
+</ul></li>
+<li class="group"><h3>Popular riders</h3><ul><li><a href="rider/tadej-pogacar">Tadej Pogačar</a></li>
+<li><a href="rider/wout-van-aert">Wout van Aert</a></li>
+<li><a href="rider/remco-evenepoel">Remco Evenepoel</a></li>
+<li><a href="rider/jonas-vingegaard-rasmussen">Jonas Vingegaard</a></li>
+<li><a href="rider/mathieu-van-der-poel">Mathieu van der Poel</a></li>
+<li><a href="rider/biniam-girmay">Biniam Girmay</a></li>
+<li><a href="rider/peter-sagan">Peter Sagan</a></li>
+<li><a href="rider/annemiek-van-vleuten">Annemiek van Vleuten</a></li>
+<li><a href="rider/elisa-longo-borghini">Elisa Longo Borghini</a></li>
+<li><a href="rider/katarzyna-niewiadoma">Katarzyna Niewiadoma</a></li>
+</ul></li>
+<li class="group"><h3>Statistics</h3><ul><li><a href="statistics/start/points-per-age">Points per age</a></li>
+<li><a href="statistics/start/latest-injuries">Latest injuries</a></li>
+<li><a href="statistics/riders/youngest-riders">Youngest riders</a></li>
+<li><a href="statistics/grandtours">Grand tour statistics</a></li>
+<li><a href="statistics/monuments">Monument classics</a></li>
+<li><a href="teams/transfers">Latest transfers</a></li>
+<li><a href="favorite500">Favorite 500</a></li>
+</ul><h3>Rankings</h3><ul><li><a href="rankings.php">PCS ranking</a></li>
+<li><a href="rankings/me/uci-individual">UCI World Ranking</a></li>
+<li><a href="rankings/me/all-time">Alltime</a></li>
+</ul></li>
+<li class="group"><h3>Info</h3><ul><li><a href="info/point-scales">Points scales</a></li>
+<li><a href="info/profile-score-explained">Profile scores</a></li>
+<li><a href="reset_password.php">Reset password</a></li>
+<li><a href="info/pcs-game">PCS game</a></li>
+<li><a href="info/procyclinggame">ProCyclingGame</a></li>
+</ul><h3>About ProCyclingStats</h3><ul><li><a href="info/about-us">About us</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/cookie-policy">Cookie policy</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/contributions">Contributions</a></li>
+<li><span>Pageload 0.0359s</span></li>
+</ul></li>
+</ul><input type="hidden" id="pageid" value="1190" /><input type="hidden" id="userid" value="0" />
+	</div>
+</div> 
+ 
+ </body></html>
+<script src="search_list7.js"></script>  

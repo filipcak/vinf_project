@@ -1,0 +1,287 @@
+<!DOCTYPE HTML><html><head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35889790-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'GA_MEASUREMENT_ID', {
+	  'linker': {
+	    'domains': ['cx.procyclingstats.com','procyclingstats.com']
+	  }
+	});
+
+  gtag('config', 'UA-35889790-1');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2MNJ20S7SJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2MNJ20S7SJ');
+</script>
+<title>GP Stad Zottegem 1996 One day race results</title>
+<base href="https://www.procyclingstats.com/race.php" />
+<link rel="canonical" href="https://www.procyclingstats.com/race/gp-stad-zottegem/1996/result" />
+<script>
+    var r89 = r89 || {
+      callAds: [],
+      pushAd: function(id, name, config) { r89.callAds.push([id, name, config]); }
+    };
+</script>
+<script async src="https://tags.refinery89.com/v2/procyclingstats.js"></script><meta name="description" content="Chris Peers is the winner of GP Stad Zottegem 1996, before Peter Van Petegem and Peter Naessens. ">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="utf-8"> 
+<meta name="facebook-domain-verification" content="tjwn3jyjupm0t1j8e0sgis3c80x88r" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<base href="race.php" />
+	<link rel="stylesheet" type="text/css" href="https://www.procyclingstats.com/pcs_a190.css" />
+	
+<script src="https://www.procyclingstats.com/pcs_s79.js"></script> 
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css"> 
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.procyclingstats.com/images/pcs-logos/icon3/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-16x16.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon.ico" />
+ 
+</head>
+<body>
+<div class="wrapper">
+  <header class="">
+    <div class="cont">
+    	<a  class="logo" href="index.php"></a>
+  
+    	<form action="search.php" class="msearch"><input type="hidden"  id="term" />
+    		<input type="text" name="term" id="search" data-nav="race/-id-/result" data-nav2="" data-page="race" class="search4"  placeholder="search"  /></form> 
+    	<div class="menuCont">
+      	<a class="mobMenu" href="">Menu&#x25BC;</a>
+				<ul class="nav_v4 default"><li class=" "><a class="reg" href="index.php">Home</a></li>
+<li class="more4 "><a class="reg" href="races.php">Races</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">La Vuelta ciclista a España</a></li>
+<li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/milano-sanremo">Milano-Sanremo</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/paris-nice">Paris - Nice</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/volta-a-catalunya">Volta Ciclista a Catalunya</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/ronde-van-vlaanderen">Tour des Flandres</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem in Flanders Fields</a></li>
+<li><a href="race/san-sebastian">Clásica Ciclista San Sebastián</a></li>
+</ul></li>
+<li class="more4 "><a class="reg" href="teams.php">Teams</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="team/intermarche-circus-wanty-2023">Intermarché - Circus - Wanty </a></li>
+<li><a href="team/ineos-grenadiers-2023">INEOS Grenadiers</a></li>
+<li><a href="team/groupama-fdj-2023">Groupama - FDJ</a></li>
+<li><a href="team/ef-education-easypost-2023">EF Education-EasyPost</a></li>
+<li><a href="team/cofidis-2023">Cofidis </a></li>
+<li><a href="team/bora-hansgrohe-2023">BORA - hansgrohe</a></li>
+<li><a href="team/bahrain-victorious-2023">Bahrain - Victorious</a></li>
+<li><a href="team/astana-qazaqstan-team-2023">Astana Qazaqstan Team</a></li>
+<li><a href="team/team-jumbo-visma-2023">Jumbo-Visma</a></li>
+<li><a href="team/movistar-team-2023">Movistar Team</a></li>
+<li><a href="team/soudal-quick-step-2023">Soudal - Quick Step</a></li>
+<li><a href="team/team-arkea-samsic-2023">Team Arkéa Samsic</a></li>
+<li><a href="team/team-jayco-alula-2023">Team Jayco AlUla</a></li>
+<li><a href="team/team-dsm-2023">Team DSM</a></li>
+<li><a href="team/trek-segafredo-2023">Trek - Segafredo</a></li>
+<li><a href="team/uae-team-emirates-2023">UAE Team Emirates</a></li>
+<li><a href="team/alpecin-deceuninck-2023">Alpecin-Deceuninck</a></li>
+<li><a href="team/ag2r-citroen-team-2023">AG2R Citroën Team</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="rankings.php">Rankings</a></li>
+<li class="more4 "><a class="reg" href="statistics.php">Statistics</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="statistics">Overview</a></li>
+<li><a href="statistics/riders">Riders</a></li>
+<li><a href="statistics/teams">Teams</a></li>
+<li><a href="statistics/grandtours">Grand tours</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="game.php">Game</a></li>
+<li class="more4 "><a class="reg" href="riders.php">More</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="riders">Riders</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/countdown-to-1-billion-pageviews">Countdown to 2 billion pageviews</a></li>
+<li><a href="favorite500.php">Favorite500</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/about-us">About us</a></li>
+<li><a href="info/profile-score-explained">Profile Score</a></li>
+<li><a href="info/tutorials">Tutorials</a></li>
+</ul></li>
+<li class="more4 pro"><a class="reg" href="premium.php">Pro</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="">Dashboard</a></li>
+<li><a href="">Lists</a></li>
+</ul></li>
+ 
+				 </ul> 
+			 </div>
+			 <a class="user4" data-logged="0" href="account.php"><span>&#10070;</span><font class="hideIfMobile">login</font></a><a class="settings4 " href="settings.php"><span>&#10033;</span><font>settings</font></a>    </div>
+  </header>  
+<div class="content   "> <div class="page-topnav "><div class="pageDDnavCont"><div class="pageSelectNav " ><a   href="race/gp-stad-zottegem/1995/result" >1995</a><div ><form style="  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/gp-stad-zottegem/2023/result" >2023</option><option value="race/gp-stad-zottegem/2022/result" >2022</option><option value="race/gp-stad-zottegem/2021/result" >2021</option><option value="race/gp-stad-zottegem/2020/result" >2020</option><option value="race/gp-stad-zottegem/2019/result" >2019</option><option value="race/gp-stad-zottegem/2018/result" >2018</option><option value="race/gp-stad-zottegem/2017/result" >2017</option><option value="race/gp-stad-zottegem/2016/result" >2016</option><option value="race/gp-stad-zottegem/2015/result" >2015</option><option value="race/gp-stad-zottegem/2014/result" >2014</option><option value="race/gp-stad-zottegem/2013/result" >2013</option><option value="race/gp-stad-zottegem/2012/result" >2012</option><option value="race/gp-stad-zottegem/2011/result" >2011</option><option value="race/gp-stad-zottegem/2010/result" >2010</option><option value="race/gp-stad-zottegem/2009/result" >2009</option><option value="race/gp-stad-zottegem/2008/result" >2008</option><option value="race/gp-stad-zottegem/2007/result" >2007</option><option value="race/gp-stad-zottegem/2006/result" >2006</option><option value="race/gp-stad-zottegem/2005/result" >2005</option><option value="race/gp-stad-zottegem/2004/result" >2004</option><option value="race/gp-stad-zottegem/2003/result" >2003</option><option value="race/gp-stad-zottegem/2002/result" >2002</option><option value="race/gp-stad-zottegem/2001/result" >2001</option><option value="race/gp-stad-zottegem/2000/result" >2000</option><option value="race/gp-stad-zottegem/1999/result" >1999</option><option value="race/gp-stad-zottegem/1998/result" >1998</option><option value="race/gp-stad-zottegem/1997/result" >1997</option><option value="race/gp-stad-zottegem/1996/result" selected>1996</option><option value="race/gp-stad-zottegem/1995/result" >1995</option><option value="race/gp-stad-zottegem/1994/result" >1994</option><option value="race/gp-stad-zottegem/1993/result" >1993</option><option value="race/gp-stad-zottegem/1992/result" >1992</option><option value="race/gp-stad-zottegem/1991/result" >1991</option><option value="race/gp-stad-zottegem/1990/result" >1990</option><option value="race/gp-stad-zottegem/1989/result" >1989</option><option value="race/gp-stad-zottegem/1988/result" >1988</option><option value="race/gp-stad-zottegem/1987/result" >1987</option><option value="race/gp-stad-zottegem/1986/result" >1986</option><option value="race/gp-stad-zottegem/1985/result" >1985</option><option value="race/gp-stad-zottegem/1984/result" >1984</option><option value="race/gp-stad-zottegem/1983/result" >1983</option><option value="race/gp-stad-zottegem/1982/result" >1982</option><option value="race/gp-stad-zottegem/1981/result" >1981</option><option value="race/gp-stad-zottegem/1980/result" >1980</option><option value="race/gp-stad-zottegem/1979/result" >1979</option><option value="race/gp-stad-zottegem/1978/result" >1978</option><option value="race/gp-stad-zottegem/1977/result" >1977</option><option value="race/gp-stad-zottegem/1976/result" >1976</option><option value="race/gp-stad-zottegem/1975/result" >1975</option><option value="race/gp-stad-zottegem/1974/result" >1974</option><option value="race/gp-stad-zottegem/1973/result" >1973</option><option value="race/gp-stad-zottegem/1972/result" >1972</option><option value="race/gp-stad-zottegem/1971/result" >1971</option><option value="race/gp-stad-zottegem/1970/result" >1970</option><option value="race/gp-stad-zottegem/1969/result" >1969</option><option value="race/gp-stad-zottegem/1968/result" >1968</option><option value="race/gp-stad-zottegem/1967/result" >1967</option><option value="race/gp-stad-zottegem/1966/result" >1966</option><option value="race/gp-stad-zottegem/1965/result" >1965</option><option value="race/gp-stad-zottegem/1964/result" >1964</option><option value="race/gp-stad-zottegem/1963/result" >1963</option><option value="race/gp-stad-zottegem/1962/result" >1962</option><option value="race/gp-stad-zottegem/1961/result" >1961</option><option value="race/gp-stad-zottegem/1960/result" >1960</option><option value="race/gp-stad-zottegem/1959/result" >1959</option><option value="race/gp-stad-zottegem/1958/result" >1958</option><option value="race/gp-stad-zottegem/1957/result" >1957</option><option value="race/gp-stad-zottegem/1956/result" >1956</option><option value="race/gp-stad-zottegem/1955/result" >1955</option><option value="race/gp-stad-zottegem/1954/result" >1954</option><option value="race/gp-stad-zottegem/1953/result" >1953</option><option value="race/gp-stad-zottegem/1952/result" >1952</option><option value="race/gp-stad-zottegem/1951/result" >1951</option><option value="race/gp-stad-zottegem/1950/result" >1950</option><option value="race/gp-stad-zottegem/1949/result" >1949</option><option value="race/gp-stad-zottegem/1948/result" >1948</option><option value="race/gp-stad-zottegem/1947/result" >1947</option><option value="race/gp-stad-zottegem/1946/result" >1946</option><option value="race/gp-stad-zottegem/1945/result" >1945</option><option value="race/gp-stad-zottegem/1943/result" >1943</option><option value="race/gp-stad-zottegem/1942/result" >1942</option><option value="race/gp-stad-zottegem/1941/result" >1941</option><option value="race/gp-stad-zottegem/1939/result" >1939</option><option value="race/gp-stad-zottegem/1938/result" >1938</option><option value="race/gp-stad-zottegem/1937/result" >1937</option><option value="race/gp-stad-zottegem/1936/result" >1936</option><option value="race/gp-stad-zottegem/1935/result" >1935</option><option value="race/gp-stad-zottegem/1934/result" >1934</option></select></form></div><a  href="race/gp-stad-zottegem/1997/result" >1997</a></div></div><ul class="pagenavLinks"><li class="reg "><a class="cur" href="race/gp-stad-zottegem/1996/result">Results</a></li>
+<li class="reg "><a style=" " href="race/gp-stad-zottegem/1996/startlist">Startlist</a><ul><li><a href="race/gp-stad-zottegem/1996/startlist">Startlist</a></li><li><a href="race/gp-stad-zottegem/results">Race palmares</a></li></ul></li><li class="reg "><a class="" href="race/gp-stad-zottegem/1996/result/info">Info&#x25BC;</a><ul><li><a href="race/gp-stad-zottegem/1996/result/info/complementary-results">Complementary results</a></li>
+<li><a href="race/gp-stad-zottegem/1996/result/info/photos">Finish photo</a></li>
+<li><a href="race/gp-stad-zottegem/1996/result/info/profiles">Profiles</a></li>
+<li><a href="race/gp-stad-zottegem/1996/result/info/time-table">Time table</a></li>
+</ul></li>
+<li class="reg "><a class="" href="race/gp-stad-zottegem/1996/result/live">Live</a></li>
+<li class="reg "><a class="" href="race/gp-stad-zottegem/1996/result/game">Game</a></li>
+<li class="reg "><a class="" href="race/gp-stad-zottegem/1996/result/statistics">Stats</a></li>
+<li class="reg "><a class="" href="race/gp-stad-zottegem/1996/result/more">More&#x25BC;</a><ul><li><a href="race/gp-stad-zottegem/1996/result/more/report">Report</a></li>
+<li><a href="race/gp-stad-zottegem/1996/result/more/embed-results">Embed</a></li>
+<li><a href="race/gp-stad-zottegem/1996/result/more/contribute-info">Contribute info</a></li>
+<li><a href="race/gp-stad-zottegem/1996/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li>
+<li class="more"><a href="race/gp-stad-zottegem/1996/result">More</a><ul><li data-n="1"><a href="race/gp-stad-zottegem/1996/result/result/result">Results - Results</a></li><li data-n="2"><a href="race/gp-stad-zottegem/1996/result/info/info">Info - Info</a></li><li data-n="1"><a href="race/gp-stad-zottegem/1996/result/info/complementary-results">Complementary results</a></li>
+<li data-n="1"><a href="race/gp-stad-zottegem/1996/result/info/photos">Finish photo</a></li>
+<li data-n="1"><a href="race/gp-stad-zottegem/1996/result/info/profiles">Profiles</a></li>
+<li data-n="1"><a href="race/gp-stad-zottegem/1996/result/info/time-table">Time table</a></li>
+<li data-n="3"><a href="race/gp-stad-zottegem/1996/result/live/live">Live - Live</a></li><li data-n="4"><a href="race/gp-stad-zottegem/1996/result/game/game">Game - Game</a></li><li data-n="5"><a href="race/gp-stad-zottegem/1996/result/statistics/statistics">Stats - Stats</a></li><li data-n="6"><a href="race/gp-stad-zottegem/1996/result/more/more">More - More</a></li><li data-n="5"><a href="race/gp-stad-zottegem/1996/result/more/report">Report</a></li>
+<li data-n="5"><a href="race/gp-stad-zottegem/1996/result/more/embed-results">Embed</a></li>
+<li data-n="5"><a href="race/gp-stad-zottegem/1996/result/more/contribute-info">Contribute info</a></li>
+<li data-n="5"><a href="race/gp-stad-zottegem/1996/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li></ul><div class="clear"></div></div><ul class="thumbnails" ><li><a href="race/gp-stad-zottegem">GP Stad Zottegem</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/gp-stad-zottegem/1996">1996</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/gp-stad-zottegem/1996/result">One day race</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/gp-stad-zottegem/1996/result/result">Results</a></li></ul><div class="page-title " ><div class="main"><span class="flag be w32"></span><span class="flag be w24"></span><span class="hideIfMobile">1996</span><span class="hideIfMobile">&raquo;</span><font class="hideIfMobile">61st</font><h1 class="">GP Stad Zottegem</h1></div><div class="sub"><span class="showIfMobile">1996</span><span class="showIfMobile">&raquo;</span><span class="blue">One day race</span><span class="hideIfMobile">&raquo;</span><span class="red">Zottegem</span><span class="red">&rsaquo;</span><span class="red">Zottegem</span><span class="red fw400">(166km)</span></div></div><div class="clear"></div><div class="desktop-ad leaderbord race"></div><div class="mob-ad leaderbord race"></div><div class="top-cont"></div><div class="top-cont-mobile top-cont-mobile-race"></div><div class="page-content page-object default " data-no_menu="1" ><h2></h2><div class="w100 "   >
+<div class="w68 left mb_w100"><div class="result-filter-cont"><label for="age"><input type="checkbox" class="toggleAge" value="1" id="age">Age</label><label for="bibs"><input type="checkbox" class="toggleBibs" value="1" id="bibs">BIBs</label><label for="h2h"><input type="checkbox" class="toggleH2H cbFalseOnLoad" value="1" id="h2h" >H2H</label><span class="hideIfMobile"><label for="specialty"><input type="checkbox" class="toggleSpecialty " value="1" id="specialty">Specialty</label></span><a class="clearFilter blue hide" style="padding: 0px 7px; " href="">clear filter</a><select class="TNFilter" data-type="team"><option value="0"  >-</option></select><select class="TNFilter" data-type="nation"><option value="0"  >all nations</option><option value="au"  >Australia</option><option value="be"  >Belgium</option><option value="ie"  >Ireland</option><option value="nl"  >Netherlands</option><option value="ru"  >Russia</option><option value="se"  >Sweden</option><option value="us"  >United States</option></select></div><div class="hide timeWonLostComment" style="text-align: right; color: #555; font-size: 10px; ">The time won/lost column displays the gains in time in the GC. Click on the time of any rider to view the relative gains on this rider.</div><div class="h2h hide " style="font-size: 11px; color: #555;   ">Select two riders to compare. </div><div class="result-cont " data-id="204565">
+<div class="subTabs" data-subtab="1"><table class="results basic moblist10"><thead><tr><th>Rnk</th><th class="bibs hide" >BIB</th><th class="h2h hide" >H2H</th><th class="specialty hide" >Specialty</th><th>Rider</th><th class="age hide" >Age</th><th class="cu600" >Team</th><th>Pnt</th><th class="time ar" >Time</th></tr></thead><tbody>
+<tr data-team="4326" data-nation="be"><td>1</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="chris-peers" data-id="114725" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag be"></span> <a href="rider/chris-peers">PEERS Chris</a>  <span class="showIfMobile riderteam">Collstrop - Lystex </span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/collstrop-lystex-1996">Collstrop - Lystex </a></td><td>75</td><td class="time ar" >-</td></tr>
+<tr data-team="1179" data-nation="be"><td>2</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="peter-van-petegem" data-id="115827" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag be"></span> <a href="rider/peter-van-petegem">VAN PETEGEM Peter</a>  <span class="showIfMobile riderteam">TVM - Farm Frites</span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/tvm-farm-frites-1996">TVM - Farm Frites</a></td><td>55</td><td class="time ar" >-</td></tr>
+<tr data-team="4478" data-nation="be"><td>3</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="peter-naessens" data-id="168714" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/peter-naessens">NAESSENS Peter</a>  <span class="showIfMobile riderteam">Ipso - Asfra </span> </div></td><td class="age hide" >29</td><td class="cu600" ><a href="team/ipso-asfra-1996">Ipso - Asfra </a></td><td>40</td><td class="time ar" >-</td></tr>
+<tr data-team="4491" data-nation="au"><td>4</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="danny-clark" data-id="175658" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag au"></span> <a href="rider/danny-clark">CLARK Danny</a>  <span class="showIfMobile riderteam">RDM New Systems </span> </div></td><td class="age hide" >44</td><td class="cu600" ><a href="team/rdm-new-systems-1996">RDM New Systems </a></td><td>32</td><td class="time ar" >-</td></tr>
+<tr data-team="4495" data-nation="ie"><td>5</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="paul-giles" data-id="193234" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag ie"></span> <a href="rider/paul-giles">GILES Paul</a>  <span class="showIfMobile riderteam">Sit & Sit - FS Maestro </span> </div></td><td class="age hide" >22</td><td class="cu600" ><a href="team/sit-sit-fs-maestro-1996">Sit & Sit - FS Maestro </a></td><td>28</td><td class="time ar" >-</td></tr>
+<tr data-team="1179" data-nation="nl"><td>6</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="michel-cornelisse" data-id="113218" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag nl"></span> <a href="rider/michel-cornelisse">CORNELISSE Michel</a>  <span class="showIfMobile riderteam">TVM - Farm Frites</span> </div></td><td class="age hide" >30</td><td class="cu600" ><a href="team/tvm-farm-frites-1996">TVM - Farm Frites</a></td><td>24</td><td class="time ar" >-</td></tr>
+<tr data-team="1179" data-nation="be"><td>7</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="hendrik-redant" data-id="113289" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/hendrik-redant">REDANT Hendrik</a>  <span class="showIfMobile riderteam">TVM - Farm Frites</span> </div></td><td class="age hide" >33</td><td class="cu600" ><a href="team/tvm-farm-frites-1996">TVM - Farm Frites</a></td><td>20</td><td class="time ar" >-</td></tr>
+<tr data-team="4266" data-nation="be"><td>8</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="marc-patry" data-id="176794" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/marc-patry">PATRY Marc</a>  <span class="showIfMobile riderteam">Vlaanderen 2002 - Eddy Merckx </span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/vlaanderen-2002-eddy-merckx-1996">Vlaanderen 2002 - Eddy Merckx </a></td><td>18</td><td class="time ar" >-</td></tr>
+<tr data-team="4478" data-nation="be"><td>9</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="andy-de-smet" data-id="115039" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/andy-de-smet">DE SMET Andy</a>  <span class="showIfMobile riderteam">Ipso - Asfra </span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/ipso-asfra-1996">Ipso - Asfra </a></td><td>16</td><td class="time ar" >-</td></tr>
+<tr data-team="4586" data-nation="be"><td>10</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="willy-willems" data-id="167886" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/willy-willems">WILLEMS Willy</a>  <span class="showIfMobile riderteam">Tönissteiner - Saxon </span> </div></td><td class="age hide" >32</td><td class="cu600" ><a href="team/tonissteiner-saxon-1996">Tönissteiner - Saxon </a></td><td>14</td><td class="time ar" >-</td></tr>
+<tr data-team="4459" data-nation="us"><td>11</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="chris-yenkey" data-id="210203" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag us"></span> <a href="rider/chris-yenkey">YENKEY Chris</a>  <span class="showIfMobile riderteam">Die Continentale - Olympia </span> </div></td><td class="age hide" >23</td><td class="cu600" ><a href="team/die-continentale-olympia-1996">Die Continentale - Olympia </a></td><td>12</td><td class="time ar" >-</td></tr>
+<tr data-team="4266" data-nation="be"><td>12</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="kris-gerits" data-id="113926" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/kris-gerits">GERITS Kris</a>  <span class="showIfMobile riderteam">Vlaanderen 2002 - Eddy Merckx </span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/vlaanderen-2002-eddy-merckx-1996">Vlaanderen 2002 - Eddy Merckx </a></td><td>10</td><td class="time ar" >-</td></tr>
+<tr data-team="4500" data-nation="be"><td>13</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="michel-vanhaecke" data-id="115143" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/michel-vanhaecke">VANHAECKE Michel</a>  <span class="showIfMobile riderteam">Vosschemie - Zetelhallen </span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/vosschemie-zetelhallen-1996">Vosschemie - Zetelhallen </a></td><td>8</td><td class="time ar" >-</td></tr>
+<tr data-team="4491" data-nation="be"><td>14</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="lorenzo-lapage" data-id="168717" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag be"></span> <a href="rider/lorenzo-lapage">LAPAGE Lorenzo</a>  <span class="showIfMobile riderteam">RDM New Systems </span> </div></td><td class="age hide" >30</td><td class="cu600" ><a href="team/rdm-new-systems-1996">RDM New Systems </a></td><td>7</td><td class="time ar" >-</td></tr>
+<tr data-team="4500" data-nation="be"><td>15</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="gert-van-brabant" data-id="175100" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag be"></span> <a href="rider/gert-van-brabant">VAN BRABANT Gert</a>  <span class="showIfMobile riderteam">Vosschemie - Zetelhallen </span> </div></td><td class="age hide" >28</td><td class="cu600" ><a href="team/vosschemie-zetelhallen-1996">Vosschemie - Zetelhallen </a></td><td>6</td><td class="time ar" >-</td></tr>
+<tr data-team="4326" data-nation="se"><td>16</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="magnus-backstedt" data-id="138390" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag se"></span> <a href="rider/magnus-backstedt">BÄCKSTEDT Magnus</a>  <span class="showIfMobile riderteam">Collstrop - Lystex </span> </div></td><td class="age hide" >21</td><td class="cu600" ><a href="team/collstrop-lystex-1996">Collstrop - Lystex </a></td><td>5</td><td class="time ar" >-</td></tr>
+<tr data-team="4266" data-nation="be"><td>17</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="tom-stremersch" data-id="121225" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/tom-stremersch">STREMERSCH Tom</a>  <span class="showIfMobile riderteam">Vlaanderen 2002 - Eddy Merckx </span> </div></td><td class="age hide" >21</td><td class="cu600" ><a href="team/vlaanderen-2002-eddy-merckx-1996">Vlaanderen 2002 - Eddy Merckx </a></td><td>4</td><td class="time ar" >-</td></tr>
+<tr data-team="4478" data-nation="be"><td>18</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="kurt-van-lancker" data-id="114017" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/kurt-van-lancker">VAN LANCKER Kurt</a>  <span class="showIfMobile riderteam">Ipso - Asfra </span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/ipso-asfra-1996">Ipso - Asfra </a></td><td>3</td><td class="time ar" >-</td></tr>
+<tr data-team="4478" data-nation="nl"><td>19</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="johnny-van-cadsand" data-id="182960" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag nl"></span> <a href="rider/johnny-van-cadsand">VAN CADSAND Johnny</a>  <span class="showIfMobile riderteam">Ipso - Asfra </span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/ipso-asfra-1996">Ipso - Asfra </a></td><td>2</td><td class="time ar" >-</td></tr>
+<tr data-team="4495" data-nation="us"><td>20</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="daniel-spott" data-id="212319" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag us"></span> <a href="rider/daniel-spott">SPOTT Daniel</a>  <span class="showIfMobile riderteam">Sit & Sit - FS Maestro </span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/sit-sit-fs-maestro-1996">Sit & Sit - FS Maestro </a></td><td>1</td><td class="time ar" >-</td></tr>
+<tr data-team="4478" data-nation="be"><td>21</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="bart-heirewegh" data-id="133395" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/bart-heirewegh">HEIREWEGH Bart</a>  <span class="showIfMobile riderteam">Ipso - Asfra </span> </div></td><td class="age hide" >28</td><td class="cu600" ><a href="team/ipso-asfra-1996">Ipso - Asfra </a></td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="4478" data-nation="be"><td>22</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="ronny-assez" data-id="114583" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/ronny-assez">ASSEZ Ronny</a>  <span class="showIfMobile riderteam">Ipso - Asfra </span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/ipso-asfra-1996">Ipso - Asfra </a></td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="ru"><td>23</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="dmitry-nelyubin" data-id="212089" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag ru"></span> <a href="rider/dmitry-nelyubin">NELYUBIN Dmitry</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >25</td><td class="cu600" ></td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="4478" data-nation="be"><td>24</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="jeanot-deriemaecker" data-id="212042" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag be"></span> <a href="rider/jeanot-deriemaecker">DERIEMAECKER Jeanot</a>  <span class="showIfMobile riderteam">Ipso - Asfra </span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/ipso-asfra-1996">Ipso - Asfra </a></td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="4500" data-nation="be"><td>25</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="mario-moermans" data-id="176793" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/mario-moermans">MOERMANS Mario</a>  <span class="showIfMobile riderteam">Vosschemie - Zetelhallen </span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/vosschemie-zetelhallen-1996">Vosschemie - Zetelhallen </a></td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="4491" data-nation="be"><td>26</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="johnny-dauwe" data-id="175101" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/johnny-dauwe">DAUWE Johnny</a>  <span class="showIfMobile riderteam">RDM New Systems </span> </div></td><td class="age hide" >30</td><td class="cu600" ><a href="team/rdm-new-systems-1996">RDM New Systems </a></td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="4266" data-nation="be"><td>27</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="franky-de-buyst" data-id="113473" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag be"></span> <a href="rider/franky-de-buyst">DE BUYST Franky</a>  <span class="showIfMobile riderteam">Vlaanderen 2002 - Eddy Merckx </span> </div></td><td class="age hide" >29</td><td class="cu600" ><a href="team/vlaanderen-2002-eddy-merckx-1996">Vlaanderen 2002 - Eddy Merckx </a></td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="1179" data-nation="be"><td>28</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="hendrik-van-dyck" data-id="114221" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/hendrik-van-dyck">VAN DYCK Hendrik</a>  <span class="showIfMobile riderteam">TVM - Farm Frites</span> </div></td><td class="age hide" >22</td><td class="cu600" ><a href="team/tvm-farm-frites-1996">TVM - Farm Frites</a></td><td></td><td class="time ar" >-</td></tr>
+<tr data-team="4539" data-nation="be"><td>29</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="karl-pauwels" data-id="113384" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/karl-pauwels">PAUWELS Karl</a>  <span class="showIfMobile riderteam">Palmans - Boghemans </span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/palmans-boghemans-1996">Palmans - Boghemans </a></td><td></td><td class="time ar" >-</td></tr>
+</tbody></table>
+<div style="color: #bbb; font-size: 10px; text-align: right; ">DNF=Did not finish / DNS=Did not start / OTL = Outside time limit / DF=Did finish, no result / NR=No result<svg viewBox="0 0 24 24" style="width: 14px; margin: 0 0 -4px 3px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#dec650" d="M21 3a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-2.001L19 20a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1l-.001-8.001L3 12a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h6a3 3 0 0 0 6 0h6z"/></g></svg> Rider wearing the jersey<span   style=" margin-left: 10px;"> <svg viewBox="0 0 24 24" style="width: 10px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#f55733" d="M3.783 2.826L12 1l8.217 1.826a1 1 0 0 1 .783.976v9.987a6 6 0 0 1-2.672 4.992L12 23l-6.328-4.219A6 6 0 0 1 3 13.79V3.802a1 1 0 0 1 .783-.976z"/></g></svg>>50% of race distance in group before peloton</span><div class="clear"></div>  </div><div class="more-results-cont"><a class="viewMoreResults" data-n="25"   href="#">View top-25</a><div style="width: 10px; "></div><a class="viewMoreResults" data-n="250"   href="#">View full result</a></div><div class="mob-ad after-result "></div></div><div class="subTabs hide" data-subtab="2"></div></div></div><div class="w30 right mb_w100"><div class=""></div>
+<div class=""><h3>Race information</h3><div class=""></div></div>
+<img class="left maxw100 mg_rp10" src="" /><div class=""><ul class="infolist" style=""><li><div>Date:</div> <div>20 August 1996</div></li>
+<li><div>Start time:</div> <div>-</div></li>
+<li><div>Avg. speed winner:</div> <div>-</div></li>
+<li><div>Race category:</div> <div>ME - Men Elite</div></li>
+<li><div>Distance: </div> <div>166 km</div></li>
+<li><div>Points scale:</div> <div><a    href="info.php?s=point-scales&season=1996&category=1&scale=20">1.1</a></div></li>
+<li><div>UCI scale:</div> <div><a    href="info.php?s=point-scales&season=1996&category=1&pcs_uci&uci&scale=0"></a></div></li>
+<li><div>Parcours type: </div> <div><span class="icon profile p0"></span></div></li>
+<li><div>ProfileScore: </div> <div></div></li>
+<li><div>Vert. meters:</div> <div></div></li>
+<li><div>Departure:</div> <div><a    href="location/zottegem">Zottegem</a></div></li>
+<li><div>Arrival:</div> <div><a    href="location/zottegem">Zottegem</a></div></li>
+<li><div>Race ranking:</div> <div><a    href="race/gp-stad-zottegem/1996/result/overview/race-ranking">0</a></div></li>
+<li><div>Startlist quality score:</div> <div><a    href="race/gp-stad-zottegem/1996/startlist/startlist-quality">43</a></div></li>
+<li><div>Won how: </div> <div><a    href="race/gp-stad-zottegem/1996/result/more/contribute-info">? - let us know!</a></div></li>
+<li><div>Avg. temperature:</div> <div><a    href="race/gp-stad-zottegem/1996/result/stages/hottest-stages"></a></div></li>
+</ul></div>
+<div class=""><ul class="list horizontal"></ul></div>
+<div class="mt10"><h3>Race profile</h3>
+<span class="table-cont"><ul class="list"  style=" "></ul></span></div>
+<div class="mt10"><h3>Sites</h3><ul class="list horizontal sites "><li><span class="icon instagram left"></span><a  target="_blank"   class="" href="https://www.instagram.com/egmontcyclingrace/">instagram</a></li>
+<li><span class="icon twitter left"></span><a  target="_blank"   class="" href="https://twitter.com/egmontcyclingr">twitter</a></li>
+<li><span class="icon facebook left"></span><a  target="_blank"   class="" href="https://www.facebook.com/egmontcyclingrace/">facebook</a></li>
+<li><span class="icon website left"></span><a  target="_blank"   class="" href="https://www.egmontcyclingrace.be/">site</a></li>
+</ul></div>
+<div class="fs11"><div class=""></div></div>
+<div class="desktop-ad race-column-right"></div><div class="mob-ad race-column-right"></div></div><div class="clear"></div>
+</div>
+<div class="desktop-ad below-content race"></div><div class="mob-ad below-content race"></div></div><div style="clear: both; "></div>  
+  </div>
+  </center>
+  <div class="push"></div>
+</div>
+<div class="footer">
+  <div class="sfa"><ul class="ftr-list"><li class="group"><h3>Grand Tours</h3><ul><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">Vuelta a España</a></li>
+</ul><h3>Major Tours</h3><ul><li><a href="race/paris-nice">Paris-Nice</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/volta-a-catalunya">Volta a Catalunya</a></li>
+<li><a href="race/tour-de-romandie">Tour de Romandie</a></li>
+<li><a href="race/tour-de-suisse">Tour de Suisse</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/itzulia-basque-country">Itzulia Basque Country</a></li>
+</ul></li>
+<li class="group"><h3>Monuments</h3><ul><li><a href="race/milano-sanremo">Milano-SanRemo</a></li>
+<li><a href="race/ronde-van-vlaanderen">Ronde van Vlaanderen</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+</ul><h3>Championships</h3><ul><li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/uec-road-european-championships">European championships</a></li>
+</ul></li>
+<li class="group"><h3>Top classics</h3><ul><li><a href="race/omloop-het-nieuwsblad">Omloop Het Nieuwsblad</a></li>
+<li><a href="race/strade-bianche">Strade Bianche</a></li>
+<li><a href="race/e3-harelbeke">E3 Classic</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem</a></li>
+<li><a href="race/dwars-door-vlaanderen">Dwars door vlaanderen</a></li>
+<li><a href="race/eschborn-frankfurt">Eschborn-Frankfurt</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/san-sebastian">San Sebastian</a></li>
+<li><a href="race/bretagne-classic">Bretagne Classic</a></li>
+<li><a href="race/gp-quebec">GP Québec</a></li>
+<li><a href="race/gp-montreal">GP Montréal</a></li>
+</ul></li>
+<li class="group"><h3>Popular riders</h3><ul><li><a href="rider/tadej-pogacar">Tadej Pogačar</a></li>
+<li><a href="rider/wout-van-aert">Wout van Aert</a></li>
+<li><a href="rider/remco-evenepoel">Remco Evenepoel</a></li>
+<li><a href="rider/jonas-vingegaard-rasmussen">Jonas Vingegaard</a></li>
+<li><a href="rider/mathieu-van-der-poel">Mathieu van der Poel</a></li>
+<li><a href="rider/biniam-girmay">Biniam Girmay</a></li>
+<li><a href="rider/peter-sagan">Peter Sagan</a></li>
+<li><a href="rider/annemiek-van-vleuten">Annemiek van Vleuten</a></li>
+<li><a href="rider/elisa-longo-borghini">Elisa Longo Borghini</a></li>
+<li><a href="rider/katarzyna-niewiadoma">Katarzyna Niewiadoma</a></li>
+</ul></li>
+<li class="group"><h3>Statistics</h3><ul><li><a href="statistics/start/points-per-age">Points per age</a></li>
+<li><a href="statistics/start/latest-injuries">Latest injuries</a></li>
+<li><a href="statistics/riders/youngest-riders">Youngest riders</a></li>
+<li><a href="statistics/grandtours">Grand tour statistics</a></li>
+<li><a href="statistics/monuments">Monument classics</a></li>
+<li><a href="teams/transfers">Latest transfers</a></li>
+<li><a href="favorite500">Favorite 500</a></li>
+</ul><h3>Rankings</h3><ul><li><a href="rankings.php">PCS ranking</a></li>
+<li><a href="rankings/me/uci-individual">UCI World Ranking</a></li>
+<li><a href="rankings/me/all-time">Alltime</a></li>
+</ul></li>
+<li class="group"><h3>Info</h3><ul><li><a href="info/point-scales">Points scales</a></li>
+<li><a href="info/profile-score-explained">Profile scores</a></li>
+<li><a href="reset_password.php">Reset password</a></li>
+<li><a href="info/pcs-game">PCS game</a></li>
+<li><a href="info/procyclinggame">ProCyclingGame</a></li>
+</ul><h3>About ProCyclingStats</h3><ul><li><a href="info/about-us">About us</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/cookie-policy">Cookie policy</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/contributions">Contributions</a></li>
+<li><span>Pageload 0.0245s</span></li>
+</ul></li>
+</ul><input type="hidden" id="pageid" value="1190" /><input type="hidden" id="userid" value="0" />
+	</div>
+</div> 
+ 
+ </body></html>
+<script src="search_list7.js"></script>  

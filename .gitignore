@@ -10,7 +10,6 @@ __pycache__/
 .Python
 .idea
 .DS_Store
-data
 data_1
 data_test
 test_data

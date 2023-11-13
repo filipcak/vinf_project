@@ -1,0 +1,304 @@
+<!DOCTYPE HTML><html><head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35889790-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'GA_MEASUREMENT_ID', {
+	  'linker': {
+	    'domains': ['cx.procyclingstats.com','procyclingstats.com']
+	  }
+	});
+
+  gtag('config', 'UA-35889790-1');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2MNJ20S7SJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2MNJ20S7SJ');
+</script>
+<title>African Continental Championships - Road Race 2011 One day race results</title>
+<base href="https://www.procyclingstats.com/race.php" />
+<link rel="canonical" href="https://www.procyclingstats.com/race/african-championships/2011/result" />
+<script>
+    var r89 = r89 || {
+      callAds: [],
+      pushAd: function(id, name, config) { r89.callAds.push([id, name, config]); }
+    };
+</script>
+<script async src="https://tags.refinery89.com/v2/procyclingstats.js"></script><meta name="description" content="Natnael Berhane is the winner of African Continental Championships - Road Race 2011, before Tesfay Abraha Habtemarian and Reinardt Janse van Rensburg. ">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="utf-8"> 
+<meta name="facebook-domain-verification" content="tjwn3jyjupm0t1j8e0sgis3c80x88r" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<base href="race.php" />
+	<link rel="stylesheet" type="text/css" href="https://www.procyclingstats.com/pcs_a190.css" />
+	
+<script src="https://www.procyclingstats.com/pcs_s79.js"></script> 
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css"> 
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.procyclingstats.com/images/pcs-logos/icon3/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-16x16.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon.ico" />
+ 
+</head>
+<body>
+<div class="wrapper">
+  <header class="">
+    <div class="cont">
+    	<a  class="logo" href="index.php"></a>
+  
+    	<form action="search.php" class="msearch"><input type="hidden"  id="term" />
+    		<input type="text" name="term" id="search" data-nav="race/-id-/result" data-nav2="" data-page="race" class="search4"  placeholder="search"  /></form> 
+    	<div class="menuCont">
+      	<a class="mobMenu" href="">Menu&#x25BC;</a>
+				<ul class="nav_v4 default"><li class=" "><a class="reg" href="index.php">Home</a></li>
+<li class="more4 "><a class="reg" href="races.php">Races</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">La Vuelta ciclista a España</a></li>
+<li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/milano-sanremo">Milano-Sanremo</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/paris-nice">Paris - Nice</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/volta-a-catalunya">Volta Ciclista a Catalunya</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/ronde-van-vlaanderen">Tour des Flandres</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem in Flanders Fields</a></li>
+<li><a href="race/san-sebastian">Clásica Ciclista San Sebastián</a></li>
+</ul></li>
+<li class="more4 "><a class="reg" href="teams.php">Teams</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="team/intermarche-circus-wanty-2023">Intermarché - Circus - Wanty </a></li>
+<li><a href="team/ineos-grenadiers-2023">INEOS Grenadiers</a></li>
+<li><a href="team/groupama-fdj-2023">Groupama - FDJ</a></li>
+<li><a href="team/ef-education-easypost-2023">EF Education-EasyPost</a></li>
+<li><a href="team/cofidis-2023">Cofidis </a></li>
+<li><a href="team/bora-hansgrohe-2023">BORA - hansgrohe</a></li>
+<li><a href="team/bahrain-victorious-2023">Bahrain - Victorious</a></li>
+<li><a href="team/astana-qazaqstan-team-2023">Astana Qazaqstan Team</a></li>
+<li><a href="team/team-jumbo-visma-2023">Jumbo-Visma</a></li>
+<li><a href="team/movistar-team-2023">Movistar Team</a></li>
+<li><a href="team/soudal-quick-step-2023">Soudal - Quick Step</a></li>
+<li><a href="team/team-arkea-samsic-2023">Team Arkéa Samsic</a></li>
+<li><a href="team/team-jayco-alula-2023">Team Jayco AlUla</a></li>
+<li><a href="team/team-dsm-2023">Team DSM</a></li>
+<li><a href="team/trek-segafredo-2023">Trek - Segafredo</a></li>
+<li><a href="team/uae-team-emirates-2023">UAE Team Emirates</a></li>
+<li><a href="team/alpecin-deceuninck-2023">Alpecin-Deceuninck</a></li>
+<li><a href="team/ag2r-citroen-team-2023">AG2R Citroën Team</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="rankings.php">Rankings</a></li>
+<li class="more4 "><a class="reg" href="statistics.php">Statistics</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="statistics">Overview</a></li>
+<li><a href="statistics/riders">Riders</a></li>
+<li><a href="statistics/teams">Teams</a></li>
+<li><a href="statistics/grandtours">Grand tours</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="game.php">Game</a></li>
+<li class="more4 "><a class="reg" href="riders.php">More</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="riders">Riders</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/countdown-to-1-billion-pageviews">Countdown to 2 billion pageviews</a></li>
+<li><a href="favorite500.php">Favorite500</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/about-us">About us</a></li>
+<li><a href="info/profile-score-explained">Profile Score</a></li>
+<li><a href="info/tutorials">Tutorials</a></li>
+</ul></li>
+<li class="more4 pro"><a class="reg" href="premium.php">Pro</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="">Dashboard</a></li>
+<li><a href="">Lists</a></li>
+</ul></li>
+ 
+				 </ul> 
+			 </div>
+			 <a class="user4" data-logged="0" href="account.php"><span>&#10070;</span><font class="hideIfMobile">login</font></a><a class="settings4 " href="settings.php"><span>&#10033;</span><font>settings</font></a>    </div>
+  </header>  
+<div class="content   "> <div class="page-topnav "><div class="pageDDnavCont"><div class="pageSelectNav " ><a   href="race/african-championships/2010/result" >2010</a><div ><form style="  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/african-championships/2023/result" >2023</option><option value="race/african-championships/2022/result" >2022</option><option value="race/african-championships/2021/result" >2021</option><option value="race/african-championships/2019/result" >2019</option><option value="race/african-championships/2018/result" >2018</option><option value="race/african-championships/2017/result" >2017</option><option value="race/african-championships/2016/result" >2016</option><option value="race/african-championships/2015/result" >2015</option><option value="race/african-championships/2013/result" >2013</option><option value="race/african-championships/2012/result" >2012</option><option value="race/african-championships/2011/result" selected>2011</option><option value="race/african-championships/2010/result" >2010</option><option value="race/african-championships/2009/result" >2009</option><option value="race/african-championships/2008/result" >2008</option><option value="race/african-championships/2007/result" >2007</option><option value="race/african-championships/2006/result" >2006</option><option value="race/african-championships/2005/result" >2005</option><option value="race/african-championships/2001/result" >2001</option></select></form></div><a  href="race/african-championships/2012/result" >2012</a></div></div><ul class="pagenavLinks"><li class="reg "><a class="cur" href="race/african-championships/2011/result">Results</a></li>
+<li class="reg "><a style=" " href="race/african-championships/2011/startlist">Startlist</a><ul><li><a href="race/african-championships/2011/startlist">Startlist</a></li><li><a href="race/african-championships/results">Race palmares</a></li></ul></li><li class="reg "><a class="" href="race/african-championships/2011/result/info">Info&#x25BC;</a><ul><li><a href="race/african-championships/2011/result/info/complementary-results">Complementary results</a></li>
+<li><a href="race/african-championships/2011/result/info/photos">Finish photo</a></li>
+<li><a href="race/african-championships/2011/result/info/profiles">Profiles</a></li>
+<li><a href="race/african-championships/2011/result/info/time-table">Time table</a></li>
+</ul></li>
+<li class="reg "><a class="" href="race/african-championships/2011/result/live">Live</a></li>
+<li class="reg "><a class="" href="race/african-championships/2011/result/game">Game</a></li>
+<li class="reg "><a class="" href="race/african-championships/2011/result/statistics">Stats</a></li>
+<li class="reg "><a class="" href="race/african-championships/2011/result/more">More&#x25BC;</a><ul><li><a href="race/african-championships/2011/result/more/report">Report</a></li>
+<li><a href="race/african-championships/2011/result/more/embed-results">Embed</a></li>
+<li><a href="race/african-championships/2011/result/more/contribute-info">Contribute info</a></li>
+<li><a href="race/african-championships/2011/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li>
+<li class="more"><a href="race/african-championships/2011/result">More</a><ul><li data-n="1"><a href="race/african-championships/2011/result/result/result">Results - Results</a></li><li data-n="2"><a href="race/african-championships/2011/result/info/info">Info - Info</a></li><li data-n="1"><a href="race/african-championships/2011/result/info/complementary-results">Complementary results</a></li>
+<li data-n="1"><a href="race/african-championships/2011/result/info/photos">Finish photo</a></li>
+<li data-n="1"><a href="race/african-championships/2011/result/info/profiles">Profiles</a></li>
+<li data-n="1"><a href="race/african-championships/2011/result/info/time-table">Time table</a></li>
+<li data-n="3"><a href="race/african-championships/2011/result/live/live">Live - Live</a></li><li data-n="4"><a href="race/african-championships/2011/result/game/game">Game - Game</a></li><li data-n="5"><a href="race/african-championships/2011/result/statistics/statistics">Stats - Stats</a></li><li data-n="6"><a href="race/african-championships/2011/result/more/more">More - More</a></li><li data-n="5"><a href="race/african-championships/2011/result/more/report">Report</a></li>
+<li data-n="5"><a href="race/african-championships/2011/result/more/embed-results">Embed</a></li>
+<li data-n="5"><a href="race/african-championships/2011/result/more/contribute-info">Contribute info</a></li>
+<li data-n="5"><a href="race/african-championships/2011/result/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li></ul><div class="clear"></div></div><ul class="thumbnails" ><li><a href="race/african-championships">African Continental Championships ME - Road Race</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/african-championships/2011">2011</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/african-championships/2011/result">One day race</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/african-championships/2011/result/result">Results</a></li></ul><div class="page-title " ><div class="main"><span class="flag er w32"></span><span class="flag er w24"></span><span class="hideIfMobile">2011</span><span class="hideIfMobile">&raquo;</span><h1 class="">African Continental Championships - Road Race</h1><font class="hideIfMobile">(CC)</font></div><div class="sub"><span class="showIfMobile">2011</span><span class="showIfMobile">&raquo;</span><span class="blue">One day race</span><span class="hideIfMobile">&raquo;</span><span class="red">Asmara</span><span class="red">&rsaquo;</span><span class="red">Asmara</span><span class="red fw400">(146.3km)</span></div></div><div class="clear"></div><div class="desktop-ad leaderbord race"></div><div class="mob-ad leaderbord race"></div><div class="top-cont"></div><div class="top-cont-mobile top-cont-mobile-race"></div><div class="page-content page-object default " data-no_menu="1" ><h2></h2><div class="w100 "   >
+<div class="w68 left mb_w100"><div class="result-filter-cont"><label for="age"><input type="checkbox" class="toggleAge" value="1" id="age">Age</label><label for="bibs"><input type="checkbox" class="toggleBibs" value="1" id="bibs">BIBs</label><label for="h2h"><input type="checkbox" class="toggleH2H cbFalseOnLoad" value="1" id="h2h" >H2H</label><span class="hideIfMobile"><label for="specialty"><input type="checkbox" class="toggleSpecialty " value="1" id="specialty">Specialty</label></span><a class="clearFilter blue hide" style="padding: 0px 7px; " href="">clear filter</a><select class="TNFilter" data-type="team"><option value="0"  >-</option></select><select class="TNFilter" data-type="nation"><option value="0"  >all nations</option><option value="dz"  >Algeria</option><option value="eg"  >Egypt</option><option value="er"  >Eritrea</option><option value="ga"  >Gabon</option><option value="ci"  >Ivory Coast</option><option value="ma"  >Morocco</option><option value="na"  >Namibia</option><option value="rw"  >Rwanda</option><option value="sc"  >Seychelles</option><option value="za"  >South Africa</option><option value="tz"  >Tanzania</option><option value="ug"  >Uganda</option><option value="zw"  >Zimbabwe</option></select></div><div class="hide timeWonLostComment" style="text-align: right; color: #555; font-size: 10px; ">The time won/lost column displays the gains in time in the GC. Click on the time of any rider to view the relative gains on this rider.</div><div class="h2h hide " style="font-size: 11px; color: #555;   ">Select two riders to compare. </div><div class="result-cont " data-id="111641">
+<div class="subTabs" data-subtab="1"><table class="results basic moblist10"><thead><tr><th>Rnk</th><th class="bibs hide" >BIB</th><th class="h2h hide" >H2H</th><th class="specialty hide" >Specialty</th><th>Rider</th><th class="age hide" >Age</th><th class="cu600" >Team</th><th>Pnt</th><th class="time ar" >Time</th></tr></thead><tbody>
+<tr data-team="0" data-nation="er"><td>1</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="natnael-berhane" data-id="136352" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag er"></span> <a href="rider/natnael-berhane">BERHANE Natnael</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td>100</td><td class="time ar" >3:17:12</td></tr>
+<tr data-team="0" data-nation="er"><td>2</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="tesfay-abraha-habtemarian" data-id="136290" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag er"></span> <a href="rider/tesfay-abraha-habtemarian">ABRAHA HABTEMARIAN Tesfay</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >21</td><td class="cu600" ></td><td>70</td><td class="time ar" ><span>,,</span><div class="hide">0:00</div></td></tr>
+<tr data-team="1293" data-nation="za"><td>3</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="reinardt-janse-van-rensburg" data-id="136269" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag za"></span> <a href="rider/reinardt-janse-van-rensburg">JANSE VAN RENSBURG Reinardt</a>  <span class="showIfMobile riderteam">Team MTN Qhubeka</span> </div></td><td class="age hide" >22</td><td class="cu600" ><a href="team/team-mtn-qhubeka-2011">Team MTN Qhubeka</a></td><td>40</td><td class="time ar" ><span>,,</span><div class="hide">0:00</div></td></tr>
+<tr data-team="1445" data-nation="dz"><td>4</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="abdelbaset-hannachi" data-id="136277" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag dz"></span> <a href="rider/abdelbaset-hannachi">HANNACHI Abdelbaset</a>  <span class="showIfMobile riderteam">Test Team Raiko - Argon 18</span> </div></td><td class="age hide" >26</td><td class="cu600" ><a href="team/test-team-raiko-argon-18-2011">Test Team Raiko - Argon 18</a></td><td>30</td><td class="time ar" ><span>,,</span><div class="hide">0:00</div></td></tr>
+<tr data-team="1209" data-nation="dz"><td>5</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="youcef-reguigui" data-id="136289" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag dz"></span> <a href="rider/youcef-reguigui">REGUIGUI Youcef</a>  <span class="showIfMobile riderteam">Groupement Sportif Petrolier Algerie</span> </div></td><td class="age hide" >21</td><td class="cu600" ><a href="team/groupement-sportif-petrolier-algerie-2011">Groupement Sportif Petrolier Algerie</a></td><td>25</td><td class="time ar" ><span>,,</span><div class="hide">0:00</div></td></tr>
+<tr data-team="0" data-nation="er"><td>6</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="meron-russom" data-id="139515" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag er"></span> <a href="rider/meron-russom">RUSSOM Meron</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >24</td><td class="cu600" ></td><td>20</td><td class="time ar" ><span>,,</span><div class="hide">0:00</div></td></tr>
+<tr data-team="1209" data-nation="dz"><td>7</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="abdellah-ben-youcef" data-id="136294" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag dz"></span> <a href="rider/abdellah-ben-youcef">BENYOUCEF Abdallah</a>  <span class="showIfMobile riderteam">Groupement Sportif Petrolier Algerie</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/groupement-sportif-petrolier-algerie-2011">Groupement Sportif Petrolier Algerie</a></td><td>15</td><td class="time ar" ><span>,,</span><div class="hide">0:00</div></td></tr>
+<tr data-team="0" data-nation="ma"><td>8</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="mouhssine-lahsaini" data-id="140850" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag ma"></span> <a href="rider/mouhssine-lahsaini">LAHSAINI Mouhssine</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >26</td><td class="cu600" ></td><td>10</td><td class="time ar" ><span>,,</span><div class="hide">0:00</div></td></tr>
+<tr data-team="0" data-nation="ma"><td>9</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="adil-jelloul" data-id="140760" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag ma"></span> <a href="rider/adil-jelloul">JELLOUL Adil</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >29</td><td class="cu600" ></td><td>9</td><td class="time ar" ><span>,,</span><div class="hide">0:00</div></td></tr>
+<tr data-team="0" data-nation="eg"><td>10</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="add-alla-mohamed-mohamed-sherif" data-id="136251" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag eg"></span> <a href="rider/add-alla-mohamed-mohamed-sherif">SHERIF Add Alla Mohamed Mohamed</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >24</td><td class="cu600" ></td><td>8</td><td class="time ar" ><span>,,</span><div class="hide">0:00</div></td></tr>
+<tr data-team="0" data-nation="ma"><td>11</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="reda-aadel" data-id="138047" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag ma"></span> <a href="rider/reda-aadel">AADEL Reda</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >21</td><td class="cu600" ></td><td>7</td><td class="time ar" ><span>,,</span><div class="hide">0:00</div></td></tr>
+<tr data-team="0" data-nation="er"><td>12</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="jani-tewelde" data-id="139518" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag er"></span> <a href="rider/jani-tewelde">TEWELDE Jani</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >21</td><td class="cu600" ></td><td>6</td><td class="time ar" ><span>,,</span><div class="hide">0:00</div></td></tr>
+<tr data-team="0" data-nation="er"><td>13</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="daniel-teklehaimanot" data-id="140812" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag er"></span> <a href="rider/daniel-teklehaimanot">TEKLEHAIMANOT Daniel</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >23</td><td class="cu600" ></td><td>5</td><td class="time ar" ><span>,,</span><div class="hide">0:00</div></td></tr>
+<tr data-team="1209" data-nation="dz"><td>14</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="azzedine-lagab" data-id="140825" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag dz"></span> <a href="rider/azzedine-lagab">LAGAB Azzedine</a>  <span class="showIfMobile riderteam">Groupement Sportif Petrolier Algerie</span> </div></td><td class="age hide" >25</td><td class="cu600" ><a href="team/groupement-sportif-petrolier-algerie-2011">Groupement Sportif Petrolier Algerie</a></td><td>4</td><td class="time ar" ><span>,,</span><div class="hide">0:00</div></td></tr>
+<tr data-team="1490" data-nation="za"><td>15</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="jaco-venter" data-id="136280" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag za"></span> <a href="rider/jaco-venter">VENTER Jaco</a>  <span class="showIfMobile riderteam">Veranda's Willems - Accent</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/veranda-s-willems-accent-2011">Veranda's Willems - Accent</a></td><td>3</td><td class="time ar" ><span>0:04</span><div class="hide">0:04</div></td></tr>
+<tr data-team="1293" data-nation="rw"><td>16</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="adrien-niyonshuti" data-id="139506" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag rw"></span> <a href="rider/adrien-niyonshuti">NIYONSHUTI Adrien</a>  <span class="showIfMobile riderteam">Team MTN Qhubeka</span> </div></td><td class="age hide" >24</td><td class="cu600" ><a href="team/team-mtn-qhubeka-2011">Team MTN Qhubeka</a></td><td></td><td class="time ar" ><span>0:06</span><div class="hide">0:06</div></td></tr>
+<tr data-team="0" data-nation="dz"><td>17</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="abderrahman-bourezza" data-id="167340" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag dz"></span> <a href="rider/abderrahman-bourezza">BOUREZZA Abderrahman</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >26</td><td class="cu600" ></td><td></td><td class="time ar" ><span>0:17</span><div class="hide">0:17</div></td></tr>
+<tr data-team="0" data-nation="eg"><td>18</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="amr-mahmoud-ahmed-mohamed" data-id="136355" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag eg"></span> <a href="rider/amr-mahmoud-ahmed-mohamed">MOHAMED Amr Mahmoud Ahmed</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >25</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">0:17</div></td></tr>
+<tr data-team="0" data-nation="dz"><td>19</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="djelloul-med-reda-benoua" data-id="167858" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag dz"></span> <a href="rider/djelloul-med-reda-benoua">BENOUA Djelloul Med Reda</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >19</td><td class="cu600" ></td><td></td><td class="time ar" ><span>1:04</span><div class="hide">1:04</div></td></tr>
+<tr data-team="1293" data-nation="na"><td>20</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="lotto-petrus" data-id="136430" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag na"></span> <a href="rider/lotto-petrus">PETRUS Lotto</a>  <span class="showIfMobile riderteam">Team MTN Qhubeka</span> </div></td><td class="age hide" >23</td><td class="cu600" ><a href="team/team-mtn-qhubeka-2011">Team MTN Qhubeka</a></td><td></td><td class="time ar" ><span>2:26</span><div class="hide">2:26</div></td></tr>
+<tr data-team="0" data-nation="za"><td>21</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="herman-fouche" data-id="139918" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag za"></span> <a href="rider/herman-fouche">FOUCHÉ Herman</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >24</td><td class="cu600" ></td><td></td><td class="time ar" ><span>2:35</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="er"><td>22</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="yonatan-mesfn" data-id="136361" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag er"></span> <a href="rider/yonatan-mesfn">MESFN Yonatan</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="za"><td>23</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="louis-meintjes" data-id="136334" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_purple"></div><span class="fs10 clr999">Climber</span></td><td><div><span class="flag za"></span> <a href="rider/louis-meintjes">MEINTJES Louis</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >19</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="er"><td>24</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="dawit-araya-haile" data-id="136354" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag er"></span> <a href="rider/dawit-araya-haile">HAILE Dawit Araya</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >24</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="tz"><td>25</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="hamisi-mkoma" data-id="166933" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag tz"></span> <a href="rider/hamisi-mkoma">MKOMA Hamisi</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >26</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="eg"><td>26</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="osama-asran" data-id="136375" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag eg"></span> <a href="rider/osama-asran">ASRAN Osama</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >23</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="rw"><td>27</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="joseph-biziyaremye" data-id="136473" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag rw"></span> <a href="rider/joseph-biziyaremye">BIZIYAREMYE Joseph</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >23</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="rw"><td>28</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="nicodem-habiyambere" data-id="136450" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag rw"></span> <a href="rider/nicodem-habiyambere">HABIYAMBERE Nicodem</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >24</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="rw"><td>29</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="gasore-hategeka" data-id="136460" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag rw"></span> <a href="rider/gasore-hategeka">HATEGEKA Gasore</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >24</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="er"><td>30</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="frekalsi-debesay" data-id="136317" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag er"></span> <a href="rider/frekalsi-debesay">DEBESAY Frekalsi</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >25</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="ma"><td>31</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="tarik-chaoufi" data-id="138001" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag ma"></span> <a href="rider/tarik-chaoufi">CHAOUFI Tarik</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >25</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="ma"><td>32</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="abdelati-saadoune" data-id="138028" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag ma"></span> <a href="rider/abdelati-saadoune">SAADOUNE Abdelati</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >35</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="zw"><td>33</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="brian-zengeni" data-id="136288" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag zw"></span> <a href="rider/brian-zengeni">ZENGENI Brian</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >26</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="eg"><td>34</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="ahmed-alaa" data-id="167335" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag eg"></span> <a href="rider/ahmed-alaa">AALAA Ahmed</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >19</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="dz"><td>35</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="faycal-hamza" data-id="136380" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag dz"></span> <a href="rider/faycal-hamza">HAMZA Fayçal</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >19</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="rw"><td>36</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="nathan-byukusenge" data-id="136441" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_purple"></div><span class="fs10 clr999">Climber</span></td><td><div><span class="flag rw"></span> <a href="rider/nathan-byukusenge">BYUKUSENGE Nathan</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >31</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="ma"><td>37</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="ismail-ayoune" data-id="137981" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag ma"></span> <a href="rider/ismail-ayoune">AYOUNE Ismail</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >24</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="ci"><td>38</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="issiaka-fofana" data-id="136276" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag ci"></span> <a href="rider/issiaka-fofana">FOFANA Issiaka</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >29</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="sc"><td>39</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="chris-germain" data-id="136371" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag sc"></span> <a href="rider/chris-germain">GERMAIN Chris</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:35</div></td></tr>
+<tr data-team="0" data-nation="zw"><td>40</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="bright-chapongo" data-id="136348" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag zw"></span> <a href="rider/bright-chapongo">CHAPONGO Bright</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >24</td><td class="cu600" ></td><td></td><td class="time ar" ><span>2:40</span><div class="hide">2:40</div></td></tr>
+<tr data-team="0" data-nation="eg"><td>41</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="amr-mahmoud-ahmed-mohamed" data-id="136355" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag eg"></span> <a href="rider/amr-mahmoud-ahmed-mohamed">MOHAMED Amr Mahmoud Ahmed</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >25</td><td class="cu600" ></td><td></td><td class="time ar" ><span>,,</span><div class="hide">2:40</div></td></tr>
+<tr data-team="0" data-nation="tz"><td>42</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="richard-laizer" data-id="166951" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag tz"></span> <a href="rider/richard-laizer">LAIZER Richard</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >22</td><td class="cu600" ></td><td></td><td class="time ar" ><span>2:43</span><div class="hide">2:43</div></td></tr>
+<tr data-team="0" data-nation="ma"><td>43</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="mohammed-said-el-ammoury" data-id="226463" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag ma"></span> <a href="rider/mohammed-said-el-ammoury">EL AMMOURY Mohammed Said</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >34</td><td class="cu600" ></td><td></td><td class="time ar" ><span>2:48</span><div class="hide">2:48</div></td></tr>
+<tr data-team="0" data-nation="tz"><td>44</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="john-kitivei" data-id="166932" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag tz"></span> <a href="rider/john-kitivei">KITIVEI John</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >28</td><td class="cu600" ></td><td></td><td class="time ar" ><span>7:23</span><div class="hide">7:23</div></td></tr>
+<tr data-team="0" data-nation="ga"><td>45</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="gael-eyeghe-nzoughe" data-id="136275" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag ga"></span> <a href="rider/gael-eyeghe-nzoughe">NZOUGHE Gaël Eyeghe</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >24</td><td class="cu600" ></td><td></td><td class="time ar" ><span>7:46</span><div class="hide">7:46</div></td></tr>
+<tr data-team="0" data-nation="ci"><td>46</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="bolodigui-ouattara" data-id="136274" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag ci"></span> <a href="rider/bolodigui-ouattara">OUATTARA Bolodigui</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >31</td><td class="cu600" ></td><td></td><td class="time ar" ><span>7:48</span><div class="hide">7:48</div></td></tr>
+<tr data-team="0" data-nation="ug"><td>47</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="leone-matovu" data-id="136350" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag ug"></span> <a href="rider/leone-matovu">MATOVU Leone</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >24</td><td class="cu600" ></td><td></td><td class="time ar" ><span>8:36</span><div class="hide">8:36</div></td></tr>
+<tr data-team="0" data-nation="ma"><td>48</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="soufiane-haddi" data-id="140840" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag ma"></span> <a href="rider/soufiane-haddi">HADDI Soufiane</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td></td><td class="time ar" ><span>8:41</span><div class="hide">8:41</div></td></tr>
+<tr data-team="0" data-nation="sc"><td>49</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="edward-pothin" data-id="136372" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_blue"></div><span class="fs10 clr999">TT</span></td><td><div><span class="flag sc"></span> <a href="rider/edward-pothin">POTHIN Edward</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >21</td><td class="cu600" ></td><td></td><td class="time ar" ><span>12:09</span><div class="hide">12:09</div></td></tr>
+<tr data-team="0" data-nation="eg"><td>50</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="ali-alsayed-ali" data-id="136365" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_green"></div><span class="fs10 clr999">Classic</span></td><td><div><span class="flag eg"></span> <a href="rider/ali-alsayed-ali">ALSAYED ALI Ali</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >21</td><td class="cu600" ></td><td></td><td class="time ar" ><span>12:48</span><div class="hide">12:48</div></td></tr>
+</tbody></table>
+<div style="color: #bbb; font-size: 10px; text-align: right; ">DNF=Did not finish / DNS=Did not start / OTL = Outside time limit / DF=Did finish, no result / NR=No result<svg viewBox="0 0 24 24" style="width: 14px; margin: 0 0 -4px 3px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#dec650" d="M21 3a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-2.001L19 20a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1l-.001-8.001L3 12a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h6a3 3 0 0 0 6 0h6z"/></g></svg> Rider wearing the jersey<span   style=" margin-left: 10px;"> <svg viewBox="0 0 24 24" style="width: 10px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#f55733" d="M3.783 2.826L12 1l8.217 1.826a1 1 0 0 1 .783.976v9.987a6 6 0 0 1-2.672 4.992L12 23l-6.328-4.219A6 6 0 0 1 3 13.79V3.802a1 1 0 0 1 .783-.976z"/></g></svg>>50% of race distance in group before peloton</span><div class="clear"></div>  </div><div class="more-results-cont"><a class="viewMoreResults" data-n="25"   href="#">View top-25</a><div style="width: 10px; "></div><a class="viewMoreResults" data-n="250"   href="#">View full result</a></div><div class="mob-ad after-result "></div></div><div class="subTabs hide" data-subtab="2"></div></div></div><div class="w30 right mb_w100"><div class=""></div>
+<div class=""><h3>Race information</h3><div class=""></div></div>
+<img class="left maxw100 mg_rp10" src="" /><div class=""><ul class="infolist" style=""><li><div>Date:</div> <div>13 November 2011</div></li>
+<li><div>Start time:</div> <div>-</div></li>
+<li><div>Avg. speed winner:</div> <div>44.51 km/h</div></li>
+<li><div>Race category:</div> <div>ME - Men Elite</div></li>
+<li><div>Distance: </div> <div>146.3 km</div></li>
+<li><div>Points scale:</div> <div><a    href="info.php?s=point-scales&season=2011&category=1&scale=87">UCI.Cont.Ch</a></div></li>
+<li><div>UCI scale:</div> <div><a    href="info.php?s=point-scales&season=2011&category=1&pcs_uci&uci&scale=0"></a></div></li>
+<li><div>Parcours type: </div> <div><span class="icon profile p0"></span></div></li>
+<li><div>ProfileScore: </div> <div></div></li>
+<li><div>Vert. meters:</div> <div></div></li>
+<li><div>Departure:</div> <div><a    href="location/asmara">Asmara</a></div></li>
+<li><div>Arrival:</div> <div><a    href="location/asmara">Asmara</a></div></li>
+<li><div>Race ranking:</div> <div><a    href="race/african-championships/2011/result/overview/race-ranking">0</a></div></li>
+<li><div>Startlist quality score:</div> <div><a    href="race/african-championships/2011/startlist/startlist-quality">19</a></div></li>
+<li><div>Won how: </div> <div><a    href="race/african-championships/2011/result/more/contribute-info">? - let us know!</a></div></li>
+<li><div>Avg. temperature:</div> <div><a    href="race/african-championships/2011/result/stages/hottest-stages"></a></div></li>
+</ul></div>
+<div class=""><ul class="list horizontal"></ul></div>
+<div class="mt10"><h3>Race profile</h3>
+<span class="table-cont"><ul class="list"  style=" "></ul></span></div>
+<div class="mt10"><h3>Sites</h3><ul class="list horizontal sites "></ul></div>
+<div class="fs11"><div class=""></div></div>
+<div class="desktop-ad race-column-right"></div><div class="mob-ad race-column-right"></div></div><div class="clear"></div>
+</div>
+<div class="desktop-ad below-content race"></div><div class="mob-ad below-content race"></div></div><div style="clear: both; "></div>  
+  </div>
+  </center>
+  <div class="push"></div>
+</div>
+<div class="footer">
+  <div class="sfa"><ul class="ftr-list"><li class="group"><h3>Grand Tours</h3><ul><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">Vuelta a España</a></li>
+</ul><h3>Major Tours</h3><ul><li><a href="race/paris-nice">Paris-Nice</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/volta-a-catalunya">Volta a Catalunya</a></li>
+<li><a href="race/tour-de-romandie">Tour de Romandie</a></li>
+<li><a href="race/tour-de-suisse">Tour de Suisse</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/itzulia-basque-country">Itzulia Basque Country</a></li>
+</ul></li>
+<li class="group"><h3>Monuments</h3><ul><li><a href="race/milano-sanremo">Milano-SanRemo</a></li>
+<li><a href="race/ronde-van-vlaanderen">Ronde van Vlaanderen</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+</ul><h3>Championships</h3><ul><li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/uec-road-european-championships">European championships</a></li>
+</ul></li>
+<li class="group"><h3>Top classics</h3><ul><li><a href="race/omloop-het-nieuwsblad">Omloop Het Nieuwsblad</a></li>
+<li><a href="race/strade-bianche">Strade Bianche</a></li>
+<li><a href="race/e3-harelbeke">E3 Classic</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem</a></li>
+<li><a href="race/dwars-door-vlaanderen">Dwars door vlaanderen</a></li>
+<li><a href="race/eschborn-frankfurt">Eschborn-Frankfurt</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/san-sebastian">San Sebastian</a></li>
+<li><a href="race/bretagne-classic">Bretagne Classic</a></li>
+<li><a href="race/gp-quebec">GP Québec</a></li>
+<li><a href="race/gp-montreal">GP Montréal</a></li>
+</ul></li>
+<li class="group"><h3>Popular riders</h3><ul><li><a href="rider/tadej-pogacar">Tadej Pogačar</a></li>
+<li><a href="rider/wout-van-aert">Wout van Aert</a></li>
+<li><a href="rider/remco-evenepoel">Remco Evenepoel</a></li>
+<li><a href="rider/jonas-vingegaard-rasmussen">Jonas Vingegaard</a></li>
+<li><a href="rider/mathieu-van-der-poel">Mathieu van der Poel</a></li>
+<li><a href="rider/biniam-girmay">Biniam Girmay</a></li>
+<li><a href="rider/peter-sagan">Peter Sagan</a></li>
+<li><a href="rider/annemiek-van-vleuten">Annemiek van Vleuten</a></li>
+<li><a href="rider/elisa-longo-borghini">Elisa Longo Borghini</a></li>
+<li><a href="rider/katarzyna-niewiadoma">Katarzyna Niewiadoma</a></li>
+</ul></li>
+<li class="group"><h3>Statistics</h3><ul><li><a href="statistics/start/points-per-age">Points per age</a></li>
+<li><a href="statistics/start/latest-injuries">Latest injuries</a></li>
+<li><a href="statistics/riders/youngest-riders">Youngest riders</a></li>
+<li><a href="statistics/grandtours">Grand tour statistics</a></li>
+<li><a href="statistics/monuments">Monument classics</a></li>
+<li><a href="teams/transfers">Latest transfers</a></li>
+<li><a href="favorite500">Favorite 500</a></li>
+</ul><h3>Rankings</h3><ul><li><a href="rankings.php">PCS ranking</a></li>
+<li><a href="rankings/me/uci-individual">UCI World Ranking</a></li>
+<li><a href="rankings/me/all-time">Alltime</a></li>
+</ul></li>
+<li class="group"><h3>Info</h3><ul><li><a href="info/point-scales">Points scales</a></li>
+<li><a href="info/profile-score-explained">Profile scores</a></li>
+<li><a href="reset_password.php">Reset password</a></li>
+<li><a href="info/pcs-game">PCS game</a></li>
+<li><a href="info/procyclinggame">ProCyclingGame</a></li>
+</ul><h3>About ProCyclingStats</h3><ul><li><a href="info/about-us">About us</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/cookie-policy">Cookie policy</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/contributions">Contributions</a></li>
+<li><span>Pageload 0.0243s</span></li>
+</ul></li>
+</ul><input type="hidden" id="pageid" value="1190" /><input type="hidden" id="userid" value="0" />
+	</div>
+</div> 
+ 
+ </body></html>
+<script src="search_list7.js"></script>  

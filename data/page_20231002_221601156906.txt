@@ -1,0 +1,297 @@
+<!DOCTYPE HTML><html><head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35889790-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'GA_MEASUREMENT_ID', {
+	  'linker': {
+	    'domains': ['cx.procyclingstats.com','procyclingstats.com']
+	  }
+	});
+
+  gtag('config', 'UA-35889790-1');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2MNJ20S7SJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2MNJ20S7SJ');
+</script>
+<title>Vuelta a España 1936 Stage 8 results</title>
+<base href="https://www.procyclingstats.com/race.php" />
+<link rel="canonical" href="https://www.procyclingstats.com/race/vuelta-a-espana/1936/stage-8" />
+<script>
+    var r89 = r89 || {
+      callAds: [],
+      pushAd: function(id, name, config) { r89.callAds.push([id, name, config]); }
+    };
+</script>
+<script async src="https://tags.refinery89.com/v2/procyclingstats.js"></script><meta name="description" content="Antonio Bertola is the winner of Vuelta a España 1936 Stage 8, before Vicente Carretero and Mariano Cañardo. Gustaaf Deloor was leader in GC. ">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="utf-8"> 
+<meta name="facebook-domain-verification" content="tjwn3jyjupm0t1j8e0sgis3c80x88r" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<base href="race.php" />
+	<link rel="stylesheet" type="text/css" href="https://www.procyclingstats.com/pcs_a189.css" />
+	
+<script src="https://www.procyclingstats.com/pcs_s78.js"></script> 
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css"> 
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.procyclingstats.com/images/pcs-logos/icon3/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-16x16.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon.ico" />
+ 
+</head>
+<body>
+<div class="wrapper">
+  <header class="">
+    <div class="cont">
+    	<a  class="logo" href="index.php"></a>
+  
+    	<form action="search.php" class="msearch"><input type="hidden"  id="term" />
+    		<input type="text" name="term" id="search" data-nav="race/-id-/result" data-nav2="" data-page="race" class="search4"  placeholder="search"  /></form> 
+    	<div class="menuCont">
+      	<a class="mobMenu" href="">Menu&#x25BC;</a>
+				<ul class="nav_v4 default"><li class=" "><a class="reg" href="index.php">Home</a></li>
+<li class="more4 "><a class="reg" href="races.php">Races</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">La Vuelta ciclista a España</a></li>
+<li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/milano-sanremo">Milano-Sanremo</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/paris-nice">Paris - Nice</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/volta-a-catalunya">Volta Ciclista a Catalunya</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/ronde-van-vlaanderen">Tour des Flandres</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem in Flanders Fields</a></li>
+<li><a href="race/san-sebastian">Clásica Ciclista San Sebastián</a></li>
+</ul></li>
+<li class="more4 "><a class="reg" href="teams.php">Teams</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="team/intermarche-circus-wanty-2023">Intermarché - Circus - Wanty </a></li>
+<li><a href="team/ineos-grenadiers-2023">INEOS Grenadiers</a></li>
+<li><a href="team/groupama-fdj-2023">Groupama - FDJ</a></li>
+<li><a href="team/ef-education-easypost-2023">EF Education-EasyPost</a></li>
+<li><a href="team/cofidis-2023">Cofidis </a></li>
+<li><a href="team/bora-hansgrohe-2023">BORA - hansgrohe</a></li>
+<li><a href="team/bahrain-victorious-2023">Bahrain - Victorious</a></li>
+<li><a href="team/astana-qazaqstan-team-2023">Astana Qazaqstan Team</a></li>
+<li><a href="team/team-jumbo-visma-2023">Jumbo-Visma</a></li>
+<li><a href="team/movistar-team-2023">Movistar Team</a></li>
+<li><a href="team/soudal-quick-step-2023">Soudal - Quick Step</a></li>
+<li><a href="team/team-arkea-samsic-2023">Team Arkéa Samsic</a></li>
+<li><a href="team/team-jayco-alula-2023">Team Jayco AlUla</a></li>
+<li><a href="team/team-dsm-2023">Team DSM</a></li>
+<li><a href="team/trek-segafredo-2023">Trek - Segafredo</a></li>
+<li><a href="team/uae-team-emirates-2023">UAE Team Emirates</a></li>
+<li><a href="team/alpecin-deceuninck-2023">Alpecin-Deceuninck</a></li>
+<li><a href="team/ag2r-citroen-team-2023">AG2R Citroën Team</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="rankings.php">Rankings</a></li>
+<li class="more4 "><a class="reg" href="statistics.php">Statistics</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="statistics">Overview</a></li>
+<li><a href="statistics/riders">Riders</a></li>
+<li><a href="statistics/teams">Teams</a></li>
+<li><a href="statistics/grandtours">Grand tours</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="game.php">Game</a></li>
+<li class="more4 "><a class="reg" href="riders.php">More</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="riders">Riders</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/countdown-to-1-billion-pageviews">Countdown to 2 billion pageviews</a></li>
+<li><a href="favorite500.php">Favorite500</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/about-us">About us</a></li>
+<li><a href="info/profile-score-explained">Profile Score</a></li>
+<li><a href="info/tutorials">Tutorials</a></li>
+</ul></li>
+<li class="more4 pro"><a class="reg" href="premium.php">Pro</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="">Dashboard</a></li>
+<li><a href="">Lists</a></li>
+</ul></li>
+ 
+				 </ul> 
+			 </div>
+			 <a class="user4" data-logged="0" href="account.php"><span>&#10070;</span><font class="hideIfMobile">login</font></a><a class="settings4 " href="settings.php"><span>&#10033;</span><font>settings</font></a>    </div>
+  </header>  
+<div class="content   "> <div class="page-topnav "><div class="pageDDnavCont"><div class="pageSelectNav " ><a   href="race/vuelta-a-espana/1935/gc" >1935</a><div ><form style="  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/vuelta-a-espana/2024/gc" >2024</option><option value="race/vuelta-a-espana/2023/gc" >2023</option><option value="race/vuelta-a-espana/2022/gc" >2022</option><option value="race/vuelta-a-espana/2021/gc" >2021</option><option value="race/vuelta-a-espana/2020/gc" >2020</option><option value="race/vuelta-a-espana/2019/gc" >2019</option><option value="race/vuelta-a-espana/2018/gc" >2018</option><option value="race/vuelta-a-espana/2017/gc" >2017</option><option value="race/vuelta-a-espana/2016/gc" >2016</option><option value="race/vuelta-a-espana/2015/gc" >2015</option><option value="race/vuelta-a-espana/2014/gc" >2014</option><option value="race/vuelta-a-espana/2013/gc" >2013</option><option value="race/vuelta-a-espana/2012/gc" >2012</option><option value="race/vuelta-a-espana/2011/gc" >2011</option><option value="race/vuelta-a-espana/2010/gc" >2010</option><option value="race/vuelta-a-espana/2009/gc" >2009</option><option value="race/vuelta-a-espana/2008/gc" >2008</option><option value="race/vuelta-a-espana/2007/gc" >2007</option><option value="race/vuelta-a-espana/2006/gc" >2006</option><option value="race/vuelta-a-espana/2005/gc" >2005</option><option value="race/vuelta-a-espana/2004/gc" >2004</option><option value="race/vuelta-a-espana/2003/gc" >2003</option><option value="race/vuelta-a-espana/2002/gc" >2002</option><option value="race/vuelta-a-espana/2001/gc" >2001</option><option value="race/vuelta-a-espana/2000/gc" >2000</option><option value="race/vuelta-a-espana/1999/gc" >1999</option><option value="race/vuelta-a-espana/1998/gc" >1998</option><option value="race/vuelta-a-espana/1997/gc" >1997</option><option value="race/vuelta-a-espana/1996/gc" >1996</option><option value="race/vuelta-a-espana/1995/gc" >1995</option><option value="race/vuelta-a-espana/1994/gc" >1994</option><option value="race/vuelta-a-espana/1993/gc" >1993</option><option value="race/vuelta-a-espana/1992/gc" >1992</option><option value="race/vuelta-a-espana/1991/gc" >1991</option><option value="race/vuelta-a-espana/1990/gc" >1990</option><option value="race/vuelta-a-espana/1989/gc" >1989</option><option value="race/vuelta-a-espana/1988/gc" >1988</option><option value="race/vuelta-a-espana/1987/gc" >1987</option><option value="race/vuelta-a-espana/1986/gc" >1986</option><option value="race/vuelta-a-espana/1985/gc" >1985</option><option value="race/vuelta-a-espana/1984/gc" >1984</option><option value="race/vuelta-a-espana/1983/gc" >1983</option><option value="race/vuelta-a-espana/1982/gc" >1982</option><option value="race/vuelta-a-espana/1981/gc" >1981</option><option value="race/vuelta-a-espana/1980/gc" >1980</option><option value="race/vuelta-a-espana/1979/gc" >1979</option><option value="race/vuelta-a-espana/1978/gc" >1978</option><option value="race/vuelta-a-espana/1977/gc" >1977</option><option value="race/vuelta-a-espana/1976/gc" >1976</option><option value="race/vuelta-a-espana/1975/gc" >1975</option><option value="race/vuelta-a-espana/1974/gc" >1974</option><option value="race/vuelta-a-espana/1973/gc" >1973</option><option value="race/vuelta-a-espana/1972/gc" >1972</option><option value="race/vuelta-a-espana/1971/gc" >1971</option><option value="race/vuelta-a-espana/1970/gc" >1970</option><option value="race/vuelta-a-espana/1969/gc" >1969</option><option value="race/vuelta-a-espana/1968/gc" >1968</option><option value="race/vuelta-a-espana/1967/gc" >1967</option><option value="race/vuelta-a-espana/1966/gc" >1966</option><option value="race/vuelta-a-espana/1965/gc" >1965</option><option value="race/vuelta-a-espana/1964/gc" >1964</option><option value="race/vuelta-a-espana/1963/gc" >1963</option><option value="race/vuelta-a-espana/1962/gc" >1962</option><option value="race/vuelta-a-espana/1961/gc" >1961</option><option value="race/vuelta-a-espana/1960/gc" >1960</option><option value="race/vuelta-a-espana/1959/gc" >1959</option><option value="race/vuelta-a-espana/1958/gc" >1958</option><option value="race/vuelta-a-espana/1957/gc" >1957</option><option value="race/vuelta-a-espana/1956/gc" >1956</option><option value="race/vuelta-a-espana/1955/gc" >1955</option><option value="race/vuelta-a-espana/1950/gc" >1950</option><option value="race/vuelta-a-espana/1948/gc" >1948</option><option value="race/vuelta-a-espana/1947/gc" >1947</option><option value="race/vuelta-a-espana/1946/gc" >1946</option><option value="race/vuelta-a-espana/1945/gc" >1945</option><option value="race/vuelta-a-espana/1942/gc" >1942</option><option value="race/vuelta-a-espana/1941/gc" >1941</option><option value="race/vuelta-a-espana/1936/gc" selected>1936</option><option value="race/vuelta-a-espana/1935/gc" >1935</option></select></form></div><a  href="race/vuelta-a-espana/1941/gc" >1941</a></div><div class="pageSelectNav " ><a   href="race/vuelta-a-espana/1936/stage-7" >&laquo;</a><div ><form style="  max-width: 250px; width: 100%;  "><select style="width: calc(100% - 2px);" onChange="window.location.href=this.value; "><option value="race/vuelta-a-espana/1936/stage-1" >Stage 1 | Madrid-Salamanca</option><option value="race/vuelta-a-espana/1936/stage-2" >Stage 2 | Salamanca-Cáceres</option><option value="race/vuelta-a-espana/1936/stage-3" >Stage 3 | Cáceres-Sevilla</option><option value="race/vuelta-a-espana/1936/stage-4" >Stage 4 | Sevilla-Málaga</option><option value="race/vuelta-a-espana/1936/stage-5" >Stage 5 | Málaga-Granada</option><option value="race/vuelta-a-espana/1936/stage-6" >Stage 6 | Granada-Almería</option><option value="race/vuelta-a-espana/1936/stage-7" >Stage 7 | Almería-Alicante</option><option value="race/vuelta-a-espana/1936/stage-8" selected>Stage 8 | Alicante-Valencia</option><option value="race/vuelta-a-espana/1936/stage-9" >Stage 9 | Valencia-Tarragona</option><option value="race/vuelta-a-espana/1936/stage-10" >Stage 10 | Tarragona-Barcelona</option><option value="race/vuelta-a-espana/1936/stage-11" >Stage 11 | Barcelona-Zaragoza</option><option value="race/vuelta-a-espana/1936/stage-12" >Stage 12 | Zaragoza-San Sebastián</option><option value="race/vuelta-a-espana/1936/stage-13" >Stage 13 | San Sebastián-Bilbao</option><option value="race/vuelta-a-espana/1936/stage-14" >Stage 14 | Bilbao-Santander</option><option value="race/vuelta-a-espana/1936/stage-15" >Stage 15 | Santander-Gijón</option><option value="race/vuelta-a-espana/1936/stage-16" >Stage 16 | Gijón-Ribadeo</option><option value="race/vuelta-a-espana/1936/stage-17" >Stage 17 | Ribadeo-La Coruña</option><option value="race/vuelta-a-espana/1936/stage-18" >Stage 18 | La Coruña-Vigo</option><option value="race/vuelta-a-espana/1936/stage-19" >Stage 19 | Vigo-Verín</option><option value="race/vuelta-a-espana/1936/stage-20" >Stage 20 | Verín-Zamora</option><option value="race/vuelta-a-espana/1936/stage-21" >Stage 21 | Zamora-Madrid</option><option value="race/vuelta-a-espana/1936/gc" >Final GC</option><option value="race/vuelta-a-espana/1936/points" >Points classification</option></select></form></div><a  href="race/vuelta-a-espana/1936/stage-9" >&raquo;</a></div></div><ul class="pagenavLinks"><li class="reg "><a class="cur" href="race/vuelta-a-espana/1936/stage-8">Results</a></li>
+<li class="reg "><a style=" " href="race/vuelta-a-espana/1936/startlist">Startlist</a><ul><li><a href="race/vuelta-a-espana/1936/startlist">Startlist</a></li><li><a href="race/vuelta-a-espana/1936/results">Stage winners</a></li><li><a href="race/vuelta-a-espana/1936/route/stage-profiles">All stage profiles</a></li><li><a href="race/vuelta-a-espana/results">Race palmares</a></li></ul></li><li class="reg "><a class="" href="race/vuelta-a-espana/1936/stage-8/info">Info&#x25BC;</a><ul><li><a href="race/vuelta-a-espana/1936/stage-8/info/complementary-results">Complementary results</a></li>
+<li><a href="race/vuelta-a-espana/1936/stage-8/info/photos">Finish photo</a></li>
+<li><a href="race/vuelta-a-espana/1936/stage-8/info/profiles">Profiles</a></li>
+<li><a href="race/vuelta-a-espana/1936/stage-8/info/time-table">Time table</a></li>
+</ul></li>
+<li class="reg "><a class="" href="race/vuelta-a-espana/1936/stage-8/live">Live</a></li>
+<li class="reg "><a class="" href="race/vuelta-a-espana/1936/stage-8/game">Game</a></li>
+<li class="reg "><a class="" href="race/vuelta-a-espana/1936/stage-8/statistics">Stats</a></li>
+<li class="reg "><a class="" href="race/vuelta-a-espana/1936/stage-8/more">More&#x25BC;</a><ul><li><a href="race/vuelta-a-espana/1936/stage-8/more/report">Report</a></li>
+<li><a href="race/vuelta-a-espana/1936/stage-8/more/embed-results">Embed</a></li>
+<li><a href="race/vuelta-a-espana/1936/stage-8/more/contribute-info">Contribute info</a></li>
+<li><a href="race/vuelta-a-espana/1936/stage-8/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li>
+<li class="more"><a href="race/vuelta-a-espana/1936/stage-8">More</a><ul><li data-n="1"><a href="race/vuelta-a-espana/1936/stage-8/result/result">Results - Results</a></li><li data-n="2"><a href="race/vuelta-a-espana/1936/stage-8/info/info">Info - Info</a></li><li data-n="1"><a href="race/vuelta-a-espana/1936/stage-8/info/complementary-results">Complementary results</a></li>
+<li data-n="1"><a href="race/vuelta-a-espana/1936/stage-8/info/photos">Finish photo</a></li>
+<li data-n="1"><a href="race/vuelta-a-espana/1936/stage-8/info/profiles">Profiles</a></li>
+<li data-n="1"><a href="race/vuelta-a-espana/1936/stage-8/info/time-table">Time table</a></li>
+<li data-n="3"><a href="race/vuelta-a-espana/1936/stage-8/live/live">Live - Live</a></li><li data-n="4"><a href="race/vuelta-a-espana/1936/stage-8/game/game">Game - Game</a></li><li data-n="5"><a href="race/vuelta-a-espana/1936/stage-8/statistics/statistics">Stats - Stats</a></li><li data-n="6"><a href="race/vuelta-a-espana/1936/stage-8/more/more">More - More</a></li><li data-n="5"><a href="race/vuelta-a-espana/1936/stage-8/more/report">Report</a></li>
+<li data-n="5"><a href="race/vuelta-a-espana/1936/stage-8/more/embed-results">Embed</a></li>
+<li data-n="5"><a href="race/vuelta-a-espana/1936/stage-8/more/contribute-info">Contribute info</a></li>
+<li data-n="5"><a href="race/vuelta-a-espana/1936/stage-8/more/contribute-sites">Contribute site(s)</a></li>
+</ul></li></ul><div class="clear"></div></div><ul class="thumbnails" ><li><a href="race/vuelta-a-espana">La Vuelta ciclista a España</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/vuelta-a-espana/1936">1936</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/vuelta-a-espana/1936/stage-8">Stage 8</a></li><li>&nbsp; &raquo; &nbsp;</li><li><a href="race/vuelta-a-espana/1936/stage-8/result">Results</a></li></ul><div class="page-title " ><div class="main"><span class="flag es w32"></span><span class="flag es w24"></span><span class="hideIfMobile">1936</span><span class="hideIfMobile">&raquo;</span><font class="hideIfMobile">2nd</font><h1 class="">Vuelta a España</h1></div><div class="sub"><span class="showIfMobile">1936</span><span class="showIfMobile">&raquo;</span><span class="blue">Stage 8</span><span class="hideIfMobile">&raquo;</span><span class="red">Alicante</span><span class="red">&rsaquo;</span><span class="red">Valencia</span><span class="red fw400">(184km)</span></div></div><div class="clear"></div><div class="desktop-ad leaderbord race"></div><div class="mob-ad leaderbord race"></div><div class="top-cont"></div><div class="top-cont-mobile top-cont-mobile-race"></div><div class="page-content page-object default " data-no_menu="1" ><h2></h2><div class="w100 "   >
+<div class="w68 left mb_w100"><ul class="restabs "><li class="cur"><a data-id="136276" data-st="1"  href="race/vuelta-a-espana/1936/stage-8"><span class="st1"></span>Stage</a></li><li class=""><a data-id="136298" data-st="4"  href="race/vuelta-a-espana/1936/stage-8-gc"><span class="st4"></span>GC</a></li></ul><div class="result-filter-cont"><label for="age"><input type="checkbox" class="toggleAge" value="1" id="age">Age</label><label for="bibs"><input type="checkbox" class="toggleBibs" value="1" id="bibs">BIBs</label><label class=" toggles toggleGC-label" for="gc"><input type="checkbox" class="toggleGC" value="1" id="gc">GC</label><label class="hide toggles toggleDeltaPoints-label" for="delta_pnts"><input type="checkbox" class="toggleDeltaPoints" value="1" id="delta_pnts">+Points</label><label class="hide toggles toggleWonLost-label" for="time_wonlost"><input type="checkbox" class="toggleWonLost" value="1" id="time_wonlost">Time won/lost</label><label for="h2h"><input type="checkbox" class="toggleH2H cbFalseOnLoad" value="1" id="h2h" >H2H</label><span class="hideIfMobile"><label for="specialty"><input type="checkbox" class="toggleSpecialty " value="1" id="specialty">Specialty</label></span><a class="clearFilter blue hide" style="padding: 0px 7px; " href="">clear filter</a><select class="TNFilter" data-type="team"><option value="0"  >-</option></select><select class="TNFilter" data-type="nation"><option value="0"  >all nations</option><option value="be"  >Belgium</option><option value="fr"  >France</option><option value="it"  >Italy</option><option value="es"  >Spain</option></select></div><div class="hide timeWonLostComment" style="text-align: right; color: #555; font-size: 10px; ">The time won/lost column displays the gains in time in the GC. Click on the time of any rider to view the relative gains on this rider.</div><div class="h2h hide " style="font-size: 11px; color: #555;   ">Select two riders to compare. </div><div class="result-cont " data-id="136276">
+<div class="subTabs" data-subtab="1"><table class="results basic moblist10"><thead><tr><th>Rnk</th><th class="gc hide" >GC</th><th class="gc hide" >Timelag</th><th class="bibs hide" >BIB</th><th class="h2h hide" >H2H</th><th class="specialty hide" >Specialty</th><th>Rider</th><th class="age hide" >Age</th><th class="cu600" >Team</th><th>UCI</th><th>Pnt</th><th class="bonis ar fs11 cu600" ></th><th class="time ar" >Time</th></tr></thead><tbody>
+<tr data-team="0" data-nation="it"><td>1</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="antonio-bertola" data-id="178659" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag it"></span> <a href="rider/antonio-bertola">BERTOLA Antonio</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >22</td><td class="cu600" ></td><td></td><td>80</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" >6:15:59</td></tr>
+<tr data-team="0" data-nation="es"><td>2</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="vicente-carretero" data-id="181824" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/vicente-carretero">CARRETERO Vicente</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >21</td><td class="cu600" ></td><td></td><td>50</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>0:31</span><div class="hide">0:31</div></td></tr>
+<tr data-team="0" data-nation="es"><td>3</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="mariano-canardo" data-id="173507" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/mariano-canardo">CAÑARDO Mariano</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >30</td><td class="cu600" ></td><td></td><td>35</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">0:31</div></td></tr>
+<tr data-team="0" data-nation="es"><td>4</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="bernardo-de-castro" data-id="213797" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/bernardo-de-castro">DE CASTRO Bernardo</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" ></td><td class="cu600" ></td><td></td><td>25</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">0:31</div></td></tr>
+<tr data-team="0" data-nation="es"><td>5</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="rafael-ramos" data-id="173508" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag es"></span> <a href="rider/rafael-ramos">RAMOS Rafael</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >24</td><td class="cu600" ></td><td></td><td>18</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">0:31</div></td></tr>
+<tr data-team="0" data-nation="es"><td>6</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="julian-berrendero" data-id="173512" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/julian-berrendero">BERRENDERO Julián</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >24</td><td class="cu600" ></td><td></td><td>15</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">0:31</div></td></tr>
+<tr data-team="0" data-nation="es"><td>7</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="jose-arias" data-id="221570" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/jose-arias">ARIAS José</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" ></td><td class="cu600" ></td><td></td><td>12</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">0:31</div></td></tr>
+<tr data-team="0" data-nation="es"><td>8</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="antonio-escuriet" data-id="181825" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/antonio-escuriet">ESCURIET Antonio</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >27</td><td class="cu600" ></td><td></td><td>10</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>1:01</span><div class="hide">1:01</div></td></tr>
+<tr data-team="0" data-nation="es"><td>9</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="salvador-cardona" data-id="173562" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/salvador-cardona">CARDONA Salvador</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >35</td><td class="cu600" ></td><td></td><td>8</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:01</div></td></tr>
+<tr data-team="0" data-nation="es"><td>10</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="emiliano-alvarez" data-id="173548" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/emiliano-alvarez">ÁLVAREZ Emiliano</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >23</td><td class="cu600" ></td><td></td><td>6</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:01</div></td></tr>
+<tr data-team="0" data-nation="es"><td>11</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="francisco-goenaga" data-id="213982" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/francisco-goenaga">GOENAGA Francisco</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >22</td><td class="cu600" ></td><td></td><td>5</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:01</div></td></tr>
+<tr data-team="0" data-nation="es"><td>12</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="fermin-trueba" data-id="181823" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/fermin-trueba">TRUEBA Fermín</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >21</td><td class="cu600" ></td><td></td><td>4</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:01</div></td></tr>
+<tr data-team="0" data-nation="es"><td>13</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="cipriano-elys" data-id="181820" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag es"></span> <a href="rider/cipriano-elys">ELYS Cipriano</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >28</td><td class="cu600" ></td><td></td><td>3</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:01</div></td></tr>
+<tr data-team="0" data-nation="es"><td>14</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="juan-bailon" data-id="220078" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/juan-bailon">BAILON Joaquin</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" ></td><td class="cu600" ></td><td></td><td>2</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:01</div></td></tr>
+<tr data-team="0" data-nation="es"><td>15</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="agustin-gonzalez2" data-id="217087" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/agustin-gonzalez2">GONZALEZ Agustin</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" ></td><td class="cu600" ></td><td></td><td>1</td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:01</div></td></tr>
+<tr data-team="0" data-nation="es"><td>16</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="miguel-carrion" data-id="181829" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/miguel-carrion">CARRIÓN Miguel</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" ></td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:01</div></td></tr>
+<tr data-team="0" data-nation="es"><td>17</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="ramon-cruz" data-id="205358" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag es"></span> <a href="rider/ramon-cruz">CRUZ Ramon</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" ></td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:01</div></td></tr>
+<tr data-team="0" data-nation="es"><td>18</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="miguel-valero" data-id="220370" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/miguel-valero">VALERO Miguel</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" ></td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:01</div></td></tr>
+<tr data-team="0" data-nation="it"><td>19</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="angel-bertola" data-id="220369" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag it"></span> <a href="rider/angel-bertola">BERTOLA Angel</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >23</td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:01</div></td></tr>
+<tr data-team="0" data-nation="be"><td>20</td><td class="gc hide" >1</td><td class="gc hide" >+0:00</td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="gustaaf-deloor" data-id="173527" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/gustaaf-deloor">DELOOR Gustaaf</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >22</td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:01</div></td></tr>
+<tr data-team="0" data-nation="be"><td>21</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alfons-deloor" data-id="173031" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/alfons-deloor">DELOOR Alfons</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >25</td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:01</div></td></tr>
+<tr data-team="0" data-nation="be"><td>22</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="alfons-schepers" data-id="173012" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/alfons-schepers">SCHEPERS Alfons</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >28</td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:01</div></td></tr>
+<tr data-team="0" data-nation="es"><td>23</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="benito-cabestreros" data-id="181828" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/benito-cabestreros">CABESTREROS Benito</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:01</div></td></tr>
+<tr data-team="0" data-nation="es"><td>24</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="delio-rodriguez" data-id="181794" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/delio-rodriguez">RODRÍGUEZ Delio</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >20</td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>1:31</span><div class="hide">1:31</div></td></tr>
+<tr data-team="0" data-nation="es"><td>25</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="salvador-molina" data-id="181835" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/salvador-molina">MOLINA Salvador</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >21</td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:31</div></td></tr>
+<tr data-team="0" data-nation="es"><td>26</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="luis-esteve" data-id="214422" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag es"></span> <a href="rider/luis-esteve">ESTEVE Luis</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" ></td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:31</div></td></tr>
+<tr data-team="0" data-nation="es"><td>27</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="manuel-izquierdo" data-id="181827" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag es"></span> <a href="rider/manuel-izquierdo">IZQUIERDO Manuel</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" ></td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:31</div></td></tr>
+<tr data-team="0" data-nation="es"><td>28</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="pablo-pantoja" data-id="230407" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/pablo-pantoja">PANTOJA Pablo</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" ></td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">1:31</div></td></tr>
+<tr data-team="0" data-nation="es"><td>29</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="enrique-lopez" data-id="230405" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/enrique-lopez">LÓPEZ Enrique</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" ></td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>2:16</span><div class="hide">2:16</div></td></tr>
+<tr data-team="0" data-nation="es"><td>30</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="bautista-salom" data-id="213802" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/bautista-salom">SALOM Bautista</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >25</td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">2:16</div></td></tr>
+<tr data-team="0" data-nation="es"><td>31</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="gregorio-idigoras" data-id="230404" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/gregorio-idigoras">IDÍGORAS Gregorio</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" ></td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>,,</span><div class="hide">2:16</div></td></tr>
+<tr data-team="0" data-nation="es"><td>32</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="antonio-acosta" data-id="230408" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/antonio-acosta">ACOSTA Antonio</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" ></td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>3:01</span><div class="hide">3:01</div></td></tr>
+<tr data-team="0" data-nation="it"><td>33</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="camillo-erba" data-id="178696" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_red"></div><span class="fs10 clr999">GC</span></td><td><div><span class="flag it"></span> <a href="rider/camillo-erba">ERBA Camillo</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >27</td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>8:33</span><div class="hide">8:33</div></td></tr>
+<tr data-team="0" data-nation="es"><td>34</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="ramon-ruiz-trillo" data-id="213806" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/ramon-ruiz-trillo">RUIZ Ramón</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" ></td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" ><span>10:34</span><div class="hide">10:34</div></td></tr>
+<tr data-team="0" data-nation="es"><td>DNF</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="andres-jardin" data-id="230413" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/andres-jardin">JARDIN Andres</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" ></td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" >-</td></tr>
+<tr data-team="0" data-nation="es"><td>DNF</td><td class="gc hide" ></td><td class="gc hide" ></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="bartolomeo-flaquer" data-id="217793" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag es"></span> <a href="rider/bartolomeo-flaquer">FLAQUER Bartolomé</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >23</td><td class="cu600" ></td><td></td><td></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" >-</td></tr>
+</tbody></table>
+<div style="color: #bbb; font-size: 10px; text-align: right; ">DNF=Did not finish / DNS=Did not start / OTL = Outside time limit / DF=Did finish, no result / NR=No result<svg viewBox="0 0 24 24" style="width: 14px; margin: 0 0 -4px 3px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#E4170F" d="M21 3a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-2.001L19 20a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1l-.001-8.001L3 12a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h6a3 3 0 0 0 6 0h6z"/></g></svg> Rider wearing the jersey<span   style=" margin-left: 10px;"> <svg viewBox="0 0 24 24" style="width: 10px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#f55733" d="M3.783 2.826L12 1l8.217 1.826a1 1 0 0 1 .783.976v9.987a6 6 0 0 1-2.672 4.992L12 23l-6.328-4.219A6 6 0 0 1 3 13.79V3.802a1 1 0 0 1 .783-.976z"/></g></svg>>50% of race distance in group before peloton</span><div class="clear"></div>  </div><div class="more-results-cont"><a class="viewMoreResults" data-n="25"   href="#">View top-25</a><div style="width: 10px; "></div><a class="viewMoreResults" data-n="250"   href="#">View full result</a></div><div class="mob-ad after-result "></div></div><div class="subTabs hide" data-subtab="2"></div></div><div class="result-cont hide" data-id="136298">
+<div class="subTabs" data-subtab="1"><table class="results basic moblist10"><thead><tr><th>Rnk</th><th class="fs10 clr999" >Prev</th><th class="fs10" >&#x25BC;&#x25B2;</th><th class="bibs hide" >BIB</th><th class="h2h hide" >H2H</th><th class="specialty hide" >Specialty</th><th>Rider</th><th class="age hide" >Age</th><th class="cu600" >Team</th><th class="bonis ar fs11 cu600" ></th><th class="time ar" >Time</th><th class="time_wonlost hide ar" >Time won/lost</th></tr></thead><tbody>
+<tr data-team="0" data-nation="be"><td>1</td><td class="fs10 clr999" >1</td><td class="fs10" ><span class="delta-equal">-</span></td><td class="bibs hide" >-</td><td class="h2h hide" ><input type="checkbox" class="gotoH2H cbFalseOnLoad" data-seo="gustaaf-deloor" data-id="173527" style="margin: 0; " /><span></span></td><td class="specialty hide" ><div class="resSp bg pps_orange"></div><span class="fs10 clr999">Sprint</span></td><td><div><span class="flag be"></span> <a href="rider/gustaaf-deloor">DELOOR Gustaaf</a>  <span class="showIfMobile riderteam"></span> </div></td><td class="age hide" >22</td><td class="cu600" ></td><td class="bonis ar fs11 cu600" ></td><td class="time ar" >-</td><td class="time_wonlost hide ar" ><a class="TimeWonLostFromRider" data-st="4" data-s1="0" data-s2="0" href="">..</a></td></tr>
+</tbody></table>
+<div style="color: #bbb; font-size: 10px; text-align: right; ">DNF=Did not finish / DNS=Did not start / OTL = Outside time limit / DF=Did finish, no result / NR=No result<svg viewBox="0 0 24 24" style="width: 14px; margin: 0 0 -4px 3px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#E4170F" d="M21 3a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-2.001L19 20a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1l-.001-8.001L3 12a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h6a3 3 0 0 0 6 0h6z"/></g></svg> Rider wearing the jersey<span   style=" margin-left: 10px;"> <svg viewBox="0 0 24 24" style="width: 10px; "><g><path d="M0 0h24v24H0z" fill="none"/><path fill="#f55733" d="M3.783 2.826L12 1l8.217 1.826a1 1 0 0 1 .783.976v9.987a6 6 0 0 1-2.672 4.992L12 23l-6.328-4.219A6 6 0 0 1 3 13.79V3.802a1 1 0 0 1 .783-.976z"/></g></svg>>50% of race distance in group before peloton</span><div class="clear"></div>  </div><div class="more-results-cont"></div></div><div class="subTabs hide" data-subtab="2"></div></div></div><div class="w30 right mb_w100"><div class=""></div>
+<div class=""><h3>Race information</h3><div class=""></div></div>
+<img class="left maxw100 mg_rp10" src="images/logo/bn/aq/vuelta-a-espana-2017.jpg" /><div class=""><ul class="infolist" style=""><li><div>Date:</div> <div>12 May 1936</div></li>
+<li><div>Start time:</div> <div>-</div></li>
+<li><div>Avg. speed winner:</div> <div>29.36 km/h</div></li>
+<li><div>Race category:</div> <div>ME - Men Elite</div></li>
+<li><div>Distance: </div> <div>184 km</div></li>
+<li><div>Points scale:</div> <div><a    href="info.php?s=point-scales&season=1936&category=1&scale=8">GT.B.Stage</a></div></li>
+<li><div>UCI scale:</div> <div><a    href="info.php?s=point-scales&season=1936&category=1&pcs_uci&uci&scale=0"></a></div></li>
+<li><div>Parcours type: </div> <div><span class="icon profile p0"></span></div></li>
+<li><div>ProfileScore: </div> <div></div></li>
+<li><div>Vert. meters:</div> <div></div></li>
+<li><div>Departure:</div> <div><a    href="location/alicante">Alicante</a></div></li>
+<li><div>Arrival:</div> <div><a    href="location/valencia">Valencia</a></div></li>
+<li><div>Race ranking:</div> <div><a    href="race/vuelta-a-espana/1936/stage-8/overview/race-ranking">0</a></div></li>
+<li><div>Startlist quality score:</div> <div><a    href="race/vuelta-a-espana/1936/startlist/startlist-quality">283</a></div></li>
+<li><div>Won how: </div> <div><a    href="race/vuelta-a-espana/1936/stage-8/more/contribute-info">? - let us know!</a></div></li>
+<li><div>Avg. temperature:</div> <div><a    href="race/vuelta-a-espana/1936/stage-8/stages/hottest-stages"></a></div></li>
+</ul></div>
+<div class=""><ul class="list horizontal"></ul></div>
+<div class="mt10"><h3>Race profile</h3>
+<span class="table-cont"><ul class="list"  style=" "></ul></span></div>
+<div class="mt10"><h3>Sites</h3><ul class="list horizontal sites "><li><span class="icon website left"></span><a  target="_blank"   class="" href="https://www.lavuelta.es/en/">site</a></li>
+<li><span class="icon twitter left"></span><a  target="_blank"   class="" href="http://www.twitter.com/lavuelta">twitter</a></li>
+<li><span class="icon facebook left"></span><a  target="_blank"   class="" href="https://www.facebook.com/lavuelta">facebook</a></li>
+</ul></div>
+<div class="fs11"><div class=""></div></div>
+<div class="desktop-ad race-column-right"></div><div class="mob-ad race-column-right"></div></div><div class="clear"></div>
+</div>
+<div class="desktop-ad below-content race"></div><div class="mob-ad below-content race"></div></div><div style="clear: both; "></div>  
+  </div>
+  </center>
+  <div class="push"></div>
+</div>
+<div class="footer">
+  <div class="sfa"><ul class="ftr-list"><li class="group"><h3>Grand Tours</h3><ul><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">Vuelta a España</a></li>
+</ul><h3>Major Tours</h3><ul><li><a href="race/paris-nice">Paris-Nice</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/volta-a-catalunya">Volta a Catalunya</a></li>
+<li><a href="race/tour-de-romandie">Tour de Romandie</a></li>
+<li><a href="race/tour-de-suisse">Tour de Suisse</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/itzulia-basque-country">Itzulia Basque Country</a></li>
+</ul></li>
+<li class="group"><h3>Monuments</h3><ul><li><a href="race/milano-sanremo">Milano-SanRemo</a></li>
+<li><a href="race/ronde-van-vlaanderen">Ronde van Vlaanderen</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+</ul><h3>Championships</h3><ul><li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/uec-road-european-championships">European championships</a></li>
+</ul></li>
+<li class="group"><h3>Top classics</h3><ul><li><a href="race/omloop-het-nieuwsblad">Omloop Het Nieuwsblad</a></li>
+<li><a href="race/strade-bianche">Strade Bianche</a></li>
+<li><a href="race/e3-harelbeke">E3 Classic</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem</a></li>
+<li><a href="race/dwars-door-vlaanderen">Dwars door vlaanderen</a></li>
+<li><a href="race/eschborn-frankfurt">Eschborn-Frankfurt</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/san-sebastian">San Sebastian</a></li>
+<li><a href="race/bretagne-classic">Bretagne Classic</a></li>
+<li><a href="race/gp-quebec">GP Québec</a></li>
+<li><a href="race/gp-montreal">GP Montréal</a></li>
+</ul></li>
+<li class="group"><h3>Popular riders</h3><ul><li><a href="rider/tadej-pogacar">Tadej Pogačar</a></li>
+<li><a href="rider/wout-van-aert">Wout van Aert</a></li>
+<li><a href="rider/remco-evenepoel">Remco Evenepoel</a></li>
+<li><a href="rider/jonas-vingegaard-rasmussen">Jonas Vingegaard</a></li>
+<li><a href="rider/mathieu-van-der-poel">Mathieu van der Poel</a></li>
+<li><a href="rider/biniam-girmay">Biniam Girmay</a></li>
+<li><a href="rider/peter-sagan">Peter Sagan</a></li>
+<li><a href="rider/annemiek-van-vleuten">Annemiek van Vleuten</a></li>
+<li><a href="rider/elisa-longo-borghini">Elisa Longo Borghini</a></li>
+<li><a href="rider/katarzyna-niewiadoma">Katarzyna Niewiadoma</a></li>
+</ul></li>
+<li class="group"><h3>Statistics</h3><ul><li><a href="statistics/start/points-per-age">Points per age</a></li>
+<li><a href="statistics/start/latest-injuries">Latest injuries</a></li>
+<li><a href="statistics/riders/youngest-riders">Youngest riders</a></li>
+<li><a href="statistics/grandtours">Grand tour statistics</a></li>
+<li><a href="statistics/monuments">Monument classics</a></li>
+<li><a href="teams/transfers">Latest transfers</a></li>
+<li><a href="favorite500">Favorite 500</a></li>
+</ul><h3>Rankings</h3><ul><li><a href="rankings.php">PCS ranking</a></li>
+<li><a href="rankings/me/uci-individual">UCI World Ranking</a></li>
+<li><a href="rankings/me/all-time">Alltime</a></li>
+</ul></li>
+<li class="group"><h3>Info</h3><ul><li><a href="info/point-scales">Points scales</a></li>
+<li><a href="info/profile-score-explained">Profile scores</a></li>
+<li><a href="reset_password.php">Reset password</a></li>
+<li><a href="info/pcs-game">PCS game</a></li>
+<li><a href="info/procyclinggame">ProCyclingGame</a></li>
+</ul><h3>About ProCyclingStats</h3><ul><li><a href="info/about-us">About us</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/cookie-policy">Cookie policy</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/contributions">Contributions</a></li>
+<li><span>Pageload 0.0363s</span></li>
+</ul></li>
+</ul><input type="hidden" id="pageid" value="1190" /><input type="hidden" id="userid" value="0" />
+	</div>
+</div> 
+ 
+ </body></html>
+<script src="search_list7.js"></script>  

@@ -1,0 +1,345 @@
+<!DOCTYPE HTML><html><head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35889790-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'GA_MEASUREMENT_ID', {
+	  'linker': {
+	    'domains': ['cx.procyclingstats.com','procyclingstats.com']
+	  }
+	});
+
+  gtag('config', 'UA-35889790-1');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2MNJ20S7SJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2MNJ20S7SJ');
+</script>
+<title>Races database</title>
+<base href="https://www.procyclingstats.com/races.php" />
+<link rel="canonical" href="https://www.procyclingstats.com/calendar/uci/races-database" />
+<script>
+    var r89 = r89 || {
+      callAds: [],
+      pushAd: function(id, name, config) { r89.callAds.push([id, name, config]); }
+    };
+</script>
+<script async src="https://tags.refinery89.com/v2/procyclingstats.js"></script><meta name="description" content="Races database with filter options on name, nation, class and category.">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="utf-8"> 
+<meta name="facebook-domain-verification" content="tjwn3jyjupm0t1j8e0sgis3c80x88r" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<base href="races.php" />
+	<link rel="stylesheet" type="text/css" href="https://www.procyclingstats.com/pcs_a190.css" />
+	
+<script src="https://www.procyclingstats.com/pcs_s79.js"></script> 
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css"> 
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.procyclingstats.com/images/pcs-logos/icon3/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon-16x16.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.procyclingstats.com/images/pcs-logos/icon3/favicon.ico" />
+ 
+</head>
+<body>
+<div class="wrapper">
+  <header class="">
+    <div class="cont">
+    	<a  class="logo" href="index.php"></a>
+  
+    	<form action="search.php" class="msearch"><input type="hidden"  id="term" />
+    		<input type="text" name="term" id="search" data-nav="calendar/races-database" data-nav2="" data-page="races" class="search4"  placeholder="search"  /></form> 
+    	<div class="menuCont">
+      	<a class="mobMenu" href="">Menu&#x25BC;</a>
+				<ul class="nav_v4 default"><li class=" "><a class="reg" href="index.php">Home</a></li>
+<li class="more4 "><a class="reg" href="races.php">Races</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">La Vuelta ciclista a España</a></li>
+<li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/milano-sanremo">Milano-Sanremo</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/paris-nice">Paris - Nice</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/volta-a-catalunya">Volta Ciclista a Catalunya</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/ronde-van-vlaanderen">Tour des Flandres</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem in Flanders Fields</a></li>
+<li><a href="race/san-sebastian">Clásica Ciclista San Sebastián</a></li>
+</ul></li>
+<li class="more4 "><a class="reg" href="teams.php">Teams</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="team/intermarche-circus-wanty-2023">Intermarché - Circus - Wanty </a></li>
+<li><a href="team/ineos-grenadiers-2023">INEOS Grenadiers</a></li>
+<li><a href="team/groupama-fdj-2023">Groupama - FDJ</a></li>
+<li><a href="team/ef-education-easypost-2023">EF Education-EasyPost</a></li>
+<li><a href="team/cofidis-2023">Cofidis </a></li>
+<li><a href="team/bora-hansgrohe-2023">BORA - hansgrohe</a></li>
+<li><a href="team/bahrain-victorious-2023">Bahrain - Victorious</a></li>
+<li><a href="team/astana-qazaqstan-team-2023">Astana Qazaqstan Team</a></li>
+<li><a href="team/team-jumbo-visma-2023">Jumbo-Visma</a></li>
+<li><a href="team/movistar-team-2023">Movistar Team</a></li>
+<li><a href="team/soudal-quick-step-2023">Soudal - Quick Step</a></li>
+<li><a href="team/team-arkea-samsic-2023">Team Arkéa Samsic</a></li>
+<li><a href="team/team-jayco-alula-2023">Team Jayco AlUla</a></li>
+<li><a href="team/team-dsm-2023">Team DSM</a></li>
+<li><a href="team/trek-segafredo-2023">Trek - Segafredo</a></li>
+<li><a href="team/uae-team-emirates-2023">UAE Team Emirates</a></li>
+<li><a href="team/alpecin-deceuninck-2023">Alpecin-Deceuninck</a></li>
+<li><a href="team/ag2r-citroen-team-2023">AG2R Citroën Team</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="rankings.php">Rankings</a></li>
+<li class="more4 "><a class="reg" href="statistics.php">Statistics</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="statistics">Overview</a></li>
+<li><a href="statistics/riders">Riders</a></li>
+<li><a href="statistics/teams">Teams</a></li>
+<li><a href="statistics/grandtours">Grand tours</a></li>
+</ul></li>
+<li class=" "><a class="reg" href="game.php">Game</a></li>
+<li class="more4 "><a class="reg" href="riders.php">More</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="riders">Riders</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/countdown-to-1-billion-pageviews">Countdown to 2 billion pageviews</a></li>
+<li><a href="favorite500.php">Favorite500</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/about-us">About us</a></li>
+<li><a href="info/profile-score-explained">Profile Score</a></li>
+<li><a href="info/tutorials">Tutorials</a></li>
+</ul></li>
+<li class="more4 pro"><a class="reg" href="premium.php">Pro</a><a class="more4 toggleNavDropdown" href="">&#x25BC;</a><ul class="hide"><li><a href="">Dashboard</a></li>
+<li><a href="">Lists</a></li>
+</ul></li>
+ 
+				 </ul> 
+			 </div>
+			 <a class="user4" data-logged="0" href="account.php"><span>&#10070;</span><font class="hideIfMobile">login</font></a><a class="settings4 " href="settings.php"><span>&#10033;</span><font>settings</font></a>    </div>
+  </header>  
+<div class="content   "> <div class="page-topnav "><ul class="pagenavLinks"><li class="reg "><a class="cur" href="calendar">UCI</a></li>
+<li class="reg "><a class="" href="calendar/championships">Championships&#x25BC;</a><ul><li><a href="calendar/championships/worlds-program">Program</a></li>
+<li><a href="calendar/championships/worlds-medal-ranking">Medal ranking</a></li>
+<li><a href="calendar/championships/national-champions">National champions</a></li>
+</ul></li>
+<li class="reg "><a class="" href="calendar/national">National&#x25BC;</a><ul><li><a href="calendar/national/latest-national">Latest</a></li>
+<li><a href="calendar/national/upcoming-national">Upcoming</a></li>
+<li><a href="calendar/national/coupe-france">Coupe de France (France)</a></li>
+<li><a href="calendar/national/topcompetition-netherlands">Topcompetitie (Netherlands)</a></li>
+<li><a href="calendar/national/u23-road-series">U23 Road Series (NL/BE)</a></li>
+<li><a href="calendar/national/copa-espana">Copa de España (Spain)</a></li>
+<li><a href="calendar/national/rad-bundesliga">Rad-Bundesliga (Germany)</a></li>
+<li><a href="calendar/national/bnrs">British National Road Series (GB)</a></li>
+<li><a href="calendar/national/taca-portugal">Taça de Portugal (POR)</a></li>
+<li><a href="calendar/national/norges-cup">NorgesCup (Norway)</a></li>
+</ul></li>
+<li class="more"><a href="calendar">More</a><ul><li data-n="1"><a href="calendar/uci/uci">UCI - UCI</a></li><li data-n="2"><a href="calendar/championships/championships">Championships - Championships</a></li><li data-n="1"><a href="calendar/championships/worlds-program">Program</a></li>
+<li data-n="1"><a href="calendar/championships/worlds-medal-ranking">Medal ranking</a></li>
+<li data-n="1"><a href="calendar/championships/national-champions">National champions</a></li>
+<li data-n="3"><a href="calendar/national/national">National - National</a></li><li data-n="2"><a href="calendar/national/latest-national">Latest</a></li>
+<li data-n="2"><a href="calendar/national/upcoming-national">Upcoming</a></li>
+<li data-n="2"><a href="calendar/national/coupe-france">Coupe de France (France)</a></li>
+<li data-n="2"><a href="calendar/national/topcompetition-netherlands">Topcompetitie (Netherlands)</a></li>
+<li data-n="2"><a href="calendar/national/u23-road-series">U23 Road Series (NL/BE)</a></li>
+<li data-n="2"><a href="calendar/national/copa-espana">Copa de España (Spain)</a></li>
+<li data-n="2"><a href="calendar/national/rad-bundesliga">Rad-Bundesliga (Germany)</a></li>
+<li data-n="2"><a href="calendar/national/bnrs">British National Road Series (GB)</a></li>
+<li data-n="2"><a href="calendar/national/taca-portugal">Taça de Portugal (POR)</a></li>
+<li data-n="2"><a href="calendar/national/norges-cup">NorgesCup (Norway)</a></li>
+</ul></li></ul><div class="clear"></div></div><div class="page-title " ><a class="mobileMenuLink showIfMobile menu-toggle"  href="">menu</a><div class="main"><h1 class="">Races database</h1></div></div><div class="clear"></div><div class="desktop-ad leaderbord general"></div><div class="mob-ad leaderbord general"></div><div class="top-cont"></div><div class="top-cont-mobile top-cont-mobile-other"></div><div class="page-content page-object default " data-no_menu="0" ><div class=" "   >
+<div class="text-regular">List of all races, actual and historical, grouped by racename.</div>
+<form action="races.php"><ul class="filter "><li><div class="label">Race name</div><div><input type="text" class="" name="name" value="" style="" autocomplete="off" /></div><div><select   name="pname" class="selectOperator hide" style=" padding: 1px; "><option value="contains" selected >Contains ..</option></select><span style="display: inline-block; padding: 2px; ">(Contains ..)</span></div></li>
+<li><div class="label">Nation</div><div><select class="" name="nation"  style=""><option value="" selected >-</option><option value="af"  >Afghanistan</option><option value="al"  >Albania</option><option value="dz"  >Algeria</option><option value="ao"  >Angola</option><option value="aq"  >Antarctica</option><option value="ag"  >Antigua and Barbuda</option><option value="ar"  >Argentina</option><option value="aw"  >Aruba</option><option value="au"  >Australia</option><option value="at"  >Austria</option><option value="az"  >Azerbaijan</option><option value="bs"  >Bahamas</option><option value="bh"  >Bahrain</option><option value="bb"  >Barbados</option><option value="by"  >Belarus</option><option value="be"  >Belgium</option><option value="bz"  >Belize</option><option value="bj"  >Benin</option><option value="bm"  >Bermuda</option><option value="bo"  >Bolivia</option><option value="ba"  >Bosnia and Herzegovina</option><option value="br"  >Brazil</option><option value="bn"  >Brunei</option><option value="bg"  >Bulgaria</option><option value="bf"  >Burkina Faso</option><option value="kh"  >Cambodia</option><option value="cm"  >Cameroon</option><option value="ca"  >Canada</option><option value="cl"  >Chile</option><option value="cn"  >China</option><option value="co"  >Colombia</option><option value="cg"  >Congo-Brazaville</option><option value="cr"  >Costa Rica</option><option value="hr"  >Croatia</option><option value="cu"  >Cuba</option><option value="cw"  >Curacao</option><option value="cy"  >Cyprus</option><option value="cz"  >Czech Republic</option><option value="cd"  >Democratic Republic of the Congo</option><option value="dk"  >Denmark</option><option value="do"  >Dominican Republic</option><option value="ec"  >Ecuador</option><option value="eg"  >Egypt</option><option value="sv"  >El Salvador</option><option value="er"  >Eritrea</option><option value="ee"  >Estonia</option><option value="sz"  >Eswatini</option><option value="et"  >Ethiopia</option><option value="fj"  >Fiji</option><option value="fi"  >Finland</option><option value="fr"  >France</option><option value="ga"  >Gabon</option><option value="ge"  >Georgia</option><option value="de"  >Germany</option><option value="gh"  >Ghana</option><option value="gb"  >Great Britain</option><option value="gr"  >Greece</option><option value="gd"  >Grenada</option><option value="gp"  >Guadeloupe</option><option value="gt"  >Guatemala</option><option value="gy"  >Guyana</option><option value="hn"  >Honduras</option><option value="hk"  >Hongkong</option><option value="hu"  >Hungary</option><option value="is"  >Iceland</option><option value="in"  >India</option><option value="id"  >Indonesia</option><option value="ir"  >Iran</option><option value="ie"  >Ireland</option><option value="im"  >Isle of Man</option><option value="il"  >Israel</option><option value="it"  >Italy</option><option value="ci"  >Ivory Coast</option><option value="jm"  >Jamaica</option><option value="jp"  >Japan</option><option value="kz"  >Kazakhstan</option><option value="xk"  >Kosovo</option><option value="kw"  >Kuwait</option><option value="kg"  >Kyrgyzstan</option><option value="la"  >Laos</option><option value="lv"  >Latvia</option><option value="lb"  >Lebanon</option><option value="ls"  >Lesotho</option><option value="ly"  >Libya</option><option value="lt"  >Lithuania</option><option value="lu"  >Luxembourg</option><option value="mo"  >Macau</option><option value="mw"  >Malawi</option><option value="my"  >Malaysia</option><option value="ml"  >Mali</option><option value="mr"  >Mauritania</option><option value="mu"  >Mauritius</option><option value="mx"  >Mexico</option><option value="md"  >Moldova</option><option value="mc"  >Monaco</option><option value="mn"  >Mongolia</option><option value="me"  >Montenegro</option><option value="ma"  >Morocco</option><option value="mz"  >Mozambique</option><option value="mm"  >Myanmar</option><option value="na"  >Namibia</option><option value="nl"  >Netherlands</option><option value="nz"  >New Zealand</option><option value="ni"  >Nicaragua</option><option value="ng"  >Nigeria</option><option value="mk"  >North Macedonia</option><option value="no"  >Norway</option><option value="om"  >Oman</option><option value="pk"  >Pakistan</option><option value="pa"  >Panama</option><option value="py"  >Paraguay</option><option value="pe"  >Peru</option><option value="ph"  >Philippines</option><option value="pl"  >Poland</option><option value="pt"  >Portugal</option><option value="pr"  >Puerto Rico</option><option value="qa"  >Qatar</option><option value="ro"  >Romania</option><option value="ru"  >Russia</option><option value="rw"  >Rwanda</option><option value="kn"  >Saint Kitts en Nevis</option><option value="lc"  >Saint Lucia</option><option value="vc"  >Saint Vincent and the Grenadines</option><option value="sm"  >San Marino</option><option value="st"  >São Tomé and Príncipe</option><option value="sa"  >Saudi Arabia	</option><option value="sn"  >Senegal</option><option value="rs"  >Serbia</option><option value="cs"  >Serbia and Montenegro</option><option value="sg"  >Singapore</option><option value="sx"  >Sint Maarten</option><option value="sk"  >Slovakia</option><option value="si"  >Slovenia</option><option value="za"  >South Africa</option><option value="kr"  >South Korea</option><option value="es"  >Spain</option><option value="lk"  >Sri Lanka</option><option value="sr"  >Suriname</option><option value="se"  >Sweden</option><option value="ch"  >Switzerland</option><option value="sy"  >Syria</option><option value="tw"  >Taiwan</option><option value="tj"  >Tajikistan</option><option value="th"  >Thailand</option><option value="tg"  >Togo</option><option value="tt"  >Trinidad & Tobago</option><option value="tn"  >Tunisia</option><option value="tr"  >Turkey</option><option value="ug"  >Uganda</option><option value="ua"  >Ukraine</option><option value="ae"  >United Arab Emirates</option><option value="us"  >United States</option><option value="uy"  >Uruguay</option><option value="uz"  >Uzbekistan</option><option value="ve"  >Venezuela</option><option value="vn"  >Vietnam</option><option value="vg"  >Virgin Islands</option><option value="yu"  >Yugoslavia</option><option value="zw"  >Zimbabwe</option></select></div></li>
+<li><div class="label">Class</div><div><select class="" name="class"  style=""><option value=""  >-</option><option value="NC"  >NC</option><option value="Olympics"  >Olympics</option><option value="WC"  >WC</option><option value="1.1"  >1.1</option><option value="1.2"  >1.2</option><option value="1.HC"  >1.HC</option><option value="1.Ncup"  >1.Ncup</option><option value="Int."  >Int.</option><option value="CC"  >CC</option><option value="CDM"  >CDM</option><option value="1.2U23"  >1.2U23</option><option value="1.2U"  >1.2U</option><option value="Nat."  >Nat.</option><option value="PT"  >PT</option><option value="WT"  >WT</option><option value="2.PT"  >2.PT</option><option value="2.2" selected >2.2</option><option value="2.1"  >2.1</option><option value="2.UWT"  >2.UWT</option><option value="2.HC"  >2.HC</option><option value="2.Ncup"  >2.Ncup</option><option value="2.2U23"  >2.2U23</option><option value="2.3"  >2.3</option><option value="GT"  >GT</option><option value="2.2U"  >2.2U</option><option value="HIS"  >HIS</option><option value="1.3"  >1.3</option><option value="1.5"  >1.5</option><option value="1.PT"  >1.PT</option><option value="NAT"  >NAT</option><option value="1.4"  >1.4</option><option value="1.6"  >1.6</option><option value="WK"  >WK</option><option value="JR"  >JR</option><option value="SPP"  >SPP</option><option value="CD-C"  >CD-C</option><option value="2.4"  >2.4</option><option value="1.PT2"  >1.PT2</option><option value="1.UWT"  >1.UWT</option><option value="NE"  >NE</option><option value="1.7.1"  >1.7.1</option><option value="1.7.2"  >1.7.2</option><option value="2.5"  >2.5</option><option value="Int"  >Int</option><option value="1.WWT"  >1.WWT</option><option value="2.WWT"  >2.WWT</option><option value="HC"  >HC</option><option value="2.6"  >2.6</option><option value="1.8"  >1.8</option><option value="2.9.1"  >2.9.1</option><option value="2.9.2"  >2.9.2</option><option value="1.9.1"  >1.9.1</option><option value="1.9.2"  >1.9.2</option><option value="2.7.1"  >2.7.1</option><option value="JOJ"  >JOJ</option><option value="2.8"  >2.8</option><option value="2.7.2"  >2.7.2</option><option value="SC"  >SC</option><option value="XX"  >XX</option><option value="2.Pro"  >2.Pro</option><option value="1.Pro"  >1.Pro</option><option value="JC"  >JC</option></select></div></li>
+<li><div class="label">Category</div><div><select class="" name="category"  style=""><option value="" selected >-</option><option value="1"  >ME - Men Elite</option><option value="2"  >WE - Women Elite</option><option value="3"  >MU - Men U23</option><option value="4"  >MJ - Men Juniors</option><option value="6"  >WJ - Women Juniors</option><option value="7"  >WU - Women U23</option><option value="8"  >ME + WE</option><option value="9"  >MJ + WJ</option></select></div></li>
+<li><div class="label">Since year</div><div><input type="text" class="" name="year" value="" style="" autocomplete="off" /></div><div><select   name="pyear" class="selectOperator hide" style=" padding: 1px; "><option value="largerorequal" selected >>=</option></select><span style="display: inline-block; padding: 2px; ">(>=)</span></div></li>
+<li><div class="label">Season</div><div><input type="text" class="" name="season" value="" style="" autocomplete="off" /></div></li>
+<li><div class="label">Month</div><div><input type="text" class="" name="month" value="" style="" autocomplete="off" /></div></li>
+<li><div><input type="submit" name="filter" value="Filter" /></div></li></ul><input type="hidden" name="p" value="uci" /><input type="hidden" name="s" value="races-database" /><input type="hidden" name="contact" value="true" /><input type="hidden" name="email" value="xcak@stuba.sk" /><input type="hidden" name="project" value="VINF" /><input type="hidden" name="university" value="Slovak University of Technology" /></form>
+
+<span class="table-cont"><table class="basic"  style=""><thead><tr><th style="width: 7.7%; ">#</th><th style="width: 61.5%; ">Race</th><th style="width: 15.4%; ">Class</th><th style="width: 15.4%; ">Last edition</th></tr></thead><tbody>
+<tr ><td>1</td><td><span class="flag fr"></span> <a    href="race/rhone-alpes-isere-tour/2024/overview">Alpes Isère Tour</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>2</td><td><span class="flag az"></span> <a    href="race/aziz-shusha/2024/overview">Aziz Shusha</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>3</td><td><span class="flag rs"></span> <a    href="race/belgrade-gp-woman-tour/2024/overview">Belgrade GP Women Tour</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>4</td><td><span class="flag th"></span> <a    href="race/bueng-si-fai-international-road-race2/2024/overview">Bueng Si Fai International Road Race</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>5</td><td><span class="flag th"></span> <a    href="race/bueng-si-fai-international-women-s-road-race/2024/overview">Bueng Si Fai International Women’s Road Race</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>6</td><td><span class="flag fr"></span> <a    href="race/circuit-des-ardennes-international/2024/overview">Circuit des Ardennes</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>7</td><td><span class="flag pl"></span> <a    href="race/course-cycliste-de-solidarnosc/2024/overview">Course Cycliste de Solidarnosc et des Champions Olympiques</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>8</td><td><span class="flag al"></span> <a    href="race/tour-of-albania/2024/overview">Cycling Tour of Albania</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>9</td><td><span class="flag pl"></span> <a    href="race/dookola-mazowsza/2024/overview">Dookoła Mazowsza</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>10</td><td><span class="flag lu"></span> <a    href="race/fleche-du-sud/2024/overview">Flèche du Sud</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>11</td><td><span class="flag it"></span> <a    href="race/giro-mediterraneo-rosa/2024/overview">Giro Mediterraneo Rosa</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>12</td><td><span class="flag cz"></span> <a    href="race/gracia/2024/overview">Gracia</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>13</td><td><span class="flag pt"></span> <a    href="race/gp-internacional-beiras-e-serra-da-estrela/2024/overview">Grande Prémio Internacional Beiras e Serra da Estrela</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>14</td><td><span class="flag hr"></span> <a    href="race/istarsko-proljece-istrian-spring-trophy/2024/overview">Istarsko proljece - Istrian Spring Trophy</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>15</td><td><span class="flag jm"></span> <a    href="race/jamaica-international-cycling-classic/2024/overview">Jamaica International Cycling Classic</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>16</td><td><span class="flag pl"></span> <a    href="race/jsw-cup/2024/overview">JSW CUP</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>17</td><td><span class="flag fr"></span> <a    href="race/le-tour-de-bretagne/2024/overview">Le Tour de Bretagne Cycliste</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>18</td><td><span class="flag nz"></span> <a    href="race/tour-of-wellington/2024/overview">New Zealand Cycle Classic</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>19</td><td><span class="flag at"></span> <a    href="race/oberosterreichrundfahrt/2024/overview">Oberösterreich Rundfahrt</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>20</td><td><span class="flag nl"></span> <a    href="race/olympias-tour/2024/overview">Olympia&#039;s Tour</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>21</td><td><span class="flag pl"></span> <a    href="race/anna-vasa-race/2024/overview">Princess Anna Vasa Tour</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>22</td><td><span class="flag fr"></span> <a    href="race/ronde-de-l-oise/2024/overview">Ronde de l&#039;Oise</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>23</td><td><span class="flag mu"></span> <a    href="race/skoda-tour-de-maurice/2024/overview">Škoda Tour de Maurice</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>24</td><td><span class="flag fr"></span> <a    href="race/tour-alsace/2024/overview">Tour Alsace</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>25</td><td><span class="flag dz"></span> <a    href="race/tour-d-algerie-cycliste/2024/overview">Tour d&#039;Algérie International de Cyclisme</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>26</td><td><span class="flag fr"></span> <a    href="race/tour-d-eure-et-loir/2024/overview">Tour d&#039;Eure-et-Loir</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>27</td><td><span class="flag id"></span> <a    href="race/banyuwangi-tour-de-ijen/2024/overview">Tour de Banyuwangi Ijen</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>28</td><td><span class="flag ca"></span> <a    href="race/tour-de-beauce/2024/overview">Tour de Beauce</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>29</td><td><span class="flag cz"></span> <a    href="race/tour-de-feminin/2024/overview">Tour de Feminin</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>30</td><td><span class="flag jp"></span> <a    href="race/tour-de-kumano/2024/overview">Tour De Kumano</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>31</td><td><span class="flag pl"></span> <a    href="race/tour-de-kurpie/2024/overview">Tour de Kurpie</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>32</td><td><span class="flag fr"></span> <a    href="race/tour-de-la-mirabelle/2024/overview">Tour de la Mirabelle</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>33</td><td><span class="flag pl"></span> <a    href="race/tour-de-pologne-feminin/2024/overview">Tour de Pologne Women</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>34</td><td><span class="flag bj"></span> <a    href="race/tour-du-benin/2024/overview">Tour du Bénin</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>35</td><td><span class="flag fr"></span> <a    href="race/tour-du-loir-et-cher/2024/overview">Tour du Loir et Cher</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>36</td><td><span class="flag uz"></span> <a    href="race/tour-of-bostonliq-i/2024/overview">Tour of Bostonliq</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>37</td><td><span class="flag uz"></span> <a    href="race/tour-of-bostonliq-i-ladies/2024/overview">Tour of Bostonliq Ladies</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>38</td><td><span class="flag jp"></span> <a    href="race/tour-of-japan/2024/overview">Tour of Japan</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>39</td><td><span class="flag lt"></span> <a    href="race/tour-of-lithuania/2024/overview">Tour of Lithuania</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>40</td><td><span class="flag pl"></span> <a    href="race/tour-of-malopolska/2024/overview">Tour of Malopolska</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>41</td><td><span class="flag gr"></span> <a    href="race/tour-of-rhodes/2024/overview">Tour of Rhodes Powered by Rodos Palace</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>42</td><td><span class="flag ae"></span> <a    href="race/tour-of-sharjah/2024/overview">Tour of Sharjah</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>43</td><td><span class="flag us"></span> <a    href="race/tour-of-the-gila/2024/overview">Tour of the Gila</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>44</td><td><span class="flag us"></span> <a    href="race/silver-city-s-tour-of-the-gila-we/2024/overview">Tour of the Gila Women</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>45</td><td><span class="flag gr"></span> <a    href="race/tour-of-thessaly/2024/overview">Tour of Thessaly</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>46</td><td><span class="flag it"></span> <a    href="race/trofeo-ponente-in-rosa/2024/overview">Trofeo Ponente in Rosa</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>47</td><td><span class="flag gr"></span> <a    href="race/south-aegean-tour/2024/overview">Visit South Aegean Islands</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>48</td><td><span class="flag pt"></span> <a    href="race/volta-ao-alentejo/2024/overview">Volta ao Alentejo</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>49</td><td><span class="flag co"></span> <a    href="race/vuelta-pilsen-a-colombia/2024/overview">Vuelta a Colombia</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>50</td><td><span class="flag ar"></span> <a    href="race/vuelta-a-formosa-internacional/2024/overview">Vuelta a Formosa Internacional</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>51</td><td><span class="flag ve"></span> <a    href="race/vuelta-al-tachira/2024/overview">Vuelta al Tachira en Bicicleta</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>52</td><td><span class="flag gt"></span> <a    href="race/vuelta-bantrab/2024/overview">Vuelta Bantrab</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>53</td><td><span class="flag gt"></span> <a    href="race/vuelta-femenina-a-guatemala/2024/overview">Vuelta Ciclistica Internacional Femenina a Guatemala</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>54</td><td><span class="flag es"></span> <a    href="race/vuelta-extremadura-feminas/2024/overview">Vuelta Extremadura Féminas</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>55</td><td><span class="flag ar"></span> <a    href="race/tour-de-catamarca-internacional/2024/overview">Vuelta a Catamarca Internacional</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>56</td><td><span class="flag ar"></span> <a    href="race/vuelta-a-santiago-del-estero/2024/overview">Vuelta a Santiago del Estero</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>57</td><td><span class="flag us"></span> <a    href="race/joe-martin-stage-race-me/2024/overview">Walmart Joe Martin Stage Race</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>58</td><td><span class="flag us"></span> <a    href="race/joe-martin-stage-race-pb-nature-valley-we/2024/overview">Walmart Joe Martin Stage Race Women</a></td><td>2.2</td><td>2024</td></tr>
+<tr ><td>59</td><td><span class="flag tr"></span> <a    href="race/100th-anniversary-tour-of-the-republic/2023">100th Anniversary Tour of The Republic</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>60</td><td><span class="flag be"></span> <a    href="race/ag-tour-de-la-semois/2023">AG Tour de la Semois</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>61</td><td><span class="flag lv"></span> <a    href="race/baltic-chain-tour/2023">Baltic Chain Tour</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>62</td><td><span class="flag ba"></span> <a    href="race/banja-luka-belgrade-i/2023">Belgrade Banjaluka</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>63</td><td><span class="flag rs"></span> <a    href="race/belgrade-gp-woman-tour/2023">Belgrade GP Woman Tour</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>64</td><td><span class="flag hu"></span> <a    href="race/gp-cycliste-de-gemenc/2023">Gemenc GP</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>65</td><td><span class="flag it"></span> <a    href="race/giro-della-regione-friuli-venezia-giulia/2023">Giro della Regione Friuli Venezia Giulia</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>66</td><td><span class="flag it"></span> <a    href="race/giro-della-toscana-int.-femminile/2023">Giro Toscana Int. Femminile - Memorial Michela Fanini</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>67</td><td><span class="flag ar"></span> <a    href="race/giro-del-sol-san-juan/2023">Giro del Sol</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>68</td><td><span class="flag pt"></span> <a    href="race/gp-internacional-beiras-e-serra-da-estrela/2023">GP Beiras e Serra da Estrela</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>69</td><td><span class="flag pt"></span> <a    href="race/gp-int-torres-vedras/2023">GP Internacional Torres Vedras - Trofeu Joaquim Agostinho</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>70</td><td><span class="flag cm"></span> <a    href="race/grand-prix-chantal-biya/2023">Grand Prix Chantal Biya</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>71</td><td><span class="flag bg"></span> <a    href="race/in-the-footsteps-of-the-romans/2023">In the footsteps of the Romans</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>72</td><td><span class="flag gr"></span> <a    href="race/tour-of-rhodes/2023">International Tour of Rhodes</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>73</td><td><span class="flag my"></span> <a    href="race/jelajah-malaysia/2023/overview">Jelajah Malaysia</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>74</td><td><span class="flag tr"></span> <a    href="race/kirikkale-road-race/2023">Kırıkkale Road Race</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>75</td><td><span class="flag fr"></span> <a    href="race/kreiz-breizh-elites/2023">Kreiz Breizh Elites</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>76</td><td><span class="flag cz"></span> <a    href="race/okolo-jiznich-cech/2023">Okolo jižních Čech/Tour of South Bohemia</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>77</td><td><span class="flag nl"></span> <a    href="race/olympias-tour/2023">Olympia's Tour</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>78</td><td><span class="flag fr"></span> <a    href="race/ronde-de-l-oise/2023">Ronde de l'Oise</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>79</td><td><span class="flag fr"></span> <a    href="race/tour-cycliste-international-de-la-guadeloupe/2023">Tour Cycliste International de la Guadeloupe</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>80</td><td><span class="flag dz"></span> <a    href="race/tour-d-algerie-cycliste/2023">Tour d'Algérie International de Cyclisme</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>81</td><td><span class="flag fr"></span> <a    href="race/tour-d-eure-et-loir/2023">Tour d'Eure-et-Loir</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>82</td><td><span class="flag jp"></span> <a    href="race/tour-de-hokkaido/2023">Tour de Hokkaido</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>83</td><td><span class="flag cm"></span> <a    href="race/tour-du-cameroun/2023">Tour du Cameroun</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>84</td><td><span class="flag bf"></span> <a    href="race/tour-du-faso/2023/overview">Tour du Faso</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>85</td><td><span class="flag fr"></span> <a    href="race/tour-du-pays-de-montbeliard/2023">Tour du Pays de Montbéliard</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>86</td><td><span class="flag mr"></span> <a    href="race/tour-du-sahel/2023">Tour du Sahel</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>87</td><td><span class="flag al"></span> <a    href="race/tour-of-albania/2023">Tour of Albania</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>88</td><td><span class="flag cn"></span> <a    href="race/tour-of-binzhou/2023">Tour of Binzhou</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>89</td><td><span class="flag bg"></span> <a    href="race/tour-of-bulgaria/2023">Tour of Bulgaria</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>90</td><td><span class="flag cn"></span> <a    href="race/tour-of-huangshan/2023">Tour of Huangshan</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>91</td><td><span class="flag tr"></span> <a    href="race/tour-of-istanbul/2023">Tour of Istanbul</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>92</td><td><span class="flag xk"></span> <a    href="race/tour-of-kosovo/2023">Tour of Kosovo</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>93</td><td><span class="flag cn"></span> <a    href="race/tour-of-poyang-lake/2023">Tour of Poyang Lake</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>94</td><td><span class="flag tr"></span> <a    href="race/tour-of-sakarya/2023">Tour of Sakarya</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>95</td><td><span class="flag om"></span> <a    href="race/tour-of-salalah/2023">Tour of Salalah</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>96</td><td><span class="flag ro"></span> <a    href="race/tour-of-szeklerland/2023">Tour of Szeklerland</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>97</td><td><span class="flag us"></span> <a    href="race/silver-city-s-tour-of-the-gila-we/2023">Tour of the Gila WE</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>98</td><td><span class="flag tr"></span> <a    href="race/tour-of-van/2023">Tour of Van</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>99</td><td><span class="flag cn"></span> <a    href="race/tour-of-wenzhou-women-s-international-road-race/2023/overview">Tour of Wenzhou Women's International Road Race</a></td><td>2.2</td><td>2023</td></tr>
+<tr ><td>100</td><td><span class="flag tr"></span> <a    href="race/tour-of-yigido/2023">Tour of Yiğido</a></td><td>2.2</td><td>2023</td></tr>
+</tbody></table></span>
+</div>
+<div class="desktop-ad below-content general"></div><div class="mob-ad below-content general"></div></div><div class="page-nav default " ><ul class="menu-tree  "><li><span>Menu</span><ul><li class=" " data-pro="0" style=" "><a href="calendar/uci/year-calendar">Calendar</a></li><li class=" " data-pro="0" style=" "><a href="calendar/uci/wt-calendar-chart">WT Calendar</a></li><li class=" " data-pro="0" style=" "><a href="calendar/uci/start-finish-schedule">Start/finish schedule</a></li><li class=" " data-pro="0" style=" "><a href="calendar/uci/upcoming-races">Upcoming races</a></li><li class=" " data-pro="0" style=" "><a href="calendar/uci/latest-results">Latest results</a></li><li class="cur " data-pro="0" style=" "><a href="calendar/uci/races-database">Races database</a></li><li class=" " data-pro="0" style=" "><a href="calendar/uci/stages-database">Races/stages database</a></li><li class=" " data-pro="0" style=" "><a href="calendar/uci/calendar-changes">Calendar changes</a></li><li class=" " data-pro="0" style=" "><a href="calendar/uci/upcoming-tts">Upcoming TTs</a></li><li class=" " data-pro="0" style=" "><a href="calendar/uci/cancelled-races">Cancelled races</a></li><li class=" " data-pro="0" style=" "><a href="calendar/uci/cancelled-rescheduled-races">Cancelled rescheduled races</a></li><li class=" " data-pro="0" style=" "><a href="calendar/uci/rescheduled-races">Rescheduled races</a></li></ul></li><li><span>Startlists</span><ul><li class=" " data-pro="0" style=" "><a href="calendar/uci/top-100-riders-startlist-changes">Top-100 riders program changes</a></li><li class=" " data-pro="0" style=" "><a href="calendar/uci/startlist-changes-all-races">Startlist changes</a></li><li class=" " data-pro="0" style=" "><a href="calendar/uci/startlist-quality">Startlist quality</a></li></ul></li><li><span>Live</span><ul><li class=" " data-pro="0" style=" "><a href="calendar/uci/livestats">LiveStats schedule</a></li></ul></li></ul></div><div style="clear: both; "></div>  
+  </div>
+  </center>
+  <div class="push"></div>
+</div>
+<div class="footer">
+  <div class="sfa"><ul class="ftr-list"><li class="group"><h3>Grand Tours</h3><ul><li><a href="race/tour-de-france">Tour de France</a></li>
+<li><a href="race/giro-d-italia">Giro d'Italia</a></li>
+<li><a href="race/vuelta-a-espana">Vuelta a España</a></li>
+</ul><h3>Major Tours</h3><ul><li><a href="race/paris-nice">Paris-Nice</a></li>
+<li><a href="race/tirreno-adriatico">Tirreno-Adriatico</a></li>
+<li><a href="race/volta-a-catalunya">Volta a Catalunya</a></li>
+<li><a href="race/tour-de-romandie">Tour de Romandie</a></li>
+<li><a href="race/tour-de-suisse">Tour de Suisse</a></li>
+<li><a href="race/dauphine">Critérium du Dauphiné</a></li>
+<li><a href="race/itzulia-basque-country">Itzulia Basque Country</a></li>
+</ul></li>
+<li class="group"><h3>Monuments</h3><ul><li><a href="race/milano-sanremo">Milano-SanRemo</a></li>
+<li><a href="race/ronde-van-vlaanderen">Ronde van Vlaanderen</a></li>
+<li><a href="race/paris-roubaix">Paris-Roubaix</a></li>
+<li><a href="race/liege-bastogne-liege">Liège-Bastogne-Liège</a></li>
+<li><a href="race/il-lombardia">Il Lombardia</a></li>
+</ul><h3>Championships</h3><ul><li><a href="race/world-championship">World Championships</a></li>
+<li><a href="race/uec-road-european-championships">European championships</a></li>
+</ul></li>
+<li class="group"><h3>Top classics</h3><ul><li><a href="race/omloop-het-nieuwsblad">Omloop Het Nieuwsblad</a></li>
+<li><a href="race/strade-bianche">Strade Bianche</a></li>
+<li><a href="race/e3-harelbeke">E3 Classic</a></li>
+<li><a href="race/gent-wevelgem">Gent-Wevelgem</a></li>
+<li><a href="race/dwars-door-vlaanderen">Dwars door vlaanderen</a></li>
+<li><a href="race/eschborn-frankfurt">Eschborn-Frankfurt</a></li>
+<li><a href="race/amstel-gold-race">Amstel Gold Race</a></li>
+<li><a href="race/la-fleche-wallone">La Flèche Wallonne</a></li>
+<li><a href="race/san-sebastian">San Sebastian</a></li>
+<li><a href="race/bretagne-classic">Bretagne Classic</a></li>
+<li><a href="race/gp-quebec">GP Québec</a></li>
+<li><a href="race/gp-montreal">GP Montréal</a></li>
+</ul></li>
+<li class="group"><h3>Popular riders</h3><ul><li><a href="rider/tadej-pogacar">Tadej Pogačar</a></li>
+<li><a href="rider/wout-van-aert">Wout van Aert</a></li>
+<li><a href="rider/remco-evenepoel">Remco Evenepoel</a></li>
+<li><a href="rider/jonas-vingegaard-rasmussen">Jonas Vingegaard</a></li>
+<li><a href="rider/mathieu-van-der-poel">Mathieu van der Poel</a></li>
+<li><a href="rider/biniam-girmay">Biniam Girmay</a></li>
+<li><a href="rider/peter-sagan">Peter Sagan</a></li>
+<li><a href="rider/annemiek-van-vleuten">Annemiek van Vleuten</a></li>
+<li><a href="rider/elisa-longo-borghini">Elisa Longo Borghini</a></li>
+<li><a href="rider/katarzyna-niewiadoma">Katarzyna Niewiadoma</a></li>
+</ul></li>
+<li class="group"><h3>Statistics</h3><ul><li><a href="statistics/start/points-per-age">Points per age</a></li>
+<li><a href="statistics/start/latest-injuries">Latest injuries</a></li>
+<li><a href="statistics/riders/youngest-riders">Youngest riders</a></li>
+<li><a href="statistics/grandtours">Grand tour statistics</a></li>
+<li><a href="statistics/monuments">Monument classics</a></li>
+<li><a href="teams/transfers">Latest transfers</a></li>
+<li><a href="favorite500">Favorite 500</a></li>
+</ul><h3>Rankings</h3><ul><li><a href="rankings.php">PCS ranking</a></li>
+<li><a href="rankings/me/uci-individual">UCI World Ranking</a></li>
+<li><a href="rankings/me/all-time">Alltime</a></li>
+</ul></li>
+<li class="group"><h3>Info</h3><ul><li><a href="info/point-scales">Points scales</a></li>
+<li><a href="info/profile-score-explained">Profile scores</a></li>
+<li><a href="reset_password.php">Reset password</a></li>
+<li><a href="info/pcs-game">PCS game</a></li>
+<li><a href="info/procyclinggame">ProCyclingGame</a></li>
+</ul><h3>About ProCyclingStats</h3><ul><li><a href="info/about-us">About us</a></li>
+<li><a href="info/contact">Contact us</a></li>
+<li><a href="info/cookie-policy">Cookie policy</a></li>
+<li><a href="info/sitemap">Sitemap</a></li>
+<li><a href="info/contributions">Contributions</a></li>
+<li><span>Pageload 0.1916s</span></li>
+</ul></li>
+</ul><input type="hidden" id="pageid" value="2004" /><input type="hidden" id="userid" value="0" />
+	</div>
+</div> 
+ 
+ </body></html>
+<script src="search_list7.js"></script>  

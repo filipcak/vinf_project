@@ -9,6 +9,12 @@ from org.apache.lucene.index import IndexOptions, IndexWriter, IndexWriterConfig
 from org.apache.lucene.store import MMapDirectory
 from org.apache.lucene.search import IndexSearcher
 from org.apache.lucene.queryparser.classic import QueryParser
+from org.apache.lucene.search import BooleanClause, BooleanQuery, TermQuery
+from org.apache.lucene.index import DirectoryReader
+from org.apache.lucene.store import MMapDirectory
+from org.apache.lucene.queryparser.classic import QueryParser
+from org.apache.lucene.analysis.core import KeywordAnalyzer
+from org.apache.lucene.index import Term
 
 
 class Indexer:
@@ -90,6 +96,19 @@ class Indexer:
         query = parser.parse(race_name)
 
         records = searcher.search(query, 1500).scoreDocs
+
+        boolean_query = BooleanQuery.Builder()
+
+        # Specify the fields and terms you want to search for
+        title_query = TermQuery(Term("title", "Volta Ciclista a Catalunya"))
+        year_query = TermQuery(Term("year", "2022"))
+
+        # Add the queries to the BooleanQuery
+        boolean_query.add(title_query, BooleanClause.Occur.MUST)
+        boolean_query.add(year_query, BooleanClause.Occur.MUST)
+
+        # Perform the search
+        records = searcher.search(boolean_query.build(), 1000).scoreDocs
 
         # iterate through results:
         for record in records:

@@ -1,6 +1,7 @@
 import lucene
 import pandas as pd
 import os
+from datetime import datetime
 
 from java.nio.file import Paths
 from org.apache.lucene.analysis.core import KeywordAnalyzer
@@ -9,7 +10,7 @@ from org.apache.lucene.index import IndexOptions, IndexWriter, IndexWriterConfig
 from org.apache.lucene.store import MMapDirectory
 from org.apache.lucene.search import IndexSearcher
 from org.apache.lucene.queryparser.classic import QueryParser
-from org.apache.lucene.search import BooleanClause, BooleanQuery, TermQuery
+from org.apache.lucene.search import BooleanClause, BooleanQuery, TermQuery, TermRangeQuery
 from org.apache.lucene.index import DirectoryReader
 from org.apache.lucene.store import MMapDirectory
 from org.apache.lucene.queryparser.classic import QueryParser
@@ -21,7 +22,7 @@ class Indexer:
     def __init__(self):
         self.enviroment = lucene.initVM(vmargs=['-Djava.awt.headless=true'])
         self.directory = MMapDirectory(Paths.get('index'))
-        self.parsed_data_path = "/workspaces/vinf_project/parsed/test_data.csv"
+        self.parsed_data_path = "/workspaces/vinf_project/parsed/merged.csv"
         self.analyzer = KeywordAnalyzer()
         self.index_folder = '/workspaces/vinf_project/index'
 
@@ -70,8 +71,9 @@ class Indexer:
                 doc = Document()
 
                 # add fields
-                # row 0 - title (name of the race), row 1 - year, row 9 - departure (place), row 10 - arrival (place)
-                for i in [0, 1, 9, 10]:
+                # row 0 - title (name of the race), row 1 - year, row 9 - arrival (place), -1 - elevation
+                # row 15 - stage, row 16 - winner, row 2 - date, row 5 - distance
+                for i in [0, 1, 9, -1, 15, 16, 2, 5]:
                     column_name = csv_data.columns[i]
                     doc.add(Field(column_name, str(row[column_name]), field_type))
 
@@ -86,37 +88,55 @@ class Indexer:
             print(f"An error occurred: {str(e)}")
 
     def search(self):
+        year = 1875
+        elevation_start = 9000
+        elevation_end = 9000
         reader = DirectoryReader.open(self.directory)
         searcher = IndexSearcher(reader)
 
-        parser = QueryParser("title", KeywordAnalyzer())
-        # get race name from user 
-        print("potential races: Tour de France, Giro d'Italia, Vuelta a España, Okolo Slovenska,... ")
-        race_name = input("Enter the name of the race: ")
-        query = parser.parse(race_name)
-
-        records = searcher.search(query, 1500).scoreDocs
+        # get year and elevation from user
+        while year < 1876 or year > datetime.now().year:
+            print("The year must be between 1876 and ", datetime.now().year, "ideally between 1900 and ", datetime.now().year)
+            try:
+                year = int(input("Type what year do you want to search for: "))
+            except ValueError:
+                print("The year must be a number")
+        while elevation_start < 0 or elevation_start > 3000:
+            print("The elevation must be between 0 annd 3000")
+            try:
+                elevation_start = int(input("Type what elevation START range do you want to seach for: "))
+            except ValueError:
+                print("The elevation must be a number")
+        while elevation_end < 0 or elevation_end > 3000:
+            print("The elevation must be between 0 and 3000")
+            try:
+                elevation_end = int(input("Type what elevation END range do you want to seach for: "))
+            except ValueError:
+                print("The elevation must be a number")
 
         boolean_query = BooleanQuery.Builder()
 
-        # Specify the fields and terms you want to search for
-        title_query = TermQuery(Term("title", "Volta Ciclista a Catalunya"))
-        year_query = TermQuery(Term("year", "2022"))
+        # specify the fields and terms you want to search for
+        title_query = TermQuery(Term("year", str(year)))
+        year_query = TermRangeQuery.newStringRange("elevation", str(elevation_start), str(elevation_end), True, True)
 
-        # Add the queries to the BooleanQuery
+        # add the queries to the BooleanQuery
         boolean_query.add(title_query, BooleanClause.Occur.MUST)
         boolean_query.add(year_query, BooleanClause.Occur.MUST)
 
-        # Perform the search
+        # perform the search
         records = searcher.search(boolean_query.build(), 1000).scoreDocs
 
-        # iterate through results:
-        for record in records:
-            recordDoc = searcher.doc(record.doc)
-            if recordDoc['departure'] != 'nan':
-                print(recordDoc['title'], recordDoc['year'], "departure: ", recordDoc['departure'])
+        if len(records) == 0:
+            print("No results found")
+        else:
+            # iterate through results:
+            for record in records:
+                record_doc = searcher.doc(record.doc)
+                print(record_doc['title'], record_doc['stageNumber'], "distance: ", record_doc['distance'],
+                      "vertical metres -", record_doc['elevation'], "in arrival city:", record_doc['arrival'])
 
-        print('Number of results found for the race',len(records))
+        print('Number of results found: ', len(records))
 
 
 if __name__ == '__main__':

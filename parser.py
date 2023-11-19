@@ -4,6 +4,10 @@ import re
 import csv
 import pandas as pd
 
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import col, regexp_extract
+
+
 class Parser:
     def __init__(self):
         self.folder_path = 'data/'
@@ -17,8 +21,12 @@ class Parser:
         with open('regex.json', 'r', encoding='utf-8') as json_file:
             self.regex = json.load(json_file)
         self.path_cycling = "data_cycling.csv"
-        self.path_wiki = "data_wiki.csv"
+        self.path_wiki_regex = "wiki_data.csv"
+        self.path_wiki = "wiki_spark.csv"
+        # wiki/enwiki-latest-pages-articles.xml
+        self.path_wiki_data = "wiki_test/enwiki-articles1.xml"
         self.path_merged = "merged.csv"
+        self.wiki_parsed = "parsed/spark"
 
     # parse data from downloaded pages
     def parse(self):
@@ -94,7 +102,7 @@ class Parser:
                     # regex to find name ( city name ) - {{Infobox settlement\s*\|\s*name\s*=\s*([^|\n|&]*)
                     # regex to find elevation -  {Infobox settlement[^*]*elevation_m\s*=\s*(\d+)
                     # regex to get those information together
-                    regex_together = re.findall("{{Infobox settlement\s*\|\s*name\s*=\s*([^|\n|&]*)[^*]*elevation_m\s*=\s*(\d+)",
+                    regex_together = re.findall("{{Infobox settlement\s*\|\s*name\s*=\s*([^|,<\n|&]*)[^*]*elevation_m\s*=\s*(\d+)",
                                                 file_contents)
                     for i in regex_together:
                         # dictionary to store in csv
@@ -103,6 +111,30 @@ class Parser:
                         row = {'arrival': i[0], 'elevation': i[1]}
                         # for each file append to data_list to store at the end to csv file
                         self.data_list.append(row)
+
+    # parse wiki data with spark
+    def wiki_spark_parser(self):
+        # initialize spark session
+        spark = SparkSession.builder.appName("XML").getOrCreate()
+        # load page to dataframe
+        df = spark.read.format("xml").option("rowTag", "page").load(self.path_wiki_data)
+        # extract the text field from the xml
+        df = df.select("title", "revision.text._VALUE")
+        # rename the column for easier access
+        df = df.withColumnRenamed("_VALUE", "text")
+
+        parsed_df = df\
+            .withColumn("arrival", regexp_extract("text", r'Infobox settlement\s*\|\s*name\s*=\s*([^|,<\n|&]*)', 1))\
+            .withColumn("elevation", regexp_extract("text", r'elevation_m\s*=\s*(\d+)', 1))
+        # drop rows with empty values
+        filtered_df = parsed_df.filter((col("arrival") != '') & (col("elevation") != ''))
+        # select only arrival and elevation columns
+        select_df = filtered_df.select("arrival", "elevation")
+
+        # save to csv
+        select_df.coalesce(1).write.csv(self.wiki_parsed, header=True, mode="overwrite")
+        # stop the spark session
+        spark.stop()
 
     # merge files from procyclingstats and wiki
     def merge(self):
@@ -113,15 +145,17 @@ class Parser:
 
         merged_df = pd.merge(df1, df2, on="arrival", how="left")
         # save the merged DataFrame to a new CSV file
-        merged_df.to_csv(f"{self.csv_file_path}merged.csv", index=False)
+        merged_df.to_csv(f"{self.csv_file_path}{self.path_merged}", index=False)
 
     def run(self, type_run):
         if type_run == "procyclingstats":
             self.parse()
             self.save_to_csv(self.path_cycling)
         elif type_run == "wiki":
+            self.wiki_spark_parser()
+        elif type_run == "wiki_regex":
             self.wiki_parser()
-            self.save_to_csv(self.path_wiki)
+            self.save_to_csv(self.path_wiki_regex)
         elif type_run == "merge":
             self.merge()
         else:
@@ -129,4 +163,4 @@ class Parser:
 
 
 if __name__ == '__main__':
-    Parser().run(type_run="merge")
+    Parser().run(type_run="wiki")

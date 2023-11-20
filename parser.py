@@ -138,38 +138,32 @@ class Parser:
 
     # parse wiki data with spark
     def wiki_spark_parser_v2(self):
-        # Initialize Spark session
+        # initialize Spark session
         spark = SparkSession.builder.appName("XML").getOrCreate()
-
-        # Load page to DataFrame
+        # load page to dataframe
         df = spark.read.format("xml").option("rowTag", "page").load(self.path_wiki_data)
-
-        # Extract the text field from the XML
+        # extract the text field from the xml
         df = df.select("title", "revision.text._VALUE")
+        # rename the column for easier access
         df = df.withColumnRenamed("_VALUE", "text")
 
-        # Convert DataFrame to RDD for custom processing
+        # convert dataframe to RDD for processing
         rdd = df.rdd
-
-        # Use map with lambda to apply a function to each row
+        # use map with lambda to apply a function to each row
         parsed_rdd = rdd.map(lambda row: (
             re.findall(r'{{Infobox settlement\s*\|\s*name\s*=\s*([^|,<\n|&]*)[^*]*elevation_m\s*=\s*(\d+)',
                        row.text) if row.text else [('', '')]
         ))
-
-        # Flatten the list of tuples
         parsed_rdd = parsed_rdd.flatMap(lambda x: x)
 
-        # Convert the resulting RDD to a DataFrame
+        # convert the resulting RDD to a dataframe
         result_df = spark.createDataFrame(parsed_rdd, ["arrival", "elevation"])
-
-        # Filter out rows with empty values
+        # filter out rows with empty values
         result_df = result_df.filter(col("arrival") != '').filter(col("elevation") != '')
 
-        # Save the result to a CSV file
+        # save to csv
         result_df.coalesce(1).write.csv(self.wiki_parsed, header=True, mode="overwrite")
-
-        # Stop the Spark session
+        # stop the spark session
         spark.stop()
 
     # merge files from procyclingstats and wiki

@@ -5,7 +5,7 @@ import csv
 import pandas as pd
 
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import col, regexp_extract
+from pyspark.sql.functions import col, regexp_extract, lit, when
 
 
 class Parser:
@@ -24,9 +24,9 @@ class Parser:
         self.path_wiki_regex = "wiki_data.csv"
         self.path_wiki = "wiki_spark.csv"
         # wiki/enwiki-latest-pages-articles.xml
-        self.path_wiki_data = "wiki_test/enwiki-articles1.xml"
+        self.path_wiki_data = "wiki/enwiki-latest-pages-articles.xml"
         self.path_merged = "merged.csv"
-        self.wiki_parsed = "parsed/spark"
+        self.wiki_parsed = "parsed/sparkv2"
 
     # parse data from downloaded pages
     def parse(self):
@@ -136,6 +136,42 @@ class Parser:
         # stop the spark session
         spark.stop()
 
+    # parse wiki data with spark
+    def wiki_spark_parser_v2(self):
+        # Initialize Spark session
+        spark = SparkSession.builder.appName("XML").getOrCreate()
+
+        # Load page to DataFrame
+        df = spark.read.format("xml").option("rowTag", "page").load(self.path_wiki_data)
+
+        # Extract the text field from the XML
+        df = df.select("title", "revision.text._VALUE")
+        df = df.withColumnRenamed("_VALUE", "text")
+
+        # Convert DataFrame to RDD for custom processing
+        rdd = df.rdd
+
+        # Use map with lambda to apply a function to each row
+        parsed_rdd = rdd.map(lambda row: (
+            re.findall(r'{{Infobox settlement\s*\|\s*name\s*=\s*([^|,<\n|&]*)[^*]*elevation_m\s*=\s*(\d+)',
+                       row.text) if row.text else [('', '')]
+        ))
+
+        # Flatten the list of tuples
+        parsed_rdd = parsed_rdd.flatMap(lambda x: x)
+
+        # Convert the resulting RDD to a DataFrame
+        result_df = spark.createDataFrame(parsed_rdd, ["arrival", "elevation"])
+
+        # Filter out rows with empty values
+        result_df = result_df.filter(col("arrival") != '').filter(col("elevation") != '')
+
+        # Save the result to a CSV file
+        result_df.coalesce(1).write.csv(self.wiki_parsed, header=True, mode="overwrite")
+
+        # Stop the Spark session
+        spark.stop()
+
     # merge files from procyclingstats and wiki
     def merge(self):
         # load cycling data
@@ -152,7 +188,7 @@ class Parser:
             self.parse()
             self.save_to_csv(self.path_cycling)
         elif type_run == "wiki":
-            self.wiki_spark_parser()
+            self.wiki_spark_parser_v2()
         elif type_run == "wiki_regex":
             self.wiki_parser()
             self.save_to_csv(self.path_wiki_regex)

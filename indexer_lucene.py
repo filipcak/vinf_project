@@ -104,14 +104,14 @@ class Indexer:
                 year = int(input("Type what year do you want to search for: "))
             except ValueError:
                 print("The year must be a number")
-        while elevation_start < 0 or elevation_start > 3000:
-            print("The elevation must be between 0 annd 3000")
+        while elevation_start < 0 or elevation_start > 3200:
+            print("The elevation must be between 0 and 3200")
             try:
                 elevation_start = int(input("Type what elevation START range do you want to seach for: "))
             except ValueError:
                 print("The elevation must be a number")
-        while elevation_end < 0 or elevation_end > 3000:
-            print("The elevation must be between 0 and 3000")
+        while (elevation_end < 0 or elevation_end > 3200) and elevation_start <= elevation_end:
+            print("The elevation must be between 0 and 3200")
             try:
                 elevation_end = int(input("Type what elevation END range do you want to seach for: "))
             except ValueError:

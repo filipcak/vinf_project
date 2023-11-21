@@ -2,8 +2,8 @@ import os
 import json
 import re
 import csv
-import pandas as pd
-
+import sys
+from merge import DataMerger
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, regexp_extract
 
@@ -23,10 +23,8 @@ class Parser:
         self.path_cycling = "data_cycling.csv"
         self.path_wiki_regex = "wiki_data.csv"
         self.path_wiki = "wiki_spark.csv"
-        # wiki/enwiki-latest-pages-articles.xml
         self.path_wiki_data = "wiki/enwiki-latest-pages-articles.xml"
-        self.path_merged = "merged.csv"
-        self.wiki_parsed = "parsed/sparkv2"
+        self.wiki_parsed = "parsed/spark"
 
     # parse data from downloaded pages
     def parse(self):
@@ -166,31 +164,27 @@ class Parser:
         # stop the spark session
         spark.stop()
 
-    # merge files from procyclingstats and wiki
-    def merge(self):
-        # load cycling data
-        df1 = pd.read_csv(f"{self.csv_file_path}{self.path_cycling}")
-        # load wiki data
-        df2 = pd.read_csv(f"{self.csv_file_path}{self.path_wiki}")
-
-        merged_df = pd.merge(df1, df2, on="arrival", how="left")
-        # save the merged DataFrame to a new CSV file
-        merged_df.to_csv(f"{self.csv_file_path}{self.path_merged}", index=False)
-
-    def run(self, type_run):
-        if type_run == "procyclingstats":
-            self.parse()
-            self.save_to_csv(self.path_cycling)
-        elif type_run == "wiki":
-            self.wiki_spark_parser_v2()
-        elif type_run == "wiki_regex":
-            self.wiki_parser()
-            self.save_to_csv(self.path_wiki_regex)
-        elif type_run == "merge":
-            self.merge()
+    def run(self):
+        # user input - if p - parse, if m - merge, else - exit
+        user_input = sys.argv[1] if len(sys.argv) > 1 else None
+        # user_input_type - if procyclingstats - parse procyclingstats, if wiki - parse wiki, else - exit
+        user_input_type = sys.argv[2] if len(sys.argv) > 2 else None
+        if user_input == "p":
+            if user_input_type == "procyclingstats":
+                self.parse()
+                self.save_to_csv(self.path_cycling)
+                print("Parsed procyclingstats.")
+            elif user_input_type == "wiki":
+                self.wiki_spark_parser_v2()
+                print("Parsed wiki.")
+            else:
+                print("Wrong type, will not parse.")
+        elif user_input == "m":
+            DataMerger().run()
+            print("Merged.")
         else:
-            print("wrong type")
+            print("Will not merge or parse.")
 
 
 if __name__ == '__main__':
-    Parser().run(type_run="wiki")
+    Parser().run()

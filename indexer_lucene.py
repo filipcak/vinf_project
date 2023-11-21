@@ -4,16 +4,12 @@ import os
 from datetime import datetime
 
 from java.nio.file import Paths
-from org.apache.lucene.analysis.core import KeywordAnalyzer
 from org.apache.lucene.document import Document, Field, FieldType
 from org.apache.lucene.index import IndexOptions, IndexWriter, IndexWriterConfig, DirectoryReader
-from org.apache.lucene.store import MMapDirectory
 from org.apache.lucene.search import IndexSearcher
-from org.apache.lucene.queryparser.classic import QueryParser
 from org.apache.lucene.search import BooleanClause, BooleanQuery, TermQuery, TermRangeQuery
 from org.apache.lucene.index import DirectoryReader
 from org.apache.lucene.store import MMapDirectory
-from org.apache.lucene.queryparser.classic import QueryParser
 from org.apache.lucene.analysis.core import KeywordAnalyzer
 from org.apache.lucene.index import Term
 
